@@ -6,7 +6,7 @@ This repository contains automatically generated libraries for a range of parts 
 
 Component information is pulled from JLCPCB's website, parsed into an intermediate JSON format, and a SchLib file is directly generated using my unreleased .NET library for Altium documents.
 
-I have generated a SchLib files that contain entries for all 0402, 0603, and 0805 resistors and capacitors in the JLCPCB Basic Parts catalogue. This saves a lot of the manual usually required to create the parts.
+I have generated a SchLib files that contain entries for all 0402, 0603, and 0805 resistors and capacitors in the JLCPCB Basic Parts catalogue. At time of writing, this totals 365 parts. This saves a lot of the manual usually required to create the parts.
 
 ## Common Parameters
 
