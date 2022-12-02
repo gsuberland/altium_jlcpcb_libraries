@@ -2,7 +2,7 @@
 
 This repository contains automatically generated libraries for a range of parts in JLCPCB's catalogue.
 
-![preview](.\preview.png)
+![preview](preview.png)
 
 Component information is pulled from JLCPCB's website, parsed into an intermediate JSON format, and a SchLib file is directly generated using my unreleased .NET library for Altium documents.
 
