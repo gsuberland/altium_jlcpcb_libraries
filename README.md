@@ -10,7 +10,7 @@ The current library files are:
 
 	- `jlcpcb_basic_resistors.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (approximately 256 parts)
 	- `jlcpcb_basic_capacitors.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (approximately 109 parts)
-	- `jlcpcb_extended_capacitors.schlib` - All MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 in the JLCPCB extended parts catalogue (approximately 10148 parts)
+	- `jlcpcb_extended_capacitors.schlib` - All MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 in the JLCPCB extended parts catalogue, excluding parts that were out of stock at the time of generation (approximately 10148 parts)
 
 ## Common Parameters
 
