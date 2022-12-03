@@ -1,6 +1,6 @@
 # Altium Libraries for JLCPCB Parts
 
-This repository contains automatically generated libraries for a range of parts in JLCPCB's catalogue.
+This repository contains automatically generated libraries for a range of parts in JLCPCB's catalogue. These libraries contain schematic design items for more than 55000 parts.
 
 ![preview](preview.png)
 
@@ -8,9 +8,16 @@ Component information is pulled from JLCPCB's website, parsed into an intermedia
 
 The current library files are:
 
- - `jlcpcb_basic_resistors.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (approximately 256 parts)
- - `jlcpcb_basic_capacitors.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (approximately 109 parts)
- - `jlcpcb_extended_capacitors.schlib` - All MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 in the JLCPCB extended parts catalogue, excluding parts that were out of stock at the time of generation (approximately 10148 parts)
+ - `jlcpcb_resistors_basic.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (approximately 256 parts)
+ - `jlcpcb_capacitors_basic.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (approximately 109 parts)
+ - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for chip resistors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (approximately 44387 parts total)
+ - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (approximately 10723 parts total)
+
+Extended parts libraries are split up into separate SchLib files per package size because a combined SchLib file is too large and takes more than an hour to open.
+
+## Warning
+
+These schematic library files are **automatically generated**. The accuracy of the data is limited to the accuracy of the JLCPCB and LCSC parametric data. Always double check parametric data with the datasheet before assuming that a part is suitable for your needs.
 
 ## Common Parameters
 
