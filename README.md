@@ -1,10 +1,10 @@
 # Altium Libraries for JLCPCB Parts
 
-This repository contains automatically generated libraries for a range of parts in JLCPCB's catalogue. These libraries contain schematic design items for more than 55000 parts.
+This repository contains automatically generated schematic libraries for a range of parts in JLCPCB's catalogue. In total this repository contains over 55000 parts.
 
 ![preview](preview.png)
 
-Component information is pulled from JLCPCB's website, parsed into an intermediate JSON format, and a SchLib file is directly generated using my unreleased .NET library for Altium documents.
+Component information is pulled from JLCPCB's website, LCSC's metadata, and [yaqwsx's parametric search](https://yaqwsx.github.io/jlcparts/), is parsed into an intermediate JSON format, and a SchLib file is directly generated using my unreleased .NET library for Altium documents.
 
 The current library files are:
 
@@ -19,7 +19,11 @@ Extended parts libraries are split up into separate SchLib files per package siz
 
 These schematic library files are **automatically generated**. The accuracy of the data is limited to the accuracy of the JLCPCB and LCSC parametric data. Always double check parametric data with the datasheet before assuming that a part is suitable for your needs.
 
-## Common Parameters
+## Parametric Information
+
+Each part has parametric information filled out, based on the API data from JLCPCB and LCSC.
+
+### Common Parameters
 
 All parts have the following parameters set:
 
@@ -34,7 +38,7 @@ All parts have the following parameters set:
 
 Each component references a footprint named with the format `TYPE-SIZE`, e.g. `RES-0603` or `CAP-0805`, in any loaded library. All you need is a PcbLib with those three footprints (you can create them with the IPC Footprint Wizard if you don't already have suitable ones) and they'll automatically be picked up from there within your project.
 
-## Resistors
+### Resistors
 
 Each resistor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data, in addition to the common parameters:
 
@@ -45,7 +49,7 @@ Each resistor has the following parameters populated if they are present in the 
 - Temperature Rating
 - Temperature Coefficient
 
-## Capacitors
+### Capacitors
 
 Each capacitor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data:
 
@@ -55,3 +59,12 @@ Each capacitor has the following parameters populated if they are present in the
 - Temperature Coefficient
 - Temperature Rating
 
+## License
+
+All schematic library files in this repository are released into the public domain.
+
+## Support / Donations
+
+I have had a few people ask if I take donations for this work. I don't have anything set up right now, but if you want to support this project you can take a look at my parody warning stickers over at [Unsafe Warnings](https://www.etsy.com/shop/UnsafeWarnings/).
+
+The creation of these libraries wouldn't be possible without [yaqwsx's JLCPCB parametric search project](https://yaqwsx.github.io/jlcparts/), so please check it out and consider sending him a few buckaroos via his Ko-Fi link.
