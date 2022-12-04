@@ -1,6 +1,6 @@
 # Altium Libraries for JLCPCB Parts
 
-This repository contains automatically generated schematic libraries for a range of parts in JLCPCB's catalogue. In total this repository contains over 55000 parts.
+This repository contains automatically generated schematic libraries for a range of parts in JLCPCB's catalogue. In total this repository contains over 60000 parts.
 
 ![preview](preview.png)
 
@@ -8,16 +8,20 @@ Component information is pulled from JLCPCB's website, LCSC's metadata, and [yaq
 
 The current library files are:
 
- - `jlcpcb_resistors_basic.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (approximately 256 parts)
- - `jlcpcb_capacitors_basic.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (approximately 109 parts)
- - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for chip resistors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (approximately 44387 parts total)
- - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (approximately 10723 parts total)
+ - `jlcpcb_resistors_basic.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (291 parts)
+ - `jlcpcb_capacitors_basic.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (134 parts)
+ - `jlcpcb_inductors_basic.schlib` - All 0402, 0603, and 0805 package inductors in the JLCPCB basic parts catalogue (13 parts)
+ - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for chip resistors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (45185 parts total)
+ - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (11079 parts total)
+ - `jlcpcb_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for chip inductors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (4054 parts total)
 
 Extended parts libraries are split up into separate SchLib files per package size because a combined SchLib file is too large and takes more than an hour to open.
 
 ## Warning
 
 These schematic library files are **automatically generated**. The accuracy of the data is limited to the accuracy of the JLCPCB and LCSC parametric data. Always double check parametric data with the datasheet before assuming that a part is suitable for your needs.
+
+I provide no warranty as to the validity, accuracy, or correctness of the parts within these libraries. Use them at your own risk.
 
 ## Parametric Information
 
@@ -33,10 +37,13 @@ All parts have the following parameters set:
 - Manufacturer Part Number
 - JLCPCB Part Number
 - JLCPCB Basic Part ("Yes" or "No")
+- Description
 - Package Size
 - Category
+- RoHS
 - Datasheet link
 - JLCPCB Part URL link
+- LCSC Part URL link
 
 ### Resistors
 
@@ -49,9 +56,11 @@ Each resistor has the following parameters populated if they are present in the 
 - Temperature Rating
 - Temperature Coefficient
 
+Resistor footprints are named `RES-[SIZE]`, e.g. `RES-0805`.
+
 ### Capacitors
 
-Each capacitor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data:
+Each capacitor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data, in addition to the common parameters:
 
 - Capacitance
 - Tolerance
@@ -59,9 +68,25 @@ Each capacitor has the following parameters populated if they are present in the
 - Temperature Coefficient
 - Temperature Rating
 
+Capacitor footprints are named `CAP-[SIZE]`, e.g. `CAP-0805`.
+
+### Inductors
+
+Each inductor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data, in addition to the common parameters:
+
+- Inductance
+- Tolerance
+- Rated Current
+- Saturation Current
+- DC Resistance
+- Self-Resonant Frequency
+- Q Factor
+
+Inductor footprints are named `IND-[SIZE]`, e.g. `IND-0805`.
+
 ## Footprints
 
-Each component references a footprint named with the format `TYPE-SIZE`, e.g. `RES-0603` or `CAP-0805`. These footprint references are configured to be sourced from any library, so you can create an appropriate footprint with the correct name in any PcbLib in your project and Altium will automatically pick it up and use it for every single part of that type and size.
+Each component references a footprint named with the format `TYPE-SIZE`, e.g. `RES-0603` or `IND-0805`. These footprint references are configured to be sourced from any library, so you can create an appropriate footprint with the correct name in any PcbLib in your project and Altium will automatically pick it up and use it for every single part of that type and size.
 
 Footprints are **not included** in this repository - this is a conscious choice. Even though the component package sizes are standardised, each PCB designer has their own specific preferences and requirements in terms of exact footprint specifications.
 
@@ -101,8 +126,6 @@ Out of an abundance of caution, I have taken care to ensure that consistent pred
 ## License
 
 All schematic library files in this repository are released into the public domain.
-
-I provide no warranty as to the validity, accuracy, or correctness of the parts within these libraries. Use them at your own risk.
 
 ## Support / Donations
 
