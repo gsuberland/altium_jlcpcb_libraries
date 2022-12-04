@@ -8,12 +8,14 @@ Component information is pulled from JLCPCB's website, LCSC's metadata, and [yaq
 
 The current library files are:
 
- - `jlcpcb_resistors_basic.schlib` - All 0402, 0603, and 0805 package resistors in the JLCPCB basic parts catalogue (291 parts)
- - `jlcpcb_capacitors_basic.schlib` - All 0402, 0603, and 0805 package capacitors in the JLCPCB basic parts catalogue (134 parts)
- - `jlcpcb_inductors_basic.schlib` - All 0402, 0603, and 0805 package inductors in the JLCPCB basic parts catalogue (13 parts)
- - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for chip resistors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (45185 parts total)
- - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (11079 parts total)
- - `jlcpcb_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for chip inductors in package sizes 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910 from the in-stock JLCPCB extended parts catalogue (4054 parts total)
+ - `jlcpcb_resistors_basic.schlib` - All standard sized SMD chip package resistors in the JLCPCB basic parts catalogue (291 parts)
+ - `jlcpcb_capacitors_basic.schlib` - All standard sized SMD chip package capacitors in the JLCPCB basic parts catalogue (134 parts)
+ - `jlcpcb_inductors_basic.schlib` - All standard sized SMD chip package inductors in the JLCPCB basic parts catalogue (13 parts)
+ - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for resistors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (45185 parts total)
+ - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (11079 parts total)
+ - `jlcpcb_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for inductors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (4054 parts total)
+
+Standard sized SMD chip packages included in these libraries are: 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910.
 
 Extended parts libraries are split up into separate SchLib files per package size because a combined SchLib file is too large and takes more than an hour to open.
 
