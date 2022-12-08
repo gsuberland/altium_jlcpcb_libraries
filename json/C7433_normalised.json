@@ -1,0 +1,532 @@
+{
+  "lcsc_id": 7433,
+  "uuid": "f82f515bb466ac99dab74337c2487c01",
+  "lcsc_part_name": "OP07CDR",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Precision-OpAmps_TI_OP07CDR_OP07CDR_C7433.html",
+  "lcsc_price": 0.3112,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_7910.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C7433.jpg",
+  "local_images": [
+    "C7433_0.jpg",
+    "C7433_1.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "TI",
+  "manufacturer_cn": "\u5FB7\u5DDE\u4EEA\u5668",
+  "manufacturer_part_number": "OP07CDR",
+  "description": "Low-Offset Voltage Operational Amplifier, 6 to 36 V, 0 to 70 degC, 8-pin SOIC (D8), Green (RoHS  no SbBr)",
+  "package": "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+  "smt": true,
+  "designator_template": "U?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 400,
+      "pos_y": 305,
+      "subpart_number": null,
+      "designator_template": "U?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "black",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 1,
+        "origin_x": 400,
+        "origin_y": 305
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 380,
+              "Y": 330
+            },
+            {
+              "X": 420,
+              "Y": 310
+            },
+            {
+              "X": 380,
+              "Y": 290
+            },
+            {
+              "X": 380,
+              "Y": 330
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep2",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 384,
+              "Y": 300
+            },
+            {
+              "X": 390,
+              "Y": 300
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep3",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 384,
+              "Y": 320
+            },
+            {
+              "X": 390,
+              "Y": 320
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep4",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 387,
+              "Y": 317
+            },
+            {
+              "X": 387,
+              "Y": 323
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep5",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 290
+            },
+            {
+              "X": 400,
+              "Y": 300
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep6",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 320
+            },
+            {
+              "X": 400,
+              "Y": 330
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep7",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 420,
+              "Y": 290
+            },
+            {
+              "X": 410,
+              "Y": 305
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep8",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 386,
+              "Y": 293
+            },
+            {
+              "X": 380,
+              "Y": 280
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep9",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 392,
+              "Y": 296
+            },
+            {
+              "X": 380,
+              "Y": 270
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep10",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 360,
+          "y": 270,
+          "rotation": 180,
+          "gid": "rep11",
+          "locked": false,
+          "pindot_x": 360,
+          "pindot_y": 270,
+          "path": "M360,270 h20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 383,
+          "name_y": 273,
+          "name_rotation": 0,
+          "name": "OFFSET N1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 374,
+          "num_y": 269,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 377,
+          "dot_y": 270,
+          "clock_visible": false,
+          "clock_path": "M 380 273 L 383 270 L 380 267",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 360,
+          "y": 300,
+          "rotation": 180,
+          "gid": "rep12",
+          "locked": false,
+          "pindot_x": 360,
+          "pindot_y": 300,
+          "path": "M360,300 h20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 383,
+          "name_y": 303,
+          "name_rotation": 0,
+          "name": "IN-",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 374,
+          "num_y": 299,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 377,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 380 303 L 383 300 L 380 297",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 360,
+          "y": 320,
+          "rotation": 180,
+          "gid": "rep13",
+          "locked": false,
+          "pindot_x": 360,
+          "pindot_y": 320,
+          "path": "M360,320 h20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 383,
+          "name_y": 323,
+          "name_rotation": 0,
+          "name": "IN\u002B",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 374,
+          "num_y": 319,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 377,
+          "dot_y": 320,
+          "clock_visible": false,
+          "clock_path": "M 380 323 L 383 320 L 380 317",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Power",
+          "spicepin": "4",
+          "x": 400,
+          "y": 350,
+          "rotation": 270,
+          "gid": "rep14",
+          "locked": false,
+          "pindot_x": 400,
+          "pindot_y": 350,
+          "path": "M400,350 v-20",
+          "colour": "#FF0000",
+          "name_visible": false,
+          "name_x": 403,
+          "name_y": 327,
+          "name_rotation": 270,
+          "name": "VCC-",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#FF0000",
+          "num_visible": true,
+          "num_x": 399,
+          "num_y": 336,
+          "num_rotation": 270,
+          "num": "4",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#FF0000",
+          "dot_visible": false,
+          "dot_x": 400,
+          "dot_y": 333,
+          "clock_visible": false,
+          "clock_path": "M 403 330 L 400 327 L 397 330",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "5",
+          "x": 440,
+          "y": 290,
+          "rotation": 0,
+          "gid": "rep15",
+          "locked": false,
+          "pindot_x": 440,
+          "pindot_y": 290,
+          "path": "M440,290 h-20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 417,
+          "name_y": 293,
+          "name_rotation": 0,
+          "name": "NC",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 426,
+          "num_y": 289,
+          "num_rotation": 0,
+          "num": "5",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 423,
+          "dot_y": 290,
+          "clock_visible": false,
+          "clock_path": "M 420 287 L 417 290 L 420 293",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Output",
+          "spicepin": "6",
+          "x": 440,
+          "y": 310,
+          "rotation": 0,
+          "gid": "rep16",
+          "locked": false,
+          "pindot_x": 440,
+          "pindot_y": 310,
+          "path": "M440,310 h-20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 417,
+          "name_y": 313,
+          "name_rotation": 0,
+          "name": "OUT",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 426,
+          "num_y": 309,
+          "num_rotation": 0,
+          "num": "6",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 423,
+          "dot_y": 310,
+          "clock_visible": false,
+          "clock_path": "M 420 307 L 417 310 L 420 313",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Power",
+          "spicepin": "7",
+          "x": 400,
+          "y": 270,
+          "rotation": 90,
+          "gid": "rep17",
+          "locked": false,
+          "pindot_x": 400,
+          "pindot_y": 270,
+          "path": "M400,270 v20",
+          "colour": "#FF0000",
+          "name_visible": false,
+          "name_x": 403,
+          "name_y": 293,
+          "name_rotation": 270,
+          "name": "VCC\u002B",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#FF0000",
+          "num_visible": true,
+          "num_x": 399,
+          "num_y": 284,
+          "num_rotation": 270,
+          "num": "7",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#FF0000",
+          "dot_visible": false,
+          "dot_x": 400,
+          "dot_y": 287,
+          "clock_visible": false,
+          "clock_path": "M 397 290 L 400 293 L 403 290",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "8",
+          "x": 360,
+          "y": 280,
+          "rotation": 180,
+          "gid": "rep18",
+          "locked": false,
+          "pindot_x": 360,
+          "pindot_y": 280,
+          "path": "M360,280 h20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 383,
+          "name_y": 283,
+          "name_rotation": 0,
+          "name": "OFFSET N2",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 374,
+          "num_y": 279,
+          "num_rotation": 0,
+          "num": "8",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 377,
+          "dot_y": 280,
+          "clock_visible": false,
+          "clock_path": "M 380 283 L 383 280 L 380 277",
+          "type": "pin"
+        }
+      ]
+    }
+  ]
+}

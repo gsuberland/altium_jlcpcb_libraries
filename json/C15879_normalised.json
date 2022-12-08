@@ -1,0 +1,766 @@
+{
+  "lcsc_id": 15879,
+  "uuid": "edae204c3adfe7b1ce43d9a84fd98802",
+  "lcsc_part_name": "SMF05CT1G",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/TVS_ON_SMF05CT1G_SMF05CT1G_C15879.html",
+  "lcsc_price": 0.1725,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_16561.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C15879.jpg",
+  "local_images": [
+    "C15879_0.jpg",
+    "C15879_1.jpg",
+    "C15879_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "onsemi",
+  "manufacturer_cn": "\u5B89\u68EE\u7F8E",
+  "manufacturer_part_number": "SMF05CT1G",
+  "description": "SMF05CT1G",
+  "package": "SOT-363_L2.0-W1.3-P0.65-LS2.1-TL",
+  "smt": true,
+  "designator_template": "D?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "D?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "top_left_x": -40,
+          "top_left_y": -50,
+          "bottom_right_x": 2,
+          "bottom_right_y": 2,
+          "width": 80,
+          "height": 100,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#FFFFFF",
+          "gid": "rep2",
+          "locked": false,
+          "c_etype": "",
+          "type": "rectangle"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": -60,
+          "y": -30,
+          "rotation": 180,
+          "gid": "rep3",
+          "locked": false,
+          "pindot_x": -60,
+          "pindot_y": -30,
+          "path": "M -60 -30 h20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": -35,
+          "name_y": -27,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": -45,
+          "num_y": -31,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": -43,
+          "dot_y": -30,
+          "clock_visible": false,
+          "clock_path": "M -40 -27 L -37 -30 L -40 -33",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "2",
+          "x": -60,
+          "y": 0,
+          "rotation": 180,
+          "gid": "rep4",
+          "locked": false,
+          "pindot_x": -60,
+          "pindot_y": 0,
+          "path": "M -60 -0 h20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": -35,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": -45,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": -43,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -40 3 L -37 0 L -40 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "3",
+          "x": -60,
+          "y": 30,
+          "rotation": 180,
+          "gid": "rep5",
+          "locked": false,
+          "pindot_x": -60,
+          "pindot_y": 30,
+          "path": "M -60 30 h20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": -35,
+          "name_y": 33,
+          "name_rotation": 0,
+          "name": "3",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": -45,
+          "num_y": 29,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": -43,
+          "dot_y": 30,
+          "clock_visible": false,
+          "clock_path": "M -40 33 L -37 30 L -40 27",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "4",
+          "x": 60,
+          "y": 30,
+          "rotation": 0,
+          "gid": "rep6",
+          "locked": false,
+          "pindot_x": 60,
+          "pindot_y": 30,
+          "path": "M 60 30 h-20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 35,
+          "name_y": 33,
+          "name_rotation": 0,
+          "name": "4",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 45,
+          "num_y": 29,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 43,
+          "dot_y": 30,
+          "clock_visible": false,
+          "clock_path": "M 40 27 L 37 30 L 40 33",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "5",
+          "x": 60,
+          "y": 0,
+          "rotation": 0,
+          "gid": "rep7",
+          "locked": false,
+          "pindot_x": 60,
+          "pindot_y": 0,
+          "path": "M 60 -0 h-20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 35,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "5",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 45,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "5",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 43,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 40 -3 L 37 0 L 40 3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -40,
+              "Y": -30
+            },
+            {
+              "X": 40,
+              "Y": -30
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep8",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -40,
+              "Y": 30
+            },
+            {
+              "X": 40,
+              "Y": 30
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep9",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -40,
+              "Y": 0
+            },
+            {
+              "X": 0,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep10",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 0,
+              "Y": 30
+            },
+            {
+              "X": 0,
+              "Y": -30
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep11",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": -20,
+              "Y": -40
+            },
+            {
+              "X": -30,
+              "Y": -30
+            },
+            {
+              "X": -20,
+              "Y": -20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "rep12",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -30,
+              "Y": -20
+            },
+            {
+              "X": -30,
+              "Y": -40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep13",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -30,
+              "Y": -40
+            },
+            {
+              "X": -27,
+              "Y": -40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep14",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 19,
+              "Y": -20
+            },
+            {
+              "X": 29,
+              "Y": -30
+            },
+            {
+              "X": 19,
+              "Y": -40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "rep15",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": -40
+            },
+            {
+              "X": 29,
+              "Y": -20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep16",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": -20
+            },
+            {
+              "X": 26,
+              "Y": -20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep17",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 19,
+              "Y": 40
+            },
+            {
+              "X": 29,
+              "Y": 30
+            },
+            {
+              "X": 19,
+              "Y": 20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "rep18",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": 20
+            },
+            {
+              "X": 29,
+              "Y": 40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep19",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": 40
+            },
+            {
+              "X": 26,
+              "Y": 40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep20",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": -20,
+              "Y": 20
+            },
+            {
+              "X": -30,
+              "Y": 30
+            },
+            {
+              "X": -20,
+              "Y": 40
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "rep21",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -30,
+              "Y": 40
+            },
+            {
+              "X": -30,
+              "Y": 20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep22",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -30,
+              "Y": 20
+            },
+            {
+              "X": -27,
+              "Y": 20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep23",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "6",
+          "x": 60,
+          "y": -30,
+          "rotation": 0,
+          "gid": "rep24",
+          "locked": false,
+          "pindot_x": 60,
+          "pindot_y": -30,
+          "path": "M 60 -30 h-20",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 35,
+          "name_y": -27,
+          "name_rotation": 0,
+          "name": "6",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 45,
+          "num_y": -31,
+          "num_rotation": 0,
+          "num": "6",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 43,
+          "dot_y": -30,
+          "clock_visible": false,
+          "clock_path": "M 40 -33 L 37 -30 L 40 -27",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 0,
+              "Y": 0
+            },
+            {
+              "X": 40,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep25",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 19,
+              "Y": 10
+            },
+            {
+              "X": 29,
+              "Y": 0
+            },
+            {
+              "X": 19,
+              "Y": -10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "rep26",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": -10
+            },
+            {
+              "X": 29,
+              "Y": 10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep27",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 29,
+              "Y": 10
+            },
+            {
+              "X": 26,
+              "Y": 10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep28",
+          "locked": false
+        },
+        {
+          "path": "M1 -30 A1,1 0 1 0 1,-29.998",
+          "helper_dots": "",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep29",
+          "locked": false,
+          "type": "arc"
+        },
+        {
+          "path": "M1 -0 A1,1 0 1 0 1,0.002",
+          "helper_dots": "",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep30",
+          "locked": false,
+          "type": "arc"
+        },
+        {
+          "path": "M1 30 A1,1 0 1 0 1,30.002",
+          "helper_dots": "",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep31",
+          "locked": false,
+          "type": "arc"
+        },
+        {
+          "center_x": 0,
+          "center_y": -30,
+          "radius_x": 1.5,
+          "radius_y": 1.5,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge33",
+          "locked": false,
+          "type": "ellipse"
+        },
+        {
+          "center_x": 0,
+          "center_y": 0,
+          "radius_x": 1.5,
+          "radius_y": 1.5,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge34",
+          "locked": false,
+          "type": "ellipse"
+        },
+        {
+          "center_x": 0,
+          "center_y": 30,
+          "radius_x": 1.5,
+          "radius_y": 1.5,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge35",
+          "locked": false,
+          "type": "ellipse"
+        }
+      ]
+    }
+  ]
+}

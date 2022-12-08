@@ -1,0 +1,244 @@
+{
+  "lcsc_id": 8543,
+  "uuid": "745373c43f9b27a487b066e1e54fce6e",
+  "lcsc_part_name": "S9012 2T1",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Transistors-NPN-PNP_S9012-200-350_C8543.html",
+  "lcsc_price": 0.014,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_9038.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C8543.jpg",
+  "local_images": [
+    "C8543_0.jpg",
+    "C8543_1.jpg",
+    "C8543_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "CJ(\u6C5F\u82CF\u957F\u7535/\u957F\u6676)",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "S9012 2T1",
+  "description": "S9012 (200-350)",
+  "package": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+  "smt": true,
+  "designator_template": "Q?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "Q?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": -10,
+              "Y": 3
+            },
+            {
+              "X": -4,
+              "Y": 4
+            },
+            {
+              "X": -7,
+              "Y": 8
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge2",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -10,
+              "Y": -9
+            },
+            {
+              "X": -10,
+              "Y": 9
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge3",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 0,
+              "Y": -10
+            },
+            {
+              "X": -10,
+              "Y": -3
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge4",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -7,
+              "Y": 5
+            },
+            {
+              "X": 0,
+              "Y": 10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge5",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -20,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge6",
+          "locked": false,
+          "pindot_x": -20,
+          "pindot_y": 0,
+          "path": "M -20 0 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": -7,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "B",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -11,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": -13,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -10 3 L -7 0 L -10 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 0,
+          "y": 20,
+          "rotation": 270,
+          "gid": "gge13",
+          "locked": false,
+          "pindot_x": 0,
+          "pindot_y": 20,
+          "path": "M 0 20 v -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 3,
+          "name_y": 7,
+          "name_rotation": 270,
+          "name": "E",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -1,
+          "num_y": 11,
+          "num_rotation": 270,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 0,
+          "dot_y": 13,
+          "clock_visible": false,
+          "clock_path": "M 3 10 L 0 7 L -3 10",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 0,
+          "y": -20,
+          "rotation": 90,
+          "gid": "gge20",
+          "locked": false,
+          "pindot_x": 0,
+          "pindot_y": -20,
+          "path": "M 0 -20 v 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 3,
+          "name_y": -7,
+          "name_rotation": 270,
+          "name": "C",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -1,
+          "num_y": -11,
+          "num_rotation": 270,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 0,
+          "dot_y": -13,
+          "clock_visible": false,
+          "clock_path": "M -3 -10 L 0 -7 L 3 -10",
+          "type": "pin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "lcsc_id": 12674,
+  "uuid": "316b24a72c42f31155c4cd36a45744b9",
+  "lcsc_part_name": "X49SM8MSD2SC",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/49SMD_HC-49SMD-8MHZ-20PF-20PPM_C12674.html",
+  "lcsc_price": 0.0974,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_13310.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/49SMD_YXC_X49SM8MSD2SC_HC-49SMD-8MHZ-20PF-20PPM_C12674_front_10.jpg",
+  "local_images": [
+    "C12674_0.jpg",
+    "C12674_1.jpg",
+    "C12674_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "YXC",
+  "manufacturer_cn": "\u626C\u5174\u6676\u632F",
+  "manufacturer_part_number": "X49SM8MSD2SC",
+  "description": "HC-49SMD 8MHZ 20PF 20PPM",
+  "package": "CRYSTAL-SMD_L11.5-W4.8-LS12.7",
+  "smt": true,
+  "designator_template": "X?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "X?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": 20,
+          "y": 0,
+          "rotation": 0,
+          "gid": "rep2",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 0,
+          "path": "M 20 -0 h-10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 5,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "OSC1",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": 15,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 13,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 10 -3 L 7 0 L 10 3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "2",
+          "x": -20,
+          "y": 0,
+          "rotation": 180,
+          "gid": "rep3",
+          "locked": false,
+          "pindot_x": -20,
+          "pindot_y": 0,
+          "path": "M -20 -0 h10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": -5,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "OSC2",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": -15,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": -13,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -10 3 L -7 0 L -10 -3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 5,
+              "Y": -4
+            },
+            {
+              "X": 5,
+              "Y": 4
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep4",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -3,
+              "Y": -7
+            },
+            {
+              "X": 3,
+              "Y": -7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep5",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -5,
+              "Y": -4
+            },
+            {
+              "X": -5,
+              "Y": 4
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep6",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 3,
+              "Y": -7
+            },
+            {
+              "X": 3,
+              "Y": 7
+            },
+            {
+              "X": -3,
+              "Y": 7
+            },
+            {
+              "X": -3,
+              "Y": -7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep7",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -10,
+              "Y": 0
+            },
+            {
+              "X": -6,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#000000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep8",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 10,
+              "Y": 0
+            },
+            {
+              "X": 6,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#000000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep9",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -5,
+              "Y": -7
+            },
+            {
+              "X": -5,
+              "Y": 7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep10",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 5,
+              "Y": -7
+            },
+            {
+              "X": 5,
+              "Y": 7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep11",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -3,
+              "Y": 7
+            },
+            {
+              "X": -3,
+              "Y": -7
+            },
+            {
+              "X": 3,
+              "Y": -7
+            },
+            {
+              "X": 3,
+              "Y": 7
+            },
+            {
+              "X": -3,
+              "Y": 7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep12",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

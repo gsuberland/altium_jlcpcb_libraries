@@ -1,0 +1,212 @@
+{
+  "lcsc_id": 34499,
+  "uuid": "c34bbdcdd263b720e64d05b3f617b059",
+  "lcsc_part_name": "whiteLEDSMD",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_white-0805_C34499.html",
+  "lcsc_price": 0.0149,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_35468.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C34499.jpg",
+  "local_images": [],
+  "jlcpcb_basic_part": true,
+  "manufacturer": null,
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "KT-0805\u767D\u706F (SMT\u4E1A\u52A1\u4E13\u7528)",
+  "description": "LED",
+  "package": "LED0805-FD",
+  "smt": true,
+  "designator_template": "LED?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": -5,
+      "subpart_number": null,
+      "designator_template": "LED?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": -5
+      },
+      "features": [
+        {
+          "path": "M 15 -13 L 11 -11 L 13 -9 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge26",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "path": "M 11 -17 L 7 -15 L 9 -13 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge27",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 20,
+          "y": 0,
+          "rotation": 0,
+          "gid": "gge28",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 0,
+          "path": "M 20 0 h -15",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 1,
+          "name_y": 0,
+          "name_rotation": 0,
+          "name": "K",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 9,
+          "num_y": -4,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 8,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 5 -3 L 2 0 L 5 3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 8,
+              "Y": -6
+            },
+            {
+              "X": 15,
+              "Y": -13
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge35",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 4,
+              "Y": -10
+            },
+            {
+              "X": 11,
+              "Y": -17
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge36",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -20,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge37",
+          "locked": false,
+          "pindot_x": -20,
+          "pindot_y": 0,
+          "path": "M -20 0 h 15",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": -1,
+          "name_y": 0,
+          "name_rotation": 0,
+          "name": "A",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": -9,
+          "num_y": -4,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": -8,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -5 3 L -2 0 L -5 -3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 5,
+              "Y": -8
+            },
+            {
+              "X": 5,
+              "Y": 8
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge44",
+          "locked": false
+        },
+        {
+          "path": "M -5 6 L 5 0 L -5 -7 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge45",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        }
+      ]
+    }
+  ]
+}

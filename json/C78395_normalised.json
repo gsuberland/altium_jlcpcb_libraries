@@ -1,0 +1,207 @@
+{
+  "lcsc_id": 78395,
+  "uuid": "c4490c21d1841c52acc08ba6a9c7c91d",
+  "lcsc_part_name": "P6SMB6.8CA-C78395",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/TVS_P6SMB6-8CA_C78395.html",
+  "lcsc_price": 0.0714,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_79530.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C78395.jpg",
+  "local_images": [
+    "C78395_0.jpg",
+    "C78395_1.jpg",
+    "C78395_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "Brightking",
+  "manufacturer_cn": "\u541B\u8000\u7535\u5B50",
+  "manufacturer_part_number": "P6SMB6.8CA/TR13",
+  "description": "P6SMB6.8CA",
+  "package": "SMB_L4.6-W3.6-LS5.3-BI",
+  "smt": true,
+  "designator_template": "D?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 35,
+      "pos_y": -15,
+      "subpart_number": null,
+      "designator_template": "D?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 35,
+        "origin_y": -15
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 55,
+          "y": -15,
+          "rotation": 0,
+          "gid": "gge44",
+          "locked": false,
+          "pindot_x": 55,
+          "pindot_y": -15,
+          "path": "M 55 -15 h -10",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 42,
+          "name_y": -12,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": false,
+          "num_x": 46,
+          "num_y": -16,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 48,
+          "dot_y": -15,
+          "clock_visible": false,
+          "clock_path": "M 45 -18 L 42 -15 L 45 -12",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 15,
+          "y": -15,
+          "rotation": 180,
+          "gid": "gge51",
+          "locked": false,
+          "pindot_x": 15,
+          "pindot_y": -15,
+          "path": "M 15 -15 h 10",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 28,
+          "name_y": -12,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": false,
+          "num_x": 24,
+          "num_y": -16,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 22,
+          "dot_y": -15,
+          "clock_visible": false,
+          "clock_path": "M 25 -12 L 28 -15 L 25 -18",
+          "type": "pin"
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 25,
+              "Y": -20
+            },
+            {
+              "X": 35,
+              "Y": -15
+            },
+            {
+              "X": 25,
+              "Y": -10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge58",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 45,
+              "Y": -20
+            },
+            {
+              "X": 35,
+              "Y": -15
+            },
+            {
+              "X": 45,
+              "Y": -10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge59",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 33,
+              "Y": -21
+            },
+            {
+              "X": 33,
+              "Y": -21
+            },
+            {
+              "X": 35,
+              "Y": -21
+            },
+            {
+              "X": 35,
+              "Y": -9
+            },
+            {
+              "X": 37,
+              "Y": -9
+            },
+            {
+              "X": 37,
+              "Y": -9
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge60",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

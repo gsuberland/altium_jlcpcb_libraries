@@ -1,0 +1,254 @@
+{
+  "lcsc_id": 68978,
+  "uuid": "ed591596fa5a4be4972860d83460ed73",
+  "lcsc_part_name": "BAV70-C68978",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Switching-Diode_BAV70_C68978.html",
+  "lcsc_price": 0.0178,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_70091.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Switching-Diode_CJ_BAV70_BAV70_C68978_1.jpg",
+  "local_images": [
+    "C68978_0.jpg",
+    "C68978_1.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "CJ(\u6C5F\u82CF\u957F\u7535/\u957F\u6676)",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "BAV70",
+  "description": "",
+  "package": "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+  "smt": true,
+  "designator_template": "D?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": -5,
+      "pos_y": 10,
+      "subpart_number": null,
+      "designator_template": "D?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 1,
+        "origin_x": -5,
+        "origin_y": 10
+      },
+      "features": [
+        {
+          "path": "M -15 6 L -5 0 L -15 -7 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge23",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -5,
+              "Y": 7
+            },
+            {
+              "X": -5,
+              "Y": -7
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge25",
+          "locked": false
+        },
+        {
+          "path": "M -15 26 L -5 20 L -15 13 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge27",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -5,
+              "Y": 27
+            },
+            {
+              "X": -5,
+              "Y": 13
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge28",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -35,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge29",
+          "locked": false,
+          "pindot_x": -35,
+          "pindot_y": 0,
+          "path": "M -35 0 h 20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": -13,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -20,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": -18,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -15 3 L -12 0 L -15 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": -35,
+          "y": 20,
+          "rotation": 180,
+          "gid": "gge36",
+          "locked": false,
+          "pindot_x": -35,
+          "pindot_y": 20,
+          "path": "M -35 20 h 20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": -13,
+          "name_y": 23,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -20,
+          "num_y": 19,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": -18,
+          "dot_y": 20,
+          "clock_visible": false,
+          "clock_path": "M -15 23 L -12 20 L -15 17",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 25,
+          "y": 10,
+          "rotation": 0,
+          "gid": "gge43",
+          "locked": false,
+          "pindot_x": 25,
+          "pindot_y": 10,
+          "path": "M 25 10 h -20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 3,
+          "name_y": 13,
+          "name_rotation": 0,
+          "name": "3",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 10,
+          "num_y": 9,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 8,
+          "dot_y": 10,
+          "clock_visible": false,
+          "clock_path": "M 5 7 L 2 10 L 5 13",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -5,
+              "Y": 0
+            },
+            {
+              "X": 5,
+              "Y": 0
+            },
+            {
+              "X": 5,
+              "Y": 20
+            },
+            {
+              "X": -5,
+              "Y": 20
+            },
+            {
+              "X": -5,
+              "Y": 20
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge50",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

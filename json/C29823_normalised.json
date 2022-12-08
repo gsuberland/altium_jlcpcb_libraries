@@ -1,0 +1,201 @@
+{
+  "lcsc_id": 29823,
+  "uuid": "b26b632f64e63421edf6007987bc5165",
+  "lcsc_part_name": "1206B475K500NT",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_4-7uF-475-10-50V_C29823.html",
+  "lcsc_price": 0.0609,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_30577.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/4-7uF-475-10-50V_C29823_front_10.jpg",
+  "local_images": [
+    "C29823_0.jpg",
+    "C29823_1.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "FH",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "1206B475K500NT",
+  "description": "4.7uF (475) \u00B110% 50V",
+  "package": "C1206",
+  "smt": true,
+  "designator_template": "C?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 15,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "C?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 15,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 13,
+              "Y": -8
+            },
+            {
+              "X": 13,
+              "Y": 8
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep2",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 17,
+              "Y": -8
+            },
+            {
+              "X": 17,
+              "Y": 8
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep3",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": 0,
+          "y": 0,
+          "rotation": 180,
+          "gid": "rep4",
+          "locked": false,
+          "pindot_x": 0,
+          "pindot_y": 0,
+          "path": "M 0 -0 h10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 15,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": 5,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 7,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 10 3 L 13 0 L 10 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "2",
+          "x": 30,
+          "y": 0,
+          "rotation": 0,
+          "gid": "rep5",
+          "locked": false,
+          "pindot_x": 30,
+          "pindot_y": 0,
+          "path": "M 30 -0 h-10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 15,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": 25,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 23,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 20 -3 L 17 0 L 20 3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 10,
+              "Y": 0
+            },
+            {
+              "X": 13,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep6",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 17,
+              "Y": 0
+            },
+            {
+              "X": 20,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "rep7",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "lcsc_id": 7972,
+  "uuid": "2b1f70f1b7fa4135813d5b1daaed2882",
+  "lcsc_part_name": "LMV321IDBVR",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/General-Purpose-Amplifiers_TI_LMV321IDBVR_LMV321IDBVR_C7972.html",
+  "lcsc_price": 0.2385,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_8449.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C7972.jpg",
+  "local_images": [
+    "C7972_0.jpg",
+    "C7972_1.jpg",
+    "C7972_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "TI",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "LMV321IDBVR",
+  "description": "",
+  "package": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+  "smt": true,
+  "designator_template": "U?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 60,
+      "pos_y": 15,
+      "subpart_number": null,
+      "designator_template": "U?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 60,
+        "origin_y": 15
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 40,
+              "Y": -5
+            },
+            {
+              "X": 40,
+              "Y": 35
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 2,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge2",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 40,
+              "Y": 35
+            },
+            {
+              "X": 80,
+              "Y": 15
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 2,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge3",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 80,
+              "Y": 15
+            },
+            {
+              "X": 40,
+              "Y": -5
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 2,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge4",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 45,
+              "Y": 7
+            },
+            {
+              "X": 49,
+              "Y": 7
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge5",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 47,
+              "Y": 5
+            },
+            {
+              "X": 47,
+              "Y": 9
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge6",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 45,
+              "Y": 27
+            },
+            {
+              "X": 49,
+              "Y": 27
+            }
+          ],
+          "stroke_colour": "#8D2323",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge7",
+          "locked": false
+        },
+        "T~L~70~5~270~#8D2323~~5~ ~ ~~comment~V\u002B~1~start~gge8~0~pinpart",
+        "T~L~70~41~270~#8D2323~~5~ ~ ~~comment~GND~1~start~gge10~0~pinpart",
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": 20,
+          "y": 5,
+          "rotation": 180,
+          "gid": "gge12",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 5,
+          "path": "M 20 5 h 20",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 43,
+          "name_y": 8,
+          "name_rotation": 0,
+          "name": "\u002B",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": true,
+          "num_x": 34,
+          "num_y": 4,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 37,
+          "dot_y": 5,
+          "clock_visible": false,
+          "clock_path": "M 40 8 L 43 5 L 40 2",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "3",
+          "x": 20,
+          "y": 25,
+          "rotation": 180,
+          "gid": "gge19",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 25,
+          "path": "M 20 25 h 20",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 43,
+          "name_y": 28,
+          "name_rotation": 0,
+          "name": "-",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": true,
+          "num_x": 34,
+          "num_y": 24,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 37,
+          "dot_y": 25,
+          "clock_visible": false,
+          "clock_path": "M 40 28 L 43 25 L 40 22",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Output",
+          "spicepin": "4",
+          "x": 100,
+          "y": 15,
+          "rotation": 0,
+          "gid": "gge26",
+          "locked": false,
+          "pindot_x": 100,
+          "pindot_y": 15,
+          "path": "M 100 15 h -20",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 77,
+          "name_y": 18,
+          "name_rotation": 0,
+          "name": "OUT",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": true,
+          "num_x": 86,
+          "num_y": 14,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 83,
+          "dot_y": 15,
+          "clock_visible": false,
+          "clock_path": "M 80 12 L 77 15 L 80 18",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "5",
+          "x": 60,
+          "y": -15,
+          "rotation": 90,
+          "gid": "gge33",
+          "locked": false,
+          "pindot_x": 60,
+          "pindot_y": -15,
+          "path": "M 60 -15 v 20",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 63,
+          "name_y": 8,
+          "name_rotation": 270,
+          "name": "V\u002B",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": true,
+          "num_x": 59,
+          "num_y": -1,
+          "num_rotation": 270,
+          "num": "5",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 60,
+          "dot_y": 2,
+          "clock_visible": false,
+          "clock_path": "M 57 5 L 60 8 L 63 5",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 60,
+          "y": 45,
+          "rotation": 270,
+          "gid": "gge40",
+          "locked": false,
+          "pindot_x": 60,
+          "pindot_y": 45,
+          "path": "M 60 45 v -20",
+          "colour": "#8D2323",
+          "name_visible": false,
+          "name_x": 63,
+          "name_y": 22,
+          "name_rotation": 270,
+          "name": "GND",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#8D2323",
+          "num_visible": true,
+          "num_x": 59,
+          "num_y": 31,
+          "num_rotation": 270,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#8D2323",
+          "dot_visible": false,
+          "dot_x": 60,
+          "dot_y": 28,
+          "clock_visible": false,
+          "clock_path": "M 63 25 L 60 22 L 57 25",
+          "type": "pin"
+        }
+      ]
+    }
+  ]
+}

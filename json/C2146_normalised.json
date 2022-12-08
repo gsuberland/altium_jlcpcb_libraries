@@ -1,0 +1,244 @@
+{
+  "lcsc_id": 2146,
+  "uuid": "c2e807ee87db91caef0cb4a6ad38a339",
+  "lcsc_part_name": "S8050_C2146",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Transistors-NPN-PNP_S8050-200-350_C2146.html",
+  "lcsc_price": 0.0169,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_2503.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C2146.jpg",
+  "local_images": [
+    "C2146_0.jpg",
+    "C2146_1.jpg",
+    "C2146_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "CJ(\u6C5F\u82CF\u957F\u7535/\u957F\u6676)",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "S8050 J3Y",
+  "description": "S8050 (200-350)",
+  "package": "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+  "smt": true,
+  "designator_template": "Q?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "Q?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 10,
+          "y": -20,
+          "rotation": 90,
+          "gid": "gge2",
+          "locked": false,
+          "pindot_x": 10,
+          "pindot_y": -20,
+          "path": "M 10 -20 v 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 13,
+          "name_y": -7,
+          "name_rotation": 270,
+          "name": "C",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 9,
+          "num_y": -16,
+          "num_rotation": 270,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 10,
+          "dot_y": -13,
+          "clock_visible": false,
+          "clock_path": "M 7 -10 L 10 -7 L 13 -10",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -10,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge9",
+          "locked": false,
+          "pindot_x": -10,
+          "pindot_y": 0,
+          "path": "M -10 0 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 3,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "B",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -6,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": -3,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 0 3 L 3 0 L 0 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 10,
+          "y": 20,
+          "rotation": 270,
+          "gid": "gge16",
+          "locked": false,
+          "pindot_x": 10,
+          "pindot_y": 20,
+          "path": "M 10 20 v -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 13,
+          "name_y": 7,
+          "name_rotation": 270,
+          "name": "E",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 9,
+          "num_y": 16,
+          "num_rotation": 270,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 10,
+          "dot_y": 13,
+          "clock_visible": false,
+          "clock_path": "M 13 10 L 10 7 L 7 10",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 10,
+              "Y": -10
+            },
+            {
+              "X": 0,
+              "Y": -3
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge23",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 0,
+              "Y": 3
+            },
+            {
+              "X": 10,
+              "Y": 10
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge24",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 0,
+              "Y": -9
+            },
+            {
+              "X": 0,
+              "Y": 9
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge25",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 10,
+              "Y": 10
+            },
+            {
+              "X": 7,
+              "Y": 5
+            },
+            {
+              "X": 4,
+              "Y": 9
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge26",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

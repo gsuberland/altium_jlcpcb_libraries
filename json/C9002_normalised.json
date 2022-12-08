@@ -1,0 +1,425 @@
+{
+  "lcsc_id": 9002,
+  "uuid": "2e83b68c877909257b07a0358bddc1b8",
+  "lcsc_part_name": "X322512MSB4SI",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html",
+  "lcsc_price": 0.1797,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_9522.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Yangxing-Tech-X322512MSB4SI_C9002_front_10.jpg",
+  "local_images": [
+    "C9002_0.jpg",
+    "C9002_1.jpg",
+    "C9002_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "YXC",
+  "manufacturer_cn": "\u626C\u5174\u6676\u632F",
+  "manufacturer_part_number": "X322512MSB4SI",
+  "description": "YSX321SL 12MHZ 20PF 10PPM -40~\u002B85\u2103",
+  "package": "OSC-SMD_4P-L3.2-W2.5-BL",
+  "smt": true,
+  "designator_template": "X?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 55,
+      "pos_y": 35,
+      "subpart_number": null,
+      "designator_template": "X?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 10,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 55,
+        "origin_y": 35
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 85,
+          "y": 25,
+          "rotation": 0,
+          "gid": "gge43",
+          "locked": false,
+          "pindot_x": 85,
+          "pindot_y": 25,
+          "path": "M 85 25 h -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 73,
+          "name_y": 28,
+          "name_rotation": 0,
+          "name": "OSC2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 75,
+          "num_y": 24,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 78,
+          "dot_y": 25,
+          "clock_visible": false,
+          "clock_path": "M 75 22 L 72 25 L 75 28",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 25,
+          "y": 45,
+          "rotation": 180,
+          "gid": "gge50",
+          "locked": false,
+          "pindot_x": 25,
+          "pindot_y": 45,
+          "path": "M 25 45 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 37,
+          "name_y": 48,
+          "name_rotation": 0,
+          "name": "OSC1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 35,
+          "num_y": 44,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 32,
+          "dot_y": 45,
+          "clock_visible": false,
+          "clock_path": "M 35 48 L 38 45 L 35 42",
+          "type": "pin"
+        },
+        {
+          "top_left_x": 35,
+          "top_left_y": 15,
+          "bottom_right_x": 2,
+          "bottom_right_y": 2,
+          "width": 40,
+          "height": 40,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge57",
+          "locked": false,
+          "c_etype": "",
+          "type": "rectangle"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 85,
+          "y": 45,
+          "rotation": 0,
+          "gid": "gge58",
+          "locked": false,
+          "pindot_x": 85,
+          "pindot_y": 45,
+          "path": "M 85 45 h -10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 73,
+          "name_y": 48,
+          "name_rotation": 0,
+          "name": "GND",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 75,
+          "num_y": 44,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 78,
+          "dot_y": 45,
+          "clock_visible": false,
+          "clock_path": "M 75 42 L 72 45 L 75 48",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "4",
+          "x": 25,
+          "y": 25,
+          "rotation": 180,
+          "gid": "gge65",
+          "locked": false,
+          "pindot_x": 25,
+          "pindot_y": 25,
+          "path": "M 25 25 h 10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 37,
+          "name_y": 28,
+          "name_rotation": 0,
+          "name": "GND",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 35,
+          "num_y": 24,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 32,
+          "dot_y": 25,
+          "clock_visible": false,
+          "clock_path": "M 35 28 L 38 25 L 35 22",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 58,
+              "Y": 28
+            },
+            {
+              "X": 58,
+              "Y": 42
+            },
+            {
+              "X": 52,
+              "Y": 42
+            },
+            {
+              "X": 52,
+              "Y": 28
+            },
+            {
+              "X": 58,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge72",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 50,
+              "Y": 42
+            },
+            {
+              "X": 50,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge73",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 60,
+              "Y": 42
+            },
+            {
+              "X": 60,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge74",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 35,
+              "Y": 45
+            },
+            {
+              "X": 45,
+              "Y": 45
+            },
+            {
+              "X": 45,
+              "Y": 35
+            },
+            {
+              "X": 49,
+              "Y": 35
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge75",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 75,
+              "Y": 25
+            },
+            {
+              "X": 65,
+              "Y": 25
+            },
+            {
+              "X": 65,
+              "Y": 35
+            },
+            {
+              "X": 61,
+              "Y": 35
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge76",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 52,
+              "Y": 42
+            },
+            {
+              "X": 52,
+              "Y": 28
+            },
+            {
+              "X": 58,
+              "Y": 28
+            },
+            {
+              "X": 58,
+              "Y": 42
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge77",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 60,
+              "Y": 39
+            },
+            {
+              "X": 60,
+              "Y": 31
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge78",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 58,
+              "Y": 42
+            },
+            {
+              "X": 52,
+              "Y": 42
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge79",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 50,
+              "Y": 39
+            },
+            {
+              "X": 50,
+              "Y": 31
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge80",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

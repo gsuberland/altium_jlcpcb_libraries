@@ -1,0 +1,425 @@
+{
+  "lcsc_id": 9006,
+  "uuid": "7f6d0efe5e811d00ba4310f7938d7c29",
+  "lcsc_part_name": "X322525MOB4SI",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-25MHZ-12PF-10PPM-40-85_C9006.html",
+  "lcsc_price": 0.1691,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_9526.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Yangxing-Tech-X322525MOB4SI_C9006_front_10.jpg",
+  "local_images": [
+    "C9006_0.jpg",
+    "C9006_1.jpg",
+    "C9006_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "YXC",
+  "manufacturer_cn": "\u626C\u5174\u6676\u632F",
+  "manufacturer_part_number": "X322525MOB4SI",
+  "description": "YSX321SL 25MHZ 12PF 10PPM -40~\u002B85\u2103",
+  "package": "OSC-SMD_4P-L3.2-W2.5-BL",
+  "smt": true,
+  "designator_template": "X?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 50,
+      "pos_y": 35,
+      "subpart_number": null,
+      "designator_template": "X?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 50,
+        "origin_y": 35
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 45,
+              "Y": 39
+            },
+            {
+              "X": 45,
+              "Y": 31
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge9",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 53,
+              "Y": 42
+            },
+            {
+              "X": 47,
+              "Y": 42
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge10",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 55,
+              "Y": 39
+            },
+            {
+              "X": 55,
+              "Y": 31
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge11",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 47,
+              "Y": 42
+            },
+            {
+              "X": 47,
+              "Y": 28
+            },
+            {
+              "X": 53,
+              "Y": 28
+            },
+            {
+              "X": 53,
+              "Y": 42
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge12",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 70,
+              "Y": 25
+            },
+            {
+              "X": 60,
+              "Y": 25
+            },
+            {
+              "X": 60,
+              "Y": 35
+            },
+            {
+              "X": 56,
+              "Y": 35
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge13",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 30,
+              "Y": 45
+            },
+            {
+              "X": 40,
+              "Y": 45
+            },
+            {
+              "X": 40,
+              "Y": 35
+            },
+            {
+              "X": 44,
+              "Y": 35
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge14",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 55,
+              "Y": 42
+            },
+            {
+              "X": 55,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge15",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 45,
+              "Y": 42
+            },
+            {
+              "X": 45,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge16",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 53,
+              "Y": 28
+            },
+            {
+              "X": 53,
+              "Y": 42
+            },
+            {
+              "X": 47,
+              "Y": 42
+            },
+            {
+              "X": 47,
+              "Y": 28
+            },
+            {
+              "X": 53,
+              "Y": 28
+            }
+          ],
+          "stroke_colour": "#880011",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge17",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "4",
+          "x": 20,
+          "y": 25,
+          "rotation": 180,
+          "gid": "gge18",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 25,
+          "path": "M 20 25 h 10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 32,
+          "name_y": 28,
+          "name_rotation": 0,
+          "name": "GND",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 30,
+          "num_y": 24,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 27,
+          "dot_y": 25,
+          "clock_visible": false,
+          "clock_path": "M 30 28 L 33 25 L 30 22",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 80,
+          "y": 45,
+          "rotation": 0,
+          "gid": "gge25",
+          "locked": false,
+          "pindot_x": 80,
+          "pindot_y": 45,
+          "path": "M 80 45 h -10",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 68,
+          "name_y": 48,
+          "name_rotation": 0,
+          "name": "GND",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": true,
+          "num_x": 70,
+          "num_y": 44,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 73,
+          "dot_y": 45,
+          "clock_visible": false,
+          "clock_path": "M 70 42 L 67 45 L 70 48",
+          "type": "pin"
+        },
+        {
+          "top_left_x": 30,
+          "top_left_y": 15,
+          "bottom_right_x": 2,
+          "bottom_right_y": 2,
+          "width": 40,
+          "height": 40,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge32",
+          "locked": false,
+          "c_etype": "",
+          "type": "rectangle"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 20,
+          "y": 45,
+          "rotation": 180,
+          "gid": "gge33",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 45,
+          "path": "M 20 45 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 32,
+          "name_y": 48,
+          "name_rotation": 0,
+          "name": "OSC1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 30,
+          "num_y": 44,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 27,
+          "dot_y": 45,
+          "clock_visible": false,
+          "clock_path": "M 30 48 L 33 45 L 30 42",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 80,
+          "y": 25,
+          "rotation": 0,
+          "gid": "gge40",
+          "locked": false,
+          "pindot_x": 80,
+          "pindot_y": 25,
+          "path": "M 80 25 h -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 68,
+          "name_y": 28,
+          "name_rotation": 0,
+          "name": "OSC2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 70,
+          "num_y": 24,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 73,
+          "dot_y": 25,
+          "clock_visible": false,
+          "clock_path": "M 70 22 L 67 25 L 70 28",
+          "type": "pin"
+        }
+      ]
+    }
+  ]
+}

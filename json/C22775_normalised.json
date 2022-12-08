@@ -1,0 +1,25 @@
+{
+  "lcsc_id": 22775,
+  "uuid": "2291b26429a0a53b9787e50172e9245c",
+  "lcsc_part_name": "0603WAF1000T5E",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_100R-1000-1_C22775.html",
+  "lcsc_price": 0.0017,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_23502.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Chip-Resistor-Surface-Mount-UniOhm_UniOhm_0603WAF1000T5E_100-1000-1_C22775_front_10.jpg",
+  "local_images": [
+    "C22775_0.jpg",
+    "C22775_1.jpg",
+    "C22775_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "UNI-ROYAL",
+  "manufacturer_cn": "\u539A\u58F0",
+  "manufacturer_part_number": "0603WAF1000T5E",
+  "description": "100\u03A9 (1000) \u00B11%",
+  "package": "R0603",
+  "smt": true,
+  "designator_template": "R?",
+  "symbol_has_subparts": true,
+  "symbols": []
+}

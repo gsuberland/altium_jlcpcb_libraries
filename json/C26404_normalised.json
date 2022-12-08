@@ -1,0 +1,202 @@
+{
+  "lcsc_id": 26404,
+  "uuid": "52fbe975ef8cf8427d8ff03dadbd1f78",
+  "lcsc_part_name": "CL05B332KB5NNNC",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B332KB5NNNC_3-3nF-332-10-50V_C26404.html",
+  "lcsc_price": 0.0024,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_27148.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B332KB5NNNC_3-3nF-332-10-50V_C26404_1.jpg",
+  "local_images": [
+    "C26404_0.jpg",
+    "C26404_1.jpg",
+    "C26404_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "SAMSUNG",
+  "manufacturer_cn": "\u4E09\u661F",
+  "manufacturer_part_number": "CL05B332KB5NNNC",
+  "description": "3.3nF (332) \u00B110% 50V",
+  "package": "C0402",
+  "smt": true,
+  "designator_template": "C?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "C?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -2,
+              "Y": 8
+            },
+            {
+              "X": -2,
+              "Y": -8
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge9",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -20,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge10",
+          "locked": false,
+          "pindot_x": -20,
+          "pindot_y": 0,
+          "path": "M -10 0 h -10",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": -6,
+          "name_y": 0,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": -14,
+          "num_y": -4,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": -33,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -30 3 L -27 0 L -30 -3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 10,
+              "Y": 0
+            },
+            {
+              "X": 2,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge19",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 2,
+              "Y": -8
+            },
+            {
+              "X": 2,
+              "Y": 8
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge20",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 20,
+          "y": 0,
+          "rotation": 0,
+          "gid": "gge21",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 0,
+          "path": "M 10 0 h 10",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 6,
+          "name_y": 0,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 14,
+          "num_y": -4,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 33,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 30 -3 L 27 0 L 30 3",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -2,
+              "Y": 0
+            },
+            {
+              "X": -10,
+              "Y": 0
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge28",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

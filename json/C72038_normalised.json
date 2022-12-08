@@ -1,0 +1,252 @@
+{
+  "lcsc_id": 72038,
+  "uuid": "0e7de0705db79c49f7005d174cdac6cc",
+  "lcsc_part_name": "19-213/Y2C-CQ2R2L/3T(CY)",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_0603-Yellow-light_C72038.html",
+  "lcsc_price": 0.0213,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_73147.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C72038.jpg",
+  "local_images": [
+    "C72038_0.jpg",
+    "C72038_1.jpg",
+    "C72038_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "EVERLIGHT",
+  "manufacturer_cn": "\u4EBF\u5149",
+  "manufacturer_part_number": "19-213/Y2C-CQ2R2L/3T(CY)",
+  "description": "0603",
+  "package": "LED0603-R-RD",
+  "smt": true,
+  "designator_template": "LED?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 5,
+      "pos_y": -5,
+      "subpart_number": null,
+      "designator_template": "LED?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 5,
+        "origin_y": -5
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": -15,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge11",
+          "locked": false,
+          "pindot_x": -15,
+          "pindot_y": 0,
+          "path": "M -15 0 h 15",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 5,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "A",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": -2,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": -3,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 0 3 L 3 0 L 0 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "2",
+          "x": 25,
+          "y": 0,
+          "rotation": 0,
+          "gid": "gge20",
+          "locked": false,
+          "pindot_x": 25,
+          "pindot_y": 0,
+          "path": "M 25 0 h -15",
+          "colour": "#000000",
+          "name_visible": false,
+          "name_x": 5,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "C",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#000000",
+          "num_visible": false,
+          "num_x": 12,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#000000",
+          "dot_visible": false,
+          "dot_x": 13,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 10 -3 L 7 0 L 10 3",
+          "type": "pin"
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 0,
+              "Y": 6
+            },
+            {
+              "X": 10,
+              "Y": 0
+            },
+            {
+              "X": 0,
+              "Y": -6
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge27",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 7,
+              "Y": -8
+            },
+            {
+              "X": 14,
+              "Y": -15
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge28",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 3,
+              "Y": -12
+            },
+            {
+              "X": 10,
+              "Y": -19
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge29",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 14,
+              "Y": -15
+            },
+            {
+              "X": 10,
+              "Y": -13
+            },
+            {
+              "X": 12,
+              "Y": -11
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge30",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 10,
+              "Y": -19
+            },
+            {
+              "X": 6,
+              "Y": -17
+            },
+            {
+              "X": 8,
+              "Y": -15
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge31",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 10,
+              "Y": -6
+            },
+            {
+              "X": 10,
+              "Y": 6
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge32",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "lcsc_id": 5446,
+  "uuid": "9a6753e3870e4f5ca7d2458b4aaa2de4",
+  "lcsc_part_name": "XC6206P332MR",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_XC6206P332MR_C5446.html",
+  "lcsc_price": 0.0876,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_5896.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C5446.jpg",
+  "local_images": [
+    "C5446_0.jpg",
+    "C5446_1.jpg",
+    "C5446_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "TOREX",
+  "manufacturer_cn": "\u7279\u745E\u4ED5",
+  "manufacturer_part_number": "XC6206P332MR",
+  "description": "",
+  "package": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+  "smt": true,
+  "designator_template": "U?",
+  "symbol_has_subparts": true,
+  "symbols": []
+}

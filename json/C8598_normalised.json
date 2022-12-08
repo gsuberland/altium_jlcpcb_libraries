@@ -1,0 +1,176 @@
+{
+  "lcsc_id": 8598,
+  "uuid": "e9e3af65fc87eef7d9725f81b11737ae",
+  "lcsc_part_name": "B5819W_C8598",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_B5819W-SL_C8598.html",
+  "lcsc_price": 0.0304,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_9093.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C8598.jpg",
+  "local_images": [
+    "C8598_0.jpg",
+    "C8598_1.jpg",
+    "C8598_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "CJ(\u6C5F\u82CF\u957F\u7535/\u957F\u6676)",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "B5819W SL",
+  "description": "B5819W SL",
+  "package": "SOD-123_L2.7-W1.6-LS3.7-RD-1",
+  "smt": true,
+  "designator_template": "D?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 0,
+      "pos_y": 0,
+      "subpart_number": null,
+      "designator_template": "D?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 1,
+        "unit": "pixel",
+        "snap_size_alt": 1,
+        "origin_x": 0,
+        "origin_y": 0
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": -2,
+              "Y": 7
+            },
+            {
+              "X": -2,
+              "Y": 9
+            },
+            {
+              "X": -5,
+              "Y": 9
+            },
+            {
+              "X": -5,
+              "Y": -4
+            },
+            {
+              "X": -5,
+              "Y": -7
+            },
+            {
+              "X": -8,
+              "Y": -7
+            },
+            {
+              "X": -8,
+              "Y": -5
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge26",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": -20,
+          "y": 0,
+          "rotation": 180,
+          "gid": "gge27",
+          "locked": false,
+          "pindot_x": -20,
+          "pindot_y": 0,
+          "path": "M -20 0 h 15",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": -2,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "-",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": -11,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": -8,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M -5 3 L -2 0 L -5 -3",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 20,
+          "y": 0,
+          "rotation": 0,
+          "gid": "gge34",
+          "locked": false,
+          "pindot_x": 20,
+          "pindot_y": 0,
+          "path": "M 20 0 h -15",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 2,
+          "name_y": 3,
+          "name_rotation": 0,
+          "name": "\u002B",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 11,
+          "num_y": -1,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 8,
+          "dot_y": 0,
+          "clock_visible": false,
+          "clock_path": "M 5 -3 L 2 0 L 5 3",
+          "type": "pin"
+        },
+        {
+          "path": "M 5 -6 L -5 0 L 5 6 Z",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge41",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        }
+      ]
+    }
+  ]
+}

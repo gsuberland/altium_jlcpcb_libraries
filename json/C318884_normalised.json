@@ -1,0 +1,323 @@
+{
+  "lcsc_id": 318884,
+  "uuid": "584d673271dd43738fb1ad2dd2772015",
+  "lcsc_part_name": "TS-1187A-B-A-B",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Tactile-Switches_XKB-Enterprise-TS-1187-B-A-A_C318884.html",
+  "lcsc_price": 0.021,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_299976.html",
+  "szlcsc_image": null,
+  "local_images": [
+    "C318884_0.jpg",
+    "C318884_1.jpg",
+    "C318884_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "XKB Connectivity",
+  "manufacturer_cn": "\u4E2D\u56FD\u661F\u5764",
+  "manufacturer_part_number": "TS-1187A-B-A-B",
+  "description": "",
+  "package": "SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2",
+  "smt": true,
+  "designator_template": "SW?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 400,
+      "pos_y": 300,
+      "subpart_number": null,
+      "designator_template": "SW?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 10,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 10,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 400,
+        "origin_y": 300
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 390,
+              "Y": 320
+            },
+            {
+              "X": 410,
+              "Y": 320
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge3",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 390,
+              "Y": 290
+            },
+            {
+              "X": 410,
+              "Y": 290
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge4",
+          "locked": false
+        },
+        {
+          "center_x": 400,
+          "center_y": 298,
+          "radius_x": 1.25,
+          "radius_y": 1.25,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge5",
+          "locked": false,
+          "type": "ellipse"
+        },
+        {
+          "center_x": 400,
+          "center_y": 311,
+          "radius_x": 1.25,
+          "radius_y": 1.25,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge6",
+          "locked": false,
+          "type": "ellipse"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 297
+            },
+            {
+              "X": 400,
+              "Y": 290
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge7",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 313
+            },
+            {
+              "X": 400,
+              "Y": 320
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge8",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 398,
+              "Y": 297
+            },
+            {
+              "X": 395,
+              "Y": 310
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge9",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 420,
+          "y": 290,
+          "rotation": 0,
+          "gid": "gge10",
+          "locked": false,
+          "pindot_x": 420,
+          "pindot_y": 290,
+          "path": "M 420 290 h -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 408,
+          "name_y": 293,
+          "name_rotation": 0,
+          "name": "B",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 410,
+          "num_y": 289,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 413,
+          "dot_y": 290,
+          "clock_visible": false,
+          "clock_path": "M 410 287 L 407 290 L 410 293",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 380,
+          "y": 290,
+          "rotation": 180,
+          "gid": "gge17",
+          "locked": false,
+          "pindot_x": 380,
+          "pindot_y": 290,
+          "path": "M 380 290 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 392,
+          "name_y": 293,
+          "name_rotation": 0,
+          "name": "A",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 390,
+          "num_y": 289,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 387,
+          "dot_y": 290,
+          "clock_visible": false,
+          "clock_path": "M 390 293 L 393 290 L 390 287",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "4",
+          "x": 420,
+          "y": 320,
+          "rotation": 0,
+          "gid": "gge24",
+          "locked": false,
+          "pindot_x": 420,
+          "pindot_y": 320,
+          "path": "M 420 320 h -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 408,
+          "name_y": 323,
+          "name_rotation": 0,
+          "name": "D",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 410,
+          "num_y": 319,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 413,
+          "dot_y": 320,
+          "clock_visible": false,
+          "clock_path": "M 410 317 L 407 320 L 410 323",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 380,
+          "y": 320,
+          "rotation": 180,
+          "gid": "gge31",
+          "locked": false,
+          "pindot_x": 380,
+          "pindot_y": 320,
+          "path": "M 380 320 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 392,
+          "name_y": 323,
+          "name_rotation": 0,
+          "name": "C",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 390,
+          "num_y": 319,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 387,
+          "dot_y": 320,
+          "clock_visible": false,
+          "clock_path": "M 390 323 L 393 320 L 390 317",
+          "type": "pin"
+        }
+      ]
+    }
+  ]
+}

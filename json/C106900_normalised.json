@@ -1,0 +1,414 @@
+{
+  "lcsc_id": 106900,
+  "uuid": "9c1976d3a4f6470fa6a640a4970bcf2d",
+  "lcsc_part_name": "EL817S1(C)(TU)-F",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/SMD-Optocouplers_EL817S1-C-TU-F_C106900.html",
+  "lcsc_price": 0.0423,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_108116.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/SMD-Optocouplers_EVERLIGHT_EL817S1-C-TU-F_EL817S1-C-TU-F_C106900_front_10.jpg",
+  "local_images": [
+    "C106900_0.jpg",
+    "C106900_1.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "EVERLIGHT",
+  "manufacturer_cn": "\u4EBF\u5149",
+  "manufacturer_part_number": "EL817S1(C)(TU)-F",
+  "description": "",
+  "package": "OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-TL",
+  "smt": true,
+  "designator_template": "U?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 395,
+      "pos_y": 320,
+      "subpart_number": null,
+      "designator_template": "U?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 395,
+        "origin_y": 320
+      },
+      "features": [
+        {
+          "top_left_x": 370,
+          "top_left_y": 303,
+          "bottom_right_x": 2,
+          "bottom_right_y": 2,
+          "width": 50,
+          "height": 34,
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge2",
+          "locked": false,
+          "c_etype": "",
+          "type": "rectangle"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 350,
+          "y": 310,
+          "rotation": 180,
+          "gid": "gge3",
+          "locked": false,
+          "pindot_x": 350,
+          "pindot_y": 310,
+          "path": "M 350 310 h 20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 372,
+          "name_y": 313,
+          "name_rotation": 0,
+          "name": "AN",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "5.5pt",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 365,
+          "num_y": 309,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "5.5pt",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 367,
+          "dot_y": 310,
+          "clock_visible": false,
+          "clock_path": "M 370 313 L 373 310 L 370 307",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 350,
+          "y": 330,
+          "rotation": 180,
+          "gid": "gge10",
+          "locked": false,
+          "pindot_x": 350,
+          "pindot_y": 330,
+          "path": "M 350 330 h 20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 372,
+          "name_y": 333,
+          "name_rotation": 0,
+          "name": "CAT",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "5.5pt",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 365,
+          "num_y": 329,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "5.5pt",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 367,
+          "dot_y": 330,
+          "clock_visible": false,
+          "clock_path": "M 370 333 L 373 330 L 370 327",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "3",
+          "x": 440,
+          "y": 330,
+          "rotation": 0,
+          "gid": "gge19",
+          "locked": false,
+          "pindot_x": 440,
+          "pindot_y": 330,
+          "path": "M 440 330 h -20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 418,
+          "name_y": 333,
+          "name_rotation": 0,
+          "name": "EM",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "5.5pt",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 425,
+          "num_y": 329,
+          "num_rotation": 0,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "5.5pt",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 423,
+          "dot_y": 330,
+          "clock_visible": false,
+          "clock_path": "M 420 327 L 417 330 L 420 333",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "4",
+          "x": 440,
+          "y": 310,
+          "rotation": 0,
+          "gid": "gge26",
+          "locked": false,
+          "pindot_x": 440,
+          "pindot_y": 310,
+          "path": "M 440 310 h -20",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 418,
+          "name_y": 313,
+          "name_rotation": 0,
+          "name": "COL",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "5.5pt",
+          "name_colour": "#0000FF",
+          "num_visible": true,
+          "num_x": 425,
+          "num_y": 309,
+          "num_rotation": 0,
+          "num": "4",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "5.5pt",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 423,
+          "dot_y": 310,
+          "clock_visible": false,
+          "clock_path": "M 420 307 L 417 310 L 420 313",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 420,
+              "Y": 310
+            },
+            {
+              "X": 410,
+              "Y": 317
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge33",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 410,
+              "Y": 323
+            },
+            {
+              "X": 420,
+              "Y": 330
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge34",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 410,
+              "Y": 311
+            },
+            {
+              "X": 410,
+              "Y": 329
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge35",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 420,
+              "Y": 330
+            },
+            {
+              "X": 417,
+              "Y": 325
+            },
+            {
+              "X": 414,
+              "Y": 329
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge36",
+          "locked": false
+        },
+        {
+          "path": "M 398 328 L 396 324 L 394 326 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge37",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "path": "M 401 324 L 399 320 L 397 322 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge38",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 391,
+              "Y": 321
+            },
+            {
+              "X": 398,
+              "Y": 328
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge39",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 394,
+              "Y": 317
+            },
+            {
+              "X": 401,
+              "Y": 324
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge40",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 391,
+              "Y": 325
+            },
+            {
+              "X": 375,
+              "Y": 325
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge41",
+          "locked": false
+        },
+        {
+          "path": "M 377 315 L 383 325 L 390 315 Z ",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge42",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 370,
+              "Y": 310
+            },
+            {
+              "X": 383,
+              "Y": 310
+            },
+            {
+              "X": 383,
+              "Y": 330
+            },
+            {
+              "X": 370,
+              "Y": 330
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge43",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

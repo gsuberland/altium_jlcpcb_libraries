@@ -1,0 +1,202 @@
+{
+  "lcsc_id": 307331,
+  "uuid": "90d0ec3862a946bb9c074e514ae2d050",
+  "lcsc_part_name": "CL05B104KB54PNC",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Others_Samsung-Electro-Mechanics_CL05B104KB54PNC_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html",
+  "lcsc_price": 0.0151,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_291005.html",
+  "szlcsc_image": null,
+  "local_images": [
+    "C307331_0.jpg",
+    "C307331_1.jpg",
+    "C307331_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "SAMSUNG",
+  "manufacturer_cn": "\u4E09\u661F",
+  "manufacturer_part_number": "CL05B104KB54PNC",
+  "description": "",
+  "package": "C0402",
+  "smt": true,
+  "designator_template": "C?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 400,
+      "pos_y": 300,
+      "subpart_number": null,
+      "designator_template": "C?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 10,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 10,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 400,
+        "origin_y": 300
+      },
+      "features": [
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 398,
+              "Y": 292
+            },
+            {
+              "X": 398,
+              "Y": 308
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge3",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 380,
+          "y": 300,
+          "rotation": 180,
+          "gid": "gge4",
+          "locked": false,
+          "pindot_x": 380,
+          "pindot_y": 300,
+          "path": "M 390 300 h -10",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 394,
+          "name_y": 300,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 386,
+          "num_y": 296,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 367,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 370 297 L 373 300 L 370 303",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 410,
+              "Y": 300
+            },
+            {
+              "X": 402,
+              "Y": 300
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge11",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 402,
+              "Y": 308
+            },
+            {
+              "X": 402,
+              "Y": 292
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge12",
+          "locked": false
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 420,
+          "y": 300,
+          "rotation": 0,
+          "gid": "gge13",
+          "locked": false,
+          "pindot_x": 420,
+          "pindot_y": 300,
+          "path": "M 410 300 h 10",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 406,
+          "name_y": 300,
+          "name_rotation": 0,
+          "name": "2",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 414,
+          "num_y": 296,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 433,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 430 303 L 427 300 L 430 297",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 398,
+              "Y": 300
+            },
+            {
+              "X": 390,
+              "Y": 300
+            }
+          ],
+          "stroke_colour": "#A00000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge20",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

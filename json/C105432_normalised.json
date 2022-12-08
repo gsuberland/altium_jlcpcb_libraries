@@ -1,0 +1,243 @@
+{
+  "lcsc_id": 105432,
+  "uuid": "5ae3e91144f047e8bb61292762e4a42d",
+  "lcsc_part_name": "S8550_C105432",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Transistors-NPN-PNP_S8550_C105432.html",
+  "lcsc_price": 0.0108,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_106647.html",
+  "szlcsc_image": "https://assets.lcsc.com/images/szlcsc/96x96/Transistors-NPN-PNP_CJ_S8550120-200_S8550_C105432_front_10.jpg",
+  "local_images": [
+    "C105432_0.jpg",
+    "C105432_1.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "CJ(\u6C5F\u82CF\u957F\u7535/\u957F\u6676)",
+  "manufacturer_cn": null,
+  "manufacturer_part_number": "S8550",
+  "description": "",
+  "package": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+  "smt": true,
+  "designator_template": "Q?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 400,
+      "pos_y": 300,
+      "subpart_number": null,
+      "designator_template": "Q?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 5,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 400,
+        "origin_y": 300
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "1",
+          "x": 390,
+          "y": 300,
+          "rotation": 180,
+          "gid": "gge2",
+          "locked": false,
+          "pindot_x": 390,
+          "pindot_y": 300,
+          "path": "M 390 300 h 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 405,
+          "name_y": 303,
+          "name_rotation": 0,
+          "name": "1",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 400,
+          "num_y": 299,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 397,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 400 303 L 403 300 L 400 297",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "3",
+          "x": 410,
+          "y": 280,
+          "rotation": 90,
+          "gid": "gge9",
+          "locked": false,
+          "pindot_x": 410,
+          "pindot_y": 280,
+          "path": "M 410 280 v 10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 413,
+          "name_y": 295,
+          "name_rotation": 270,
+          "name": "3",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 409,
+          "num_y": 290,
+          "num_rotation": 270,
+          "num": "3",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 410,
+          "dot_y": 287,
+          "clock_visible": false,
+          "clock_path": "M 407 290 L 410 293 L 413 290",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Input",
+          "spicepin": "2",
+          "x": 410,
+          "y": 320,
+          "rotation": 270,
+          "gid": "gge18",
+          "locked": false,
+          "pindot_x": 410,
+          "pindot_y": 320,
+          "path": "M 410 320 v -10",
+          "colour": "#880000",
+          "name_visible": false,
+          "name_x": 413,
+          "name_y": 305,
+          "name_rotation": 270,
+          "name": "2",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#0000FF",
+          "num_visible": false,
+          "num_x": 409,
+          "num_y": 310,
+          "num_rotation": 270,
+          "num": "2",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#0000FF",
+          "dot_visible": false,
+          "dot_x": 410,
+          "dot_y": 313,
+          "clock_visible": false,
+          "clock_path": "M 413 310 L 410 307 L 407 310",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 410,
+              "Y": 290
+            },
+            {
+              "X": 400,
+              "Y": 297
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge25",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 303
+            },
+            {
+              "X": 410,
+              "Y": 310
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge26",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 400,
+              "Y": 291
+            },
+            {
+              "X": 400,
+              "Y": 309
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge27",
+          "locked": false
+        },
+        {
+          "type": "polygon",
+          "points": [
+            {
+              "X": 400,
+              "Y": 303
+            },
+            {
+              "X": 403,
+              "Y": 308
+            },
+            {
+              "X": 406,
+              "Y": 304
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge28",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

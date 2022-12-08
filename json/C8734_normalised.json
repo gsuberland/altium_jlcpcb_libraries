@@ -1,0 +1,25 @@
+{
+  "lcsc_id": 8734,
+  "uuid": "7347be22b5856eba3ffccb74c7404572",
+  "lcsc_part_name": "STM32F103C8T6",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F103C8T6_STM32F103C8T6_C8734.html",
+  "lcsc_price": 2.3981,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_9243.html",
+  "szlcsc_image": "https://image.lceda.cn/szlcsc/C8734.jpg",
+  "local_images": [
+    "C8734_0.jpg",
+    "C8734_1.jpg",
+    "C8734_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "ST",
+  "manufacturer_cn": "\u610F\u6CD5\u534A\u5BFC\u4F53",
+  "manufacturer_part_number": "STM32F103C8T6",
+  "description": "ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 IOs, 48-pin LQFP, -40 to 85 degC, Tray",
+  "package": "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+  "smt": true,
+  "designator_template": "U?",
+  "symbol_has_subparts": true,
+  "symbols": []
+}

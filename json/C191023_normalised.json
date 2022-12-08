@@ -1,0 +1,194 @@
+{
+  "lcsc_id": 191023,
+  "uuid": "8698f55d2b05489c9b6d911e7a0aaab0",
+  "lcsc_part_name": "1N5819WS",
+  "lcsc_last_updated": null,
+  "lcsc_url": "https://lcsc.com/product-detail/Others_B5819WS_C191023.html",
+  "lcsc_price": 0.0175,
+  "szlcsc_url": "http://www.szlcsc.com/product/details_213850.html",
+  "szlcsc_image": null,
+  "local_images": [
+    "C191023_0.jpg",
+    "C191023_1.jpg",
+    "C191023_2.jpg"
+  ],
+  "jlcpcb_basic_part": true,
+  "manufacturer": "Hottech",
+  "manufacturer_cn": "\u5408\u79D1\u6CF0",
+  "manufacturer_part_number": "1N5819WS",
+  "description": "",
+  "package": "SOD-323_L1.8-W1.3-LS2.5-RD",
+  "smt": true,
+  "designator_template": "D?",
+  "symbol_has_subparts": false,
+  "symbols": [
+    {
+      "pos_x": 400,
+      "pos_y": 300,
+      "subpart_number": null,
+      "designator_template": "D?",
+      "canvas_properties": {
+        "view_width": 1000,
+        "view_height": 1000,
+        "background": "#FFFFFF",
+        "grid_visible": true,
+        "grid_colour": "#CCCCCC",
+        "grid_size": 10,
+        "canvas_width": 1000,
+        "canvas_height": 1000,
+        "grid_style": "line",
+        "snap_size": 5,
+        "unit": "pixel",
+        "snap_size_alt": 5,
+        "origin_x": 400,
+        "origin_y": 300
+      },
+      "features": [
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "2",
+          "x": 420,
+          "y": 300,
+          "rotation": 0,
+          "gid": "gge3",
+          "locked": false,
+          "pindot_x": 420,
+          "pindot_y": 300,
+          "path": "M 420 300 h -15",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 401,
+          "name_y": 300,
+          "name_rotation": 0,
+          "name": "A",
+          "name_text_anchor": "end",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 409,
+          "num_y": 296,
+          "num_rotation": 0,
+          "num": "2",
+          "num_text_anchor": "start",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 408,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 405 297 L 402 300 L 405 303",
+          "type": "pin"
+        },
+        {
+          "display": "show",
+          "electric": "Undefined",
+          "spicepin": "1",
+          "x": 380,
+          "y": 300,
+          "rotation": 180,
+          "gid": "gge10",
+          "locked": false,
+          "pindot_x": 380,
+          "pindot_y": 300,
+          "path": "M 380 300 h 15",
+          "colour": "#800",
+          "name_visible": false,
+          "name_x": 399,
+          "name_y": 300,
+          "name_rotation": 0,
+          "name": "C",
+          "name_text_anchor": "start",
+          "name_font": "",
+          "name_font_size": "",
+          "name_colour": "#800",
+          "num_visible": false,
+          "num_x": 391,
+          "num_y": 296,
+          "num_rotation": 0,
+          "num": "1",
+          "num_text_anchor": "end",
+          "num_font": "",
+          "num_font_size": "",
+          "num_colour": "#800",
+          "dot_visible": false,
+          "dot_x": 392,
+          "dot_y": 300,
+          "clock_visible": false,
+          "clock_path": "M 395 303 L 398 300 L 395 297",
+          "type": "pin"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 395,
+              "Y": 308
+            },
+            {
+              "X": 395,
+              "Y": 292
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge17",
+          "locked": false
+        },
+        {
+          "path": "M 405 294 L 395 300 L 405 307 Z",
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "#880000",
+          "gid": "gge18",
+          "locked": false,
+          "c_etype": "",
+          "type": "path"
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 395,
+              "Y": 308
+            },
+            {
+              "X": 392,
+              "Y": 308
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge20",
+          "locked": false
+        },
+        {
+          "type": "polyline",
+          "points": [
+            {
+              "X": 395,
+              "Y": 292
+            },
+            {
+              "X": 398,
+              "Y": 292
+            }
+          ],
+          "stroke_colour": "#880000",
+          "stroke_width": 1,
+          "stroke_style": "0",
+          "fill_colour": "none",
+          "gid": "gge21",
+          "locked": false
+        }
+      ]
+    }
+  ]
+}
