@@ -763,5 +763,519 @@
         }
       ]
     }
+  ],
+  "footprint": [
+    {
+      "center_x": 197.7008,
+      "center_y": -471.3509,
+      "radius": 0.1181,
+      "stroke_width": 0.2362,
+      "layer_id": "101",
+      "gid": "gge156",
+      "locked": false,
+      "net": "",
+      "transform_arc": "circle_gge157,circle_gge158",
+      "type": "circle"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 198.2917 -471.3509 L 198.2917 -472.5321 L 200.2603 -472.5321 L 200.2603 -471.3509 Z ",
+      "region_type": "solid",
+      "gid": "gge104",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 198.2917 -476.4689 L 198.2917 -477.6501 L 200.2603 -477.6501 L 200.2603 -476.4689 Z ",
+      "region_type": "solid",
+      "gid": "gge105",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 201.4407 -471.3509 L 201.4407 -472.5321 L 203.4093 -472.5321 L 203.4093 -471.3509 Z ",
+      "region_type": "solid",
+      "gid": "gge106",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 204.5907 -471.3509 L 204.5907 -472.5321 L 206.5593 -472.5321 L 206.5593 -471.3509 Z ",
+      "region_type": "solid",
+      "gid": "gge108",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 204.5907 -476.4689 L 204.5907 -477.6501 L 206.5593 -477.6501 L 206.5593 -476.4689 Z ",
+      "region_type": "solid",
+      "gid": "gge109",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 207.7397 -471.3509 L 207.7397 -472.5321 L 209.7083 -472.5321 L 209.7083 -471.3509 Z ",
+      "region_type": "solid",
+      "gid": "gge110",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 201.4407 -476.4689 L 201.4407 -477.6501 L 203.4093 -477.6501 L 203.4093 -476.4689 Z ",
+      "region_type": "solid",
+      "gid": "gge107",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 207.7393 -476.4689 L 207.7393 -477.6501 L 209.7079 -477.6501 L 209.7079 -476.4689 Z ",
+      "region_type": "solid",
+      "gid": "gge117",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "99",
+      "net": "",
+      "path": "M 197.7008 -471.3509 L 197.7008 -477.6501 L 210.2992 -477.6501 L 210.2992 -471.3509 Z",
+      "region_type": "solid",
+      "gid": "gge103",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "stroke_width": 0.7874,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 211.3605,
+          "Y": -472.7288
+        },
+        {
+          "X": 211.3605,
+          "Y": -468.7927
+        },
+        {
+          "X": 196.6365,
+          "Y": -468.7917
+        },
+        {
+          "X": 196.6365,
+          "Y": -472.8867
+        }
+      ],
+      "gid": "gge78",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 0.7874,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 196.638,
+          "Y": -476.272
+        },
+        {
+          "X": 196.638,
+          "Y": -480.287
+        },
+        {
+          "X": 211.362,
+          "Y": -480.288
+        },
+        {
+          "X": 211.362,
+          "Y": -476.1923
+        }
+      ],
+      "gid": "rep10",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 208.724,
+      "pos_y": -478.044,
+      "width": 2.5591,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "5",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 207.4445,
+          "Y": -479.6185
+        },
+        {
+          "X": 210.0035,
+          "Y": -479.6185
+        },
+        {
+          "X": 210.0035,
+          "Y": -476.4689
+        },
+        {
+          "X": 207.4445,
+          "Y": -476.4689
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep2",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 208.7241,
+        "Y": -478.0433
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 208.724,
+      "pos_y": -470.957,
+      "width": 2.5591,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "4",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 207.4445,
+          "Y": -472.5321
+        },
+        {
+          "X": 210.0035,
+          "Y": -472.5321
+        },
+        {
+          "X": 210.0035,
+          "Y": -469.3825
+        },
+        {
+          "X": 207.4445,
+          "Y": -469.3825
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep3",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 208.7239,
+        "Y": -470.9569
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 205.575,
+      "pos_y": -478.044,
+      "width": 1.9685,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "6",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 204.5907,
+          "Y": -479.6185
+        },
+        {
+          "X": 206.5593,
+          "Y": -479.6185
+        },
+        {
+          "X": 206.5593,
+          "Y": -476.4689
+        },
+        {
+          "X": 204.5907,
+          "Y": -476.4689
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep4",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 205.5751,
+        "Y": -478.0437
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 205.575,
+      "pos_y": -470.957,
+      "width": 1.9685,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "3",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 204.5907,
+          "Y": -472.5321
+        },
+        {
+          "X": 206.5593,
+          "Y": -472.5321
+        },
+        {
+          "X": 206.5593,
+          "Y": -469.3825
+        },
+        {
+          "X": 204.5907,
+          "Y": -469.3825
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep5",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 205.5749,
+        "Y": -470.9573
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 202.425,
+      "pos_y": -478.044,
+      "width": 1.9685,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "7",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 201.4407,
+          "Y": -479.6185
+        },
+        {
+          "X": 203.4093,
+          "Y": -479.6185
+        },
+        {
+          "X": 203.4093,
+          "Y": -476.4689
+        },
+        {
+          "X": 201.4407,
+          "Y": -476.4689
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep6",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 202.4251,
+        "Y": -478.0437
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 202.425,
+      "pos_y": -470.957,
+      "width": 1.9685,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "2",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 201.4407,
+          "Y": -472.5321
+        },
+        {
+          "X": 203.4093,
+          "Y": -472.5321
+        },
+        {
+          "X": 203.4093,
+          "Y": -469.3825
+        },
+        {
+          "X": 201.4407,
+          "Y": -469.3825
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep7",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 202.4249,
+        "Y": -470.9573
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 199.276,
+      "pos_y": -478.044,
+      "width": 2.5591,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "8",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 197.9965,
+          "Y": -479.6185
+        },
+        {
+          "X": 200.5555,
+          "Y": -479.6185
+        },
+        {
+          "X": 200.5555,
+          "Y": -476.4689
+        },
+        {
+          "X": 197.9965,
+          "Y": -476.4689
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep8",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 199.2761,
+        "Y": -478.0441
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 199.276,
+      "pos_y": -470.957,
+      "width": 2.5591,
+      "height": 3.1496,
+      "layer_id": "1",
+      "net": "",
+      "number": "1",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 197.9965,
+          "Y": -472.5321
+        },
+        {
+          "X": 200.5555,
+          "Y": -472.5321
+        },
+        {
+          "X": 200.5555,
+          "Y": -469.3825
+        },
+        {
+          "X": 197.9965,
+          "Y": -469.3825
+        }
+      ],
+      "rotation": 0,
+      "gid": "rep9",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 199.2759,
+        "Y": -470.9577
+      },
+      "type": "pad"
+    },
+    {
+      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002212.5984\u0022,\u0022c_height\u0022:\u00226.2992\u0022,\u0022c_rotation\u0022:\u00220,0,0\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u0022204,-474.5005\u0022,\u0022uuid\u0022:\u0022551b3dd0a237409fa823f51b33d3f6d1\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022R0603-8P_L3.2-W1.6-H0.6\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u0022197.7008 -477.6501 197.7008 -477.6107 197.7008 -477.3745 197.7008 -476.469 197.7008 -474.343 197.7008 -472.532 197.7008 -471.6264 197.7008 -471.3902 197.7008 -471.3509 200.2599 -471.3509 200.2599 -471.3902 200.2599 -471.6264 200.2599 -472.532 201.441 -472.532 201.441 -471.6264 201.441 -471.3902 201.441 -471.3509 203.4095 -471.3509 203.4095 -471.3902 203.4095 -471.6264 203.4095 -472.532 204.1969 -472.532 204.5906 -472.532 204.5906 -471.6264 204.5906 -471.3902 204.5906 -471.3509 206.5591 -471.3509 206.5591 -471.3902 206.5591 -471.6264 206.5591 -472.532 207.7402 -472.532 207.7402 -471.6264 207.7402 -471.3902 207.7402 -471.3509 210.2992 -471.3509 210.2992 -471.3902 210.2992 -471.6264 210.2992 -472.532 210.2992 -474.343 210.2992 -476.469 210.2992 -477.3745 210.2992 -477.6107 210.2992 -477.6501 207.7402 -477.6501 207.7402 -477.6107 207.7402 -477.3745 207.7402 -476.469 206.5591 -476.469 206.5591 -477.3745 206.5591 -477.6107 206.5591 -477.6501 204.5906 -477.6501 204.5906 -477.6107 204.5906 -477.3745 204.5906 -476.469 204.1969 -476.469 203.4095 -476.469 203.4095 -477.3745 203.4095 -477.6107 203.4095 -477.6501 201.441 -477.6501 201.441 -477.6107 201.441 -477.3745 201.441 -476.469 200.2599 -476.469 200.2599 -477.3745 200.2599 -477.6107 200.2599 -477.6501 197.7008 -477.6501 197.7008 -477.6501\u0022}}]}",
+      "type": "svgnode"
+    }
   ]
 }

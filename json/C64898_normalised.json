@@ -152,5 +152,305 @@
         }
       ]
     }
+  ],
+  "footprint": [
+    {
+      "center_x": 3992.5236,
+      "center_y": 3002.8464,
+      "radius": 0.1181,
+      "stroke_width": 0.2362,
+      "layer_id": "101",
+      "gid": "gge155",
+      "locked": false,
+      "net": "",
+      "transform_arc": "",
+      "type": "circle"
+    },
+    {
+      "layer_id": "12",
+      "net": "",
+      "path": "M 3992.307 2999 L 3995.807 2999 L 3995.807 3000 L3992.307,3000 Z",
+      "region_type": "solid",
+      "gid": "gge132",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "12",
+      "net": "",
+      "path": "M 4005.5998 3001.218 L 4005.5998 2997.718 L 4006.5998 2997.718 L 4006.5998 3001.218 Z ",
+      "region_type": "solid",
+      "gid": "gge140",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "12",
+      "net": "",
+      "path": "M 4004.307 2999 L 4007.807 2999 L 4007.807 3000 L 4004.307 3000 Z ",
+      "region_type": "solid",
+      "gid": "gge142",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "99",
+      "net": "",
+      "path": "M 3994.4922 3002.8464 L 3994.4922 2996.1535 L 4005.1221 2996.1535 L 4005.1221 3002.8464 Z",
+      "region_type": "solid",
+      "gid": "gge149",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3993.8226,
+          "Y": 2995.7735
+        },
+        {
+          "X": 4005.6336,
+          "Y": 2995.7735
+        }
+      ],
+      "gid": "gge22",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3993.8752,
+          "Y": 3003.1738
+        },
+        {
+          "X": 4005.6862,
+          "Y": 3003.1738
+        }
+      ],
+      "gid": "gge21",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3996.807,
+          "Y": 2999.5
+        },
+        {
+          "X": 4002.807,
+          "Y": 2999.5
+        }
+      ],
+      "gid": "gge19",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3997.807,
+          "Y": 2997.5
+        },
+        {
+          "X": 3997.807,
+          "Y": 3001.5
+        }
+      ],
+      "gid": "gge20",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 4001.807,
+          "Y": 3001.1
+        },
+        {
+          "X": 3997.807,
+          "Y": 2999.5
+        }
+      ],
+      "gid": "gge23",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 4001.807,
+          "Y": 2997.9
+        },
+        {
+          "X": 4001.807,
+          "Y": 3001.1
+        }
+      ],
+      "gid": "gge24",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3997.807,
+          "Y": 2999.5
+        },
+        {
+          "X": 4001.807,
+          "Y": 2997.9
+        }
+      ],
+      "gid": "gge25",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4005.909,
+      "pos_y": 2999.5,
+      "width": 3.937,
+      "height": 4.7244,
+      "layer_id": "1",
+      "net": "",
+      "number": "2",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4003.9405,
+          "Y": 2997.1378
+        },
+        {
+          "X": 4007.8775,
+          "Y": 2997.1378
+        },
+        {
+          "X": 4007.8775,
+          "Y": 3001.8622
+        },
+        {
+          "X": 4003.9405,
+          "Y": 3001.8622
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge9",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4005.9093,
+        "Y": 2999.5
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3993.705,
+      "pos_y": 2999.5,
+      "width": 3.937,
+      "height": 4.7244,
+      "layer_id": "1",
+      "net": "",
+      "number": "1",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3991.7365,
+          "Y": 2997.1378
+        },
+        {
+          "X": 3995.6735,
+          "Y": 2997.1378
+        },
+        {
+          "X": 3995.6735,
+          "Y": 3001.8622
+        },
+        {
+          "X": 3991.7365,
+          "Y": 3001.8622
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge8",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3993.7047,
+        "Y": 2999.5
+      },
+      "type": "pad"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3992.5236 3001.4685 L 3992.5236 2997.5315 L 3994.6889 2997.5315 L 3994.6889 3001.4685 Z",
+      "region_type": "solid",
+      "gid": "gge145",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4004.9251 3001.4685 L 4004.9251 2997.5315 L 4007.0905 2997.5315 L 4007.0905 3001.4685 Z",
+      "region_type": "solid",
+      "gid": "gge147",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002214.5669\u0022,\u0022c_height\u0022:\u00227.0866\u0022,\u0022c_rotation\u0022:\u00220,0,0\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00223999.807,2999.4724\u0022,\u0022uuid\u0022:\u0022c6882627c5f64d6e8dd3b5c64b2adb0a\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022SOD-123FL_L2.8-W1.8-LS3.7-RD-1\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00223992.5236 2997.5039 3992.5236 3001.4409 3994.2953 3001.4409 3994.2953 3002.8188 3994.2953 3002.8582 3994.2953 3002.8975 3994.3347 3002.9369 3994.3347 3002.9763 3994.374 3002.9763 3994.4134 3003.0157 3994.4528 3003.0157 3994.4921 3003.0157 4005.122 3003.0157 4005.1614 3003.0157 4005.2008 3003.0157 4005.2402 3002.9763 4005.2795 3002.9763 4005.2795 3002.9369 4005.3189 3002.8975 4005.3189 3002.8582 4005.3189 3002.8188 4005.3189 3001.4409 4007.0905 3001.4409 4007.0905 2997.5039 4005.3189 2997.5039 4005.3189 2996.1259 4005.3189 2996.0865 4005.3189 2996.0472 4005.2795 2996.0078 4005.2795 2995.9684 4005.2402 2995.9684 4005.2008 2995.9291 4005.1614 2995.9291 4005.122 2995.9291 3994.4921 2995.9291 3994.4528 2995.9291 3994.4134 2995.9291 3994.374 2995.9684 3994.3347 2995.9684 3994.3347 2996.0078 3994.2953 2996.0472 3994.2953 2996.0865 3994.2953 2996.1259 3994.2953 2997.5039 3992.5236 2997.5039 3992.5236 2997.5039\u0022}}]}",
+      "type": "svgnode"
+    }
   ]
 }

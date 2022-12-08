@@ -973,5 +973,1707 @@
         }
       ]
     }
+  ],
+  "footprint": [
+    {
+      "center_x": 3982.1457,
+      "center_y": 3014.0437,
+      "radius": 0.1181,
+      "stroke_width": 0.2362,
+      "layer_id": "101",
+      "gid": "gge689",
+      "locked": false,
+      "net": "",
+      "transform_arc": "circle_gge690,circle_gge691",
+      "type": "circle"
+    },
+    {
+      "center_x": 3983,
+      "center_y": 3015,
+      "radius": 0.787,
+      "stroke_width": 1.5748,
+      "layer_id": "12",
+      "gid": "gge683",
+      "locked": false,
+      "net": "",
+      "transform_arc": "",
+      "type": "circle"
+    },
+    {
+      "layer_id": "99",
+      "net": "",
+      "path": "M 3982.1457 2992.8386 L 4012.8543 2992.8386 L 4012.8543 3010.1614 L 3982.1457 3010.1614 Z ",
+      "region_type": "solid",
+      "gid": "gge186",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3982.2,
+          "Y": 2999.6
+        },
+        {
+          "X": 3982.2,
+          "Y": 2994.6
+        }
+      ],
+      "gid": "gge153",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 3982.2,
+          "Y": 3008.4
+        },
+        {
+          "X": 3982.2,
+          "Y": 3003.4
+        }
+      ],
+      "gid": "gge154",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "points": [
+        {
+          "X": 4013,
+          "Y": 2993.5966
+        },
+        {
+          "X": 4013,
+          "Y": 3009.4034
+        }
+      ],
+      "gid": "gge161",
+      "locked": false,
+      "type": "track"
+    },
+    {
+      "stroke_width": 1,
+      "layer_id": "3",
+      "net": "",
+      "diameter": "M 3982.2 2999.7 A 1.85 1.85 0 0 1 3982.2 3003.4",
+      "helper_dots": "",
+      "gid": "gge40",
+      "locked": false,
+      "type": "arc"
+    },
+    {
+      "center_x": 3981.2,
+      "center_y": 3013.5,
+      "radius": 0.394,
+      "stroke_width": 0.7874,
+      "layer_id": "3",
+      "gid": "gge50",
+      "locked": false,
+      "net": "",
+      "transform_arc": "",
+      "type": "circle"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3996.221,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "6",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3995.4331,
+          "Y": 3010.1519
+        },
+        {
+          "X": 3997.0079,
+          "Y": 3010.1519
+        },
+        {
+          "X": 3997.0079,
+          "Y": 3016.6479
+        },
+        {
+          "X": 3995.4331,
+          "Y": 3016.6479
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge313",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3996.2205,
+        "Y": 3013.3999
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3993.662,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "5",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3992.8741,
+          "Y": 3010.152
+        },
+        {
+          "X": 3994.4489,
+          "Y": 3010.152
+        },
+        {
+          "X": 3994.4489,
+          "Y": 3016.648
+        },
+        {
+          "X": 3992.8741,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge320",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3993.6615,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3991.103,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "4",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3990.3151,
+          "Y": 3010.152
+        },
+        {
+          "X": 3991.8899,
+          "Y": 3010.152
+        },
+        {
+          "X": 3991.8899,
+          "Y": 3016.648
+        },
+        {
+          "X": 3990.3151,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge327",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3991.1025,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3988.544,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "3",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3987.7561,
+          "Y": 3010.152
+        },
+        {
+          "X": 3989.3309,
+          "Y": 3010.152
+        },
+        {
+          "X": 3989.3309,
+          "Y": 3016.648
+        },
+        {
+          "X": 3987.7561,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge334",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3988.5435,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3985.985,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "2",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3985.1971,
+          "Y": 3010.152
+        },
+        {
+          "X": 3986.7719,
+          "Y": 3010.152
+        },
+        {
+          "X": 3986.7719,
+          "Y": 3016.648
+        },
+        {
+          "X": 3985.1971,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge341",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3985.9845,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3983.426,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "1",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3982.6381,
+          "Y": 3010.152
+        },
+        {
+          "X": 3984.2129,
+          "Y": 3010.152
+        },
+        {
+          "X": 3984.2129,
+          "Y": 3016.648
+        },
+        {
+          "X": 3982.6381,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge352",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3983.4255,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3998.779,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "7",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3997.9921,
+          "Y": 3010.152
+        },
+        {
+          "X": 3999.5669,
+          "Y": 3010.152
+        },
+        {
+          "X": 3999.5669,
+          "Y": 3016.648
+        },
+        {
+          "X": 3997.9921,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge424",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3998.7795,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4011.574,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "12",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4010.7871,
+          "Y": 3010.152
+        },
+        {
+          "X": 4012.3619,
+          "Y": 3010.152
+        },
+        {
+          "X": 4012.3619,
+          "Y": 3016.648
+        },
+        {
+          "X": 4010.7871,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge472",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4011.5745,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4009.016,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "11",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4008.2281,
+          "Y": 3010.152
+        },
+        {
+          "X": 4009.8029,
+          "Y": 3010.152
+        },
+        {
+          "X": 4009.8029,
+          "Y": 3016.648
+        },
+        {
+          "X": 4008.2281,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge473",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4009.0155,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4006.457,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "10",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4005.6691,
+          "Y": 3010.152
+        },
+        {
+          "X": 4007.2439,
+          "Y": 3010.152
+        },
+        {
+          "X": 4007.2439,
+          "Y": 3016.648
+        },
+        {
+          "X": 4005.6691,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge474",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4006.4565,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4003.898,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "9",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4003.1101,
+          "Y": 3010.152
+        },
+        {
+          "X": 4004.6849,
+          "Y": 3010.152
+        },
+        {
+          "X": 4004.6849,
+          "Y": 3016.648
+        },
+        {
+          "X": 4003.1101,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge475",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4003.8975,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4001.339,
+      "pos_y": 3013.4,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "8",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4000.5511,
+          "Y": 3010.152
+        },
+        {
+          "X": 4002.1259,
+          "Y": 3010.152
+        },
+        {
+          "X": 4002.1259,
+          "Y": 3016.648
+        },
+        {
+          "X": 4000.5511,
+          "Y": 3016.648
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge476",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4001.3385,
+        "Y": 3013.4
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3993.662,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "20",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3992.8741,
+          "Y": 2986.352
+        },
+        {
+          "X": 3994.4489,
+          "Y": 2986.352
+        },
+        {
+          "X": 3994.4489,
+          "Y": 2992.848
+        },
+        {
+          "X": 3992.8741,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge645",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3993.6615,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3991.103,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "21",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3990.3151,
+          "Y": 2986.352
+        },
+        {
+          "X": 3991.8899,
+          "Y": 2986.352
+        },
+        {
+          "X": 3991.8899,
+          "Y": 2992.848
+        },
+        {
+          "X": 3990.3151,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge646",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3991.1025,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3988.544,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "22",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3987.7561,
+          "Y": 2986.352
+        },
+        {
+          "X": 3989.3309,
+          "Y": 2986.352
+        },
+        {
+          "X": 3989.3309,
+          "Y": 2992.848
+        },
+        {
+          "X": 3987.7561,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge647",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3988.5435,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3985.985,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "23",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3985.1971,
+          "Y": 2986.352
+        },
+        {
+          "X": 3986.7719,
+          "Y": 2986.352
+        },
+        {
+          "X": 3986.7719,
+          "Y": 2992.848
+        },
+        {
+          "X": 3985.1971,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge648",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3985.9845,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3983.426,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "24",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3982.6381,
+          "Y": 2986.352
+        },
+        {
+          "X": 3984.2129,
+          "Y": 2986.352
+        },
+        {
+          "X": 3984.2129,
+          "Y": 2992.848
+        },
+        {
+          "X": 3982.6381,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge649",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3983.4255,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3996.221,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "19",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3995.4331,
+          "Y": 2986.352
+        },
+        {
+          "X": 3997.0079,
+          "Y": 2986.352
+        },
+        {
+          "X": 3997.0079,
+          "Y": 2992.848
+        },
+        {
+          "X": 3995.4331,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge650",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3996.2205,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4011.574,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "13",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4010.7871,
+          "Y": 2986.352
+        },
+        {
+          "X": 4012.3619,
+          "Y": 2986.352
+        },
+        {
+          "X": 4012.3619,
+          "Y": 2992.848
+        },
+        {
+          "X": 4010.7871,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge651",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4011.5745,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4009.016,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "14",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4008.2281,
+          "Y": 2986.352
+        },
+        {
+          "X": 4009.8029,
+          "Y": 2986.352
+        },
+        {
+          "X": 4009.8029,
+          "Y": 2992.848
+        },
+        {
+          "X": 4008.2281,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge652",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4009.0155,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4006.457,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "15",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4005.6691,
+          "Y": 2986.352
+        },
+        {
+          "X": 4007.2439,
+          "Y": 2986.352
+        },
+        {
+          "X": 4007.2439,
+          "Y": 2992.848
+        },
+        {
+          "X": 4005.6691,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge653",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4006.4565,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4003.898,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "16",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4003.1101,
+          "Y": 2986.352
+        },
+        {
+          "X": 4004.6849,
+          "Y": 2986.352
+        },
+        {
+          "X": 4004.6849,
+          "Y": 2992.848
+        },
+        {
+          "X": 4003.1101,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge654",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4003.8975,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 4001.339,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "17",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 4000.5511,
+          "Y": 2986.352
+        },
+        {
+          "X": 4002.1259,
+          "Y": 2986.352
+        },
+        {
+          "X": 4002.1259,
+          "Y": 2992.848
+        },
+        {
+          "X": 4000.5511,
+          "Y": 2992.848
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge655",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 4001.3385,
+        "Y": 2989.6
+      },
+      "type": "pad"
+    },
+    {
+      "shape": "RECT",
+      "pos_x": 3998.779,
+      "pos_y": 2989.6,
+      "width": 1.5748,
+      "height": 6.4961,
+      "layer_id": "1",
+      "net": "",
+      "number": "18",
+      "hole_radius": "0",
+      "points": [
+        {
+          "X": 3997.9921,
+          "Y": 2986.3521
+        },
+        {
+          "X": 3999.5669,
+          "Y": 2986.3521
+        },
+        {
+          "X": 3999.5669,
+          "Y": 2992.8481
+        },
+        {
+          "X": 3997.9921,
+          "Y": 2992.8481
+        }
+      ],
+      "rotation": 0,
+      "gid": "gge656",
+      "hole_length": 0,
+      "slot_points": "",
+      "plated": true,
+      "locked": false,
+      "paste_expansion": 0,
+      "solder_expansion": 0.2,
+      "hole_center": {
+        "X": 3998.7795,
+        "Y": 2989.6001
+      },
+      "type": "pad"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3995.8283 3011.68 L 3996.6141 3011.68 L 3996.6141 3014.0437 L 3995.8267 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge314",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3995.8283 3011.69 L 3996.6141 3011.69 L 3996.6141 3010.1152 L 3995.8267 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge315",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3993.2693 3011.68 L 3994.0551 3011.68 L 3994.0551 3014.0437 L 3993.2677 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge321",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3993.2693 3011.69 L 3994.0551 3011.69 L 3994.0551 3010.1152 L 3993.2677 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge322",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3990.7103 3011.68 L 3991.4961 3011.68 L 3991.4961 3014.0437 L 3990.7087 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge328",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3990.7103 3011.69 L 3991.4961 3011.69 L 3991.4961 3010.1152 L 3990.7087 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge329",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3988.1513 3011.68 L 3988.9371 3011.68 L 3988.9371 3014.0437 L 3988.1497 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge335",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3988.1513 3011.69 L 3988.9371 3011.69 L 3988.9371 3010.1152 L 3988.1497 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge336",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3985.5923 3011.68 L 3986.3781 3011.68 L 3986.3781 3014.0437 L 3985.5907 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge342",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3985.5923 3011.69 L 3986.3781 3011.69 L 3986.3781 3010.1152 L 3985.5907 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge343",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3983.0333 3011.68 L 3983.8191 3011.68 L 3983.8191 3014.0437 L 3983.0317 3014.0437 Z ",
+      "region_type": "solid",
+      "gid": "gge353",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3983.0333 3011.69 L 3983.8191 3011.69 L 3983.8191 3010.1152 L 3983.0317 3010.1152 Z ",
+      "region_type": "cutout",
+      "gid": "gge354",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4011.1826 3011.6799 L 4011.9684 3011.6799 L 4011.9684 3014.0436 L 4011.181 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge425",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4011.1826 3011.6899 L 4011.9684 3011.6899 L 4011.9684 3010.1151 L 4011.181 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge426",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4008.6236 3011.6799 L 4009.4094 3011.6799 L 4009.4094 3014.0436 L 4008.622 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge462",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4008.6236 3011.6899 L 4009.4094 3011.6899 L 4009.4094 3010.1151 L 4008.622 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge463",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4006.0646 3011.6799 L 4006.8504 3011.6799 L 4006.8504 3014.0436 L 4006.063 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge464",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4006.0646 3011.6899 L 4006.8504 3011.6899 L 4006.8504 3010.1151 L 4006.063 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge465",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4003.5056 3011.6799 L 4004.2914 3011.6799 L 4004.2914 3014.0436 L 4003.504 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge466",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4003.5056 3011.6899 L 4004.2914 3011.6899 L 4004.2914 3010.1151 L 4003.504 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge467",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4000.9466 3011.6799 L 4001.7324 3011.6799 L 4001.7324 3014.0436 L 4000.945 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge468",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4000.9466 3011.6899 L 4001.7324 3011.6899 L 4001.7324 3010.1151 L 4000.945 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge469",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3998.3876 3011.6799 L 3999.1734 3011.6799 L 3999.1734 3014.0436 L 3998.386 3014.0436 Z ",
+      "region_type": "solid",
+      "gid": "gge470",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3998.3876 3011.6899 L 3999.1734 3011.6899 L 3999.1734 3010.1151 L 3998.386 3010.1151 Z ",
+      "region_type": "cutout",
+      "gid": "gge471",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3999.1717 2991.32 L 3998.3859 2991.32 L 3998.3859 2988.9563 L 3999.1733 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge657",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3999.1717 2991.31 L 3998.3859 2991.31 L 3998.3859 2992.8848 L 3999.1733 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge658",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4001.7307 2991.32 L 4000.9449 2991.32 L 4000.9449 2988.9563 L 4001.7323 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge659",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4001.7307 2991.31 L 4000.9449 2991.31 L 4000.9449 2992.8848 L 4001.7323 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge660",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4004.2897 2991.32 L 4003.5039 2991.32 L 4003.5039 2988.9563 L 4004.2913 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge661",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4004.2897 2991.31 L 4003.5039 2991.31 L 4003.5039 2992.8848 L 4004.2913 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge662",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4006.8487 2991.32 L 4006.0629 2991.32 L 4006.0629 2988.9563 L 4006.8503 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge663",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4006.8487 2991.31 L 4006.0629 2991.31 L 4006.0629 2992.8848 L 4006.8503 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge664",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4009.4077 2991.32 L 4008.6219 2991.32 L 4008.6219 2988.9563 L 4009.4093 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge665",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4009.4077 2991.31 L 4008.6219 2991.31 L 4008.6219 2992.8848 L 4009.4093 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge666",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4011.9667 2991.32 L 4011.1809 2991.32 L 4011.1809 2988.9563 L 4011.9683 2988.9563 Z",
+      "region_type": "solid",
+      "gid": "gge667",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 4011.9667 2991.31 L 4011.1809 2991.31 L 4011.1809 2992.8848 L 4011.9683 2992.8848 Z",
+      "region_type": "cutout",
+      "gid": "gge668",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3983.8174 2991.3201 L 3983.0316 2991.3201 L 3983.0316 2988.9564 L 3983.819 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge669",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3983.8174 2991.3101 L 3983.0316 2991.3101 L 3983.0316 2992.8849 L 3983.819 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge670",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3986.3764 2991.3201 L 3985.5906 2991.3201 L 3985.5906 2988.9564 L 3986.378 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge671",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3986.3764 2991.3101 L 3985.5906 2991.3101 L 3985.5906 2992.8849 L 3986.378 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge672",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3988.9354 2991.3201 L 3988.1496 2991.3201 L 3988.1496 2988.9564 L 3988.937 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge673",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3988.9354 2991.3101 L 3988.1496 2991.3101 L 3988.1496 2992.8849 L 3988.937 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge674",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3991.4944 2991.3201 L 3990.7086 2991.3201 L 3990.7086 2988.9564 L 3991.496 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge675",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3991.4944 2991.3101 L 3990.7086 2991.3101 L 3990.7086 2992.8849 L 3991.496 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge676",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3994.0534 2991.3201 L 3993.2676 2991.3201 L 3993.2676 2988.9564 L 3994.055 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge677",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3994.0534 2991.3101 L 3993.2676 2991.3101 L 3993.2676 2992.8849 L 3994.055 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge678",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3996.6124 2991.3201 L 3995.8266 2991.3201 L 3995.8266 2988.9564 L 3996.614 2988.9564 Z",
+      "region_type": "solid",
+      "gid": "gge679",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "layer_id": "100",
+      "net": "",
+      "path": "M 3996.6124 2991.3101 L 3995.8266 2991.3101 L 3995.8266 2992.8849 L 3996.614 2992.8849 Z",
+      "region_type": "cutout",
+      "gid": "gge680",
+      "teardrop": "",
+      "target_pad": "",
+      "target_wire": "",
+      "locked": false,
+      "type": "solidregion"
+    },
+    {
+      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002225.2188\u0022,\u0022c_height\u0022:\u002230.7086\u0022,\u0022c_rotation\u0022:\u00220,0,90\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00223997.5,3001.5\u0022,\u0022uuid\u0022:\u00224564b07290534b8ea1373eede2664361\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022TSSOP-24_L7.8-W4.4-H1.0-LS6.4-P0.65\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00223983.0512 3014.0984 3983.7599 3014.0984 3983.7992 3014.0984 3983.7992 3014.059 3983.7992 3012.8779 3983.7992 3012.7992 3983.7992 3012.7205 3983.7992 3012.6417 3983.7992 3012.563 3983.7992 3012.5236 3983.7992 3012.4449 3983.7992 3012.3661 3983.7992 3012.3268 3983.7992 3012.2087 3983.7992 3011.5394 3983.7992 3011.4606 3983.7992 3011.3819 3983.7992 3011.3031 3983.7992 3011.2244 3983.7992 3011.1457 3983.7992 3011.0669 3983.7992 3010.9882 3983.7992 3010.9094 3983.7992 3010.8307 3983.7992 3010.752 3983.7992 3010.1614 3985.5709 3010.1614 3985.5709 3010.752 3985.5709 3010.8701 3985.5709 3010.9488 3985.5709 3011.0276 3985.5709 3011.1063 3985.5709 3011.185 3985.5709 3011.2638 3985.5709 3011.3031 3985.5709 3011.3819 3985.5709 3011.5 3985.5709 3011.8543 3985.5709 3012.2087 3985.5709 3012.2874 3985.5709 3012.3661 3985.5709 3012.4842 3985.5709 3012.563 3985.5709 3012.6024 3985.5709 3012.6417 3985.5709 3012.7598 3985.5709 3012.8386 3985.5709 3012.9173 3985.5709 3014.059 3985.6103 3014.0984 3986.3583 3014.0984 3986.3583 3014.059 3986.3583 3012.8779 3986.3583 3012.7992 3986.3583 3012.7205 3986.3583 3012.6417 3986.3583 3012.563 3986.3583 3012.5236 3986.3583 3012.4449 3986.3583 3012.3661 3986.3583 3012.3268 3986.3583 3012.2087 3986.3583 3011.5394 3986.3583 3011.4606 3986.3583 3011.3819 3986.3583 3011.3031 3986.3583 3011.2244 3986.3583 3011.1457 3986.3583 3011.0669 3986.3583 3010.9882 3986.3583 3010.9094 3986.3583 3010.8307 3986.3583 3010.752 3986.3583 3010.1614 3988.1299 3010.1614 3988.1299 3010.752 3988.1299 3010.8701 3988.1299 3010.9488 3988.1299 3011.0276 3988.1299 3011.0669 3988.1299 3011.185 3988.1299 3011.2638 3988.1299 3011.3031 3988.1299 3011.3819 3988.1299 3011.5 3988.1299 3011.8543 3988.1299 3012.2087 3988.1299 3012.2874 3988.1299 3012.3661 3988.1299 3012.4842 3988.1299 3012.563 3988.1299 3012.6024 3988.1299 3012.6417 3988.1299 3012.7598 3988.1299 3012.8386 3988.1299 3012.9173 3988.1299 3014.059 3988.1693 3014.0984 3988.9173 3014.0984 3988.9173 3014.059 3988.9567 3014.059 3988.9567 3012.9173 3988.9567 3012.7992 3988.9567 3012.7205 3988.9567 3012.6417 3988.9567 3012.563 3988.9567 3012.5236 3988.9567 3012.4449 3988.9567 3012.3661 3988.9567 3012.2874 3988.9567 3012.2087 3988.9567 3011.4606 3988.9567 3011.3819 3988.9567 3011.3031 3988.9567 3011.2244 3988.9567 3011.1457 3988.9567 3011.0669 3988.9567 3010.9882 3988.9567 3010.9094 3988.9567 3010.8307 3988.9567 3010.752 3988.9567 3010.1614 3990.689 3010.1614 3990.689 3010.752 3990.689 3010.8701 3990.689 3010.9488 3990.689 3011.0276 3990.689 3011.0669 3990.689 3011.185 3990.689 3011.2638 3990.689 3011.3031 3990.689 3011.3819 3990.689 3011.5 3990.689 3012.2087 3990.689 3012.2874 3990.689 3012.3661 3990.689 3012.4842 3990.689 3012.563 3990.689 3012.6024 3990.689 3012.6417 3990.689 3012.7598 3990.689 3012.8386 3990.689 3012.9173 3990.689 3014.059 3990.7284 3014.0984 3991.437 3014.0984 3991.4764 3014.0984 3991.4764 3014.059 3991.4764 3012.8779 3991.4764 3012.7992 3991.4764 3012.7205 3991.4764 3012.6417 3991.4764 3012.563 3991.4764 3012.5236 3991.4764 3012.4842 3991.4764 3012.4055 3991.4764 3012.2874 3991.4764 3012.2087 3991.4764 3011.5394 3991.4764 3011.4606 3991.4764 3011.3819 3991.4764 3011.3031 3991.4764 3011.2244 3991.4764 3011.1457 3991.4764 3011.0669 3991.4764 3010.9882 3991.4764 3010.9094 3991.4764 3010.8307 3991.4764 3010.752 3991.4764 3010.1614 3993.248 3010.1614 3993.248 3010.4764 3993.248 3010.752 3993.248 3010.8701 3993.248 3010.9488 3993.248 3011.0276 3993.248 3011.1063 3993.248 3011.185 3993.248 3011.2638 3993.248 3011.3031 3993.248 3011.3819 3993.248 3011.5 3993.248 3012.2087 3993.248 3012.2874 3993.248 3012.3661 3993.248 3012.4842 3993.248 3012.563 3993.248 3012.6024 3993.248 3012.6417 3993.248 3012.7598 3993.248 3012.8386 3993.248 3012.9173 3993.248 3014.059 3993.2874 3014.0984 3993.9961 3014.0984 3994.0354 3014.0984 3994.0354 3014.059 3994.0354 3012.8779 3994.0354 3012.7992 3994.0354 3012.7205 3994.0354 3012.6417 3994.0354 3012.563 3994.0354 3012.5236 3994.0354 3012.4842 3994.0354 3012.4055 3994.0354 3012.2874 3994.0354 3012.2087 3994.0354 3011.5394 3994.0354 3011.4606 3994.0354 3011.3819 3994.0354 3011.3031 3994.0354 3011.2244 3994.0354 3011.1457 3994.0354 3011.0669 3994.0354 3010.9882 3994.0354 3010.9094 3994.0354 3010.8307 3994.0354 3010.752 3994.0354 3010.1614 3995.8071 3010.1614 3995.8071 3010.752 3995.8071 3010.8701 3995.8071 3010.9488 3995.8071 3011.0276 3995.8071 3011.0669 3995.8071 3011.185 3995.8071 3011.2638 3995.8071 3011.3031 3995.8071 3011.3819 3995.8071 3011.5 3995.8071 3012.2087 3995.8071 3012.2874 3995.8071 3012.3661 3995.8071 3012.4842 3995.8071 3012.563 3995.8071 3012.6024 3995.8071 3012.6417 3995.8071 3012.7598 3995.8071 3012.8386 3995.8071 3012.9173 3995.8071 3014.059 3995.8465 3014.0984 3996.5945 3014.0984 3996.5945 3014.059 3996.5945 3012.8779 3996.5945 3012.7992 3996.5945 3012.7205 3996.5945 3012.6417 3996.5945 3012.563 3996.5945 3012.5236 3996.5945 3012.4842 3996.5945 3012.4055 3996.5945 3012.2874 3996.5945 3012.2087 3996.5945 3011.5394 3996.5945 3011.4606 3996.5945 3011.3819 3996.5945 3011.3031 3996.5945 3011.2244 3996.5945 3011.1457 3996.5945 3011.0669 3996.5945 3010.9882 3996.5945 3010.9094 3996.5945 3010.8307 3996.5945 3010.752 3996.5945 3010.1614 3998.3661 3010.1614 3998.3661 3010.4764 3998.3661 3010.752 3998.3661 3010.8701 3998.3661 3010.9488 3998.3661 3011.0276 3998.3661 3011.1063 3998.3661 3011.185 3998.3661 3011.2638 3998.3661 3011.3031 3998.3661 3011.3819 3998.3661 3011.5 3998.3661 3012.2087 3998.3661 3012.2874 3998.3661 3012.3661 3998.3661 3012.4842 3998.3661 3012.563 3998.3661 3012.6024 3998.3661 3012.6417 3998.3661 3012.7598 3998.3661 3012.8386 3998.3661 3012.9173 3998.3661 3014.059 3998.4055 3014.0984 3999.1535 3014.0984 3999.1535 3014.059 3999.1535 3012.8779 3999.1535 3012.7992 3999.1535 3012.7205 3999.1535 3012.6417 3999.1535 3012.563 3999.1535 3012.5236 3999.1535 3012.4449 3999.1535 3012.3661 3999.1535 3012.3268 3999.1535 3012.2087 3999.1535 3011.5394 3999.1535 3011.4606 3999.1535 3011.3819 3999.1535 3011.3031 3999.1535 3011.2244 3999.1535 3011.1457 3999.1535 3011.0669 3999.1535 3010.9882 3999.1535 3010.9094 3999.1535 3010.8307 3999.1535 3010.752 3999.1535 3010.1614 4000.9252 3010.1614 4000.9252 3010.4764 4000.9252 3010.752 4000.9252 3010.8701 4000.9252 3010.9488 4000.9252 3011.0276 4000.9252 3011.0669 4000.9252 3011.185 4000.9252 3011.2638 4000.9252 3011.3031 4000.9252 3011.3819 4000.9252 3011.5 4000.9252 3012.2087 4000.9252 3012.2874 4000.9252 3012.3661 4000.9252 3012.4842 4000.9252 3012.563 4000.9252 3012.6024 4000.9252 3012.6417 4000.9252 3012.7598 4000.9252 3012.8386 4000.9252 3012.9173 4000.9252 3014.059 4000.9646 3014.0984 4001.6732 3014.0984 4001.7126 3014.0984 4001.7126 3014.059 4001.7126 3012.8779 4001.7126 3012.7992 4001.7126 3012.7205 4001.7126 3012.6417 4001.7126 3012.563 4001.7126 3012.5236 4001.7126 3012.4842 4001.7126 3012.4055 4001.7126 3012.2874 4001.7126 3012.2087 4001.7126 3011.5394 4001.7126 3011.4606 4001.7126 3011.3819 4001.7126 3011.3031 4001.7126 3011.2244 4001.7126 3011.1457 4001.7126 3011.0669 4001.7126 3010.9882 4001.7126 3010.9094 4001.7126 3010.8307 4001.7126 3010.752 4001.7126 3010.1614 4003.4842 3010.1614 4003.4842 3010.4764 4003.4842 3010.752 4003.4842 3010.8701 4003.4842 3010.9488 4003.4842 3011.0276 4003.4842 3011.1063 4003.4842 3011.185 4003.4842 3011.2638 4003.4842 3011.3031 4003.4842 3011.3819 4003.4842 3011.5 4003.4842 3012.2087 4003.4842 3012.2874 4003.4842 3012.3661 4003.4842 3012.4842 4003.4842 3012.563 4003.4842 3012.6024 4003.4842 3012.6417 4003.4842 3012.7598 4003.4842 3012.8386 4003.4842 3012.9173 4003.4842 3014.059 4003.5236 3014.0984 4004.2323 3014.0984 4004.2716 3014.0984 4004.2716 3014.059 4004.2716 3012.8779 4004.2716 3012.7992 4004.2716 3012.7205 4004.2716 3012.6417 4004.2716 3012.563 4004.2716 3012.5236 4004.2716 3012.4449 4004.2716 3012.3661 4004.2716 3012.3268 4004.2716 3012.2087 4004.2716 3011.5394 4004.2716 3011.4606 4004.2716 3011.3819 4004.2716 3011.3031 4004.2716 3011.2244 4004.2716 3011.1457 4004.2716 3011.0669 4004.2716 3010.9882 4004.2716 3010.9094 4004.2716 3010.8307 4004.2716 3010.752 4004.2716 3010.1614 4006.0433 3010.1614 4006.0433 3010.752 4006.0433 3010.8701 4006.0433 3010.9488 4006.0433 3011.0276 4006.0433 3011.1063 4006.0433 3011.185 4006.0433 3011.2638 4006.0433 3011.3031 4006.0433 3011.3819 4006.0433 3011.5 4006.0433 3011.8543 4006.0433 3012.2087 4006.0433 3012.2874 4006.0433 3012.3661 4006.0433 3012.4842 4006.0433 3012.563 4006.0433 3012.6024 4006.0433 3012.6417 4006.0433 3012.7598 4006.0433 3012.8386 4006.0433 3012.9173 4006.0433 3014.059 4006.0827 3014.0984 4006.8307 3014.0984 4006.8307 3014.059 4006.8307 3012.8779 4006.8307 3012.7992 4006.8307 3012.7205 4006.8307 3012.6417 4006.8307 3012.563 4006.8307 3012.5236 4006.8307 3012.4449 4006.8307 3012.3661 4006.8307 3012.2874 4006.8307 3012.2087 4006.8307 3012.1693 4006.8307 3011.5394 4006.8307 3011.4606 4006.8307 3011.3819 4006.8307 3011.3031 4006.8307 3011.2244 4006.8307 3011.1457 4006.8307 3011.0669 4006.8307 3010.9882 4006.8307 3010.9094 4006.8307 3010.8307 4006.8307 3010.752 4006.8307 3010.1614 4008.6023 3010.1614 4008.6023 3010.4764 4008.6023 3010.752 4008.6023 3010.8701 4008.6023 3010.9488 4008.6023 3011.0276 4008.6023 3011.1063 4008.6023 3011.185 4008.6023 3011.2638 4008.6023 3011.3031 4008.6023 3011.3819 4008.6023 3011.5 4008.6023 3011.8543 4008.6023 3012.2087 4008.6023 3012.2874 4008.6023 3012.3661 4008.6023 3012.4842 4008.6023 3012.563 4008.6023 3012.6024 4008.6023 3012.6417 4008.6023 3012.7598 4008.6023 3012.8386 4008.6023 3012.9173 4008.6023 3014.059 4008.6417 3014.0984 4009.3897 3014.0984 4009.3897 3014.059 4009.3897 3012.8779 4009.3897 3012.7992 4009.3897 3012.7205 4009.3897 3012.6417 4009.3897 3012.563 4009.3897 3012.5236 4009.3897 3012.4842 4009.3897 3012.4055 4009.3897 3012.2874 4009.3897 3012.2087 4009.3897 3011.5394 4009.3897 3011.4606 4009.3897 3011.3819 4009.3897 3011.3031 4009.3897 3011.2244 4009.3897 3011.1457 4009.3897 3011.0669 4009.3897 3010.9882 4009.3897 3010.9094 4009.3897 3010.8307 4009.3897 3010.752 4009.3897 3010.1614 4011.1614 3010.1614 4011.1614 3010.4764 4011.1614 3010.752 4011.1614 3010.8701 4011.1614 3010.9488 4011.1614 3011.0276 4011.1614 3011.1063 4011.1614 3011.185 4011.1614 3011.2638 4011.1614 3011.3031 4011.1614 3011.3819 4011.1614 3011.5 4011.1614 3011.8543 4011.1614 3012.2087 4011.1614 3012.2874 4011.1614 3012.3661 4011.1614 3012.4842 4011.1614 3012.563 4011.1614 3012.6024 4011.1614 3012.6417 4011.1614 3012.7598 4011.1614 3012.8386 4011.1614 3012.9173 4011.1614 3014.059 4011.2008 3014.0984 4011.9488 3014.0984 4011.9488 3014.059 4011.9488 3012.8779 4011.9488 3012.7992 4011.9488 3012.7205 4011.9488 3012.6417 4011.9488 3012.563 4011.9488 3012.5236 4011.9488 3012.4842 4011.9488 3012.4055 4011.9488 3012.2874 4011.9488 3012.2087 4011.9488 3011.5394 4011.9488 3011.4606 4011.9488 3011.3819 4011.9488 3011.3031 4011.9488 3011.2244 4011.9488 3011.1457 4011.9488 3011.0669 4011.9488 3010.9882 4011.9488 3010.9094 4011.9488 3010.8307 4011.9488 3010.752 4011.9488 3010.1614 4012.7756 3010.1614 4012.8149 3010.1614 4012.8543 3010.122 4012.8543 3010.0827 4012.8543 3010.0433 4012.8543 2992.9567 4012.8543 2992.878 4012.8149 2992.878 4012.8149 2992.8386 4012.7362 2992.8386 4011.9488 2992.8386 4011.9488 2992.2481 4011.9488 2992.13 4011.9488 2992.0512 4011.9488 2991.9725 4011.9488 2991.8937 4011.9488 2991.815 4011.9488 2991.7363 4011.9488 2991.6969 4011.9488 2991.6181 4011.9488 2991.5 4011.9488 2991.4607 4011.9488 2990.752 4011.9488 2990.6733 4011.9488 2990.5945 4011.9488 2990.5158 4011.9488 2990.437 4011.9488 2990.3977 4011.9488 2990.3189 4011.9488 2990.2402 4011.9488 2990.1615 4011.9488 2990.0827 4011.9488 2988.941 4011.9094 2988.9016 4011.2008 2988.9016 4011.1614 2988.941 4011.1614 2990.1221 4011.1614 2990.2008 4011.1614 2990.2796 4011.1614 2990.3583 4011.1614 2990.437 4011.1614 2990.4764 4011.1614 2990.5552 4011.1614 2990.6339 4011.1614 2990.7126 4011.1614 2990.7914 4011.1614 2991.5394 4011.1614 2991.6181 4011.1614 2991.6969 4011.1614 2991.7756 4011.1614 2991.8544 4011.1614 2991.9331 4011.1614 2992.0118 4011.1614 2992.0906 4011.1614 2992.1693 4011.1614 2992.2481 4011.1614 2992.5237 4011.1614 2992.8386 4009.3897 2992.8386 4009.3897 2992.2481 4009.3897 2992.13 4009.3897 2992.0512 4009.3897 2991.9725 4009.3897 2991.8937 4009.3897 2991.815 4009.3897 2991.7363 4009.3897 2991.6969 4009.3897 2991.6181 4009.3897 2991.5 4009.3897 2991.4607 4009.3897 2990.752 4009.3897 2990.6733 4009.3897 2990.5945 4009.3897 2990.5158 4009.3897 2990.437 4009.3897 2990.3977 4009.3897 2990.3189 4009.3897 2990.2402 4009.3897 2990.1615 4009.3897 2990.0827 4009.3897 2988.941 4009.3504 2988.9016 4008.6417 2988.9016 4008.6417 2988.941 4008.6023 2988.941 4008.6023 2990.0827 4008.6023 2990.2008 4008.6023 2990.2796 4008.6023 2990.3583 4008.6023 2990.437 4008.6023 2990.4764 4008.6023 2990.5552 4008.6023 2990.6339 4008.6023 2990.7126 4008.6023 2990.7914 4008.6023 2991.5394 4008.6023 2991.6181 4008.6023 2991.6969 4008.6023 2991.7756 4008.6023 2991.8544 4008.6023 2991.9331 4008.6023 2992.0118 4008.6023 2992.0906 4008.6023 2992.1693 4008.6023 2992.2481 4008.6023 2992.5237 4008.6023 2992.8386 4006.8307 2992.8386 4006.8307 2992.2481 4006.8307 2992.13 4006.8307 2992.0512 4006.8307 2991.9725 4006.8307 2991.8937 4006.8307 2991.815 4006.8307 2991.7363 4006.8307 2991.6969 4006.8307 2991.5788 4006.8307 2991.5 4006.8307 2991.4607 4006.8307 2990.8307 4006.8307 2990.752 4006.8307 2990.6733 4006.8307 2990.5945 4006.8307 2990.5158 4006.8307 2990.437 4006.8307 2990.3977 4006.8307 2990.3189 4006.8307 2990.2402 4006.8307 2990.1615 4006.8307 2990.0827 4006.8307 2988.941 4006.8307 2988.9016 4006.0827 2988.9016 4006.0827 2988.941 4006.0433 2988.941 4006.0433 2990.0827 4006.0433 2990.2008 4006.0433 2990.2796 4006.0433 2990.3583 4006.0433 2990.437 4006.0433 2990.4764 4006.0433 2990.5552 4006.0433 2990.6339 4006.0433 2990.7126 4006.0433 2990.7914 4006.0433 2991.5394 4006.0433 2991.6181 4006.0433 2991.6969 4006.0433 2991.7756 4006.0433 2991.8544 4006.0433 2991.9331 4006.0433 2992.0118 4006.0433 2992.0906 4006.0433 2992.1693 4006.0433 2992.2481 4006.0433 2992.5237 4006.0433 2992.8386 4004.2716 2992.8386 4004.2716 2992.2481 4004.2716 2992.13 4004.2716 2992.0512 4004.2716 2991.9725 4004.2716 2991.8937 4004.2716 2991.815 4004.2716 2991.7363 4004.2716 2991.6969 4004.2716 2991.6181 4004.2716 2991.5 4004.2716 2991.4607 4004.2716 2990.752 4004.2716 2990.6733 4004.2716 2990.5945 4004.2716 2990.5158 4004.2716 2990.437 4004.2716 2990.3977 4004.2716 2990.3189 4004.2716 2990.2402 4004.2716 2990.1615 4004.2716 2990.0827 4004.2716 2988.941 4004.2716 2988.9016 4004.2323 2988.9016 4003.5236 2988.9016 4003.5236 2988.941 4003.4842 2988.941 4003.4842 2990.0827 4003.4842 2990.2008 4003.4842 2990.2796 4003.4842 2990.3583 4003.4842 2990.437 4003.4842 2990.4764 4003.4842 2990.5552 4003.4842 2990.6339 4003.4842 2990.7126 4003.4842 2990.7914 4003.4842 2991.5394 4003.4842 2991.6181 4003.4842 2991.6969 4003.4842 2991.7756 4003.4842 2991.8544 4003.4842 2991.9331 4003.4842 2992.0118 4003.4842 2992.0906 4003.4842 2992.1693 4003.4842 2992.2481 4003.4842 2992.5237 4003.4842 2992.8386 4001.7126 2992.8386 4001.7126 2992.2481 4001.7126 2992.13 4001.7126 2992.0512 4001.7126 2991.9725 4001.7126 2991.8937 4001.7126 2991.815 4001.7126 2991.7363 4001.7126 2991.6969 4001.7126 2991.6181 4001.7126 2991.5 4001.7126 2991.4607 4001.7126 2990.752 4001.7126 2990.6733 4001.7126 2990.5945 4001.7126 2990.5158 4001.7126 2990.437 4001.7126 2990.3977 4001.7126 2990.3189 4001.7126 2990.2402 4001.7126 2990.1615 4001.7126 2990.0827 4001.7126 2988.941 4001.7126 2988.9016 4001.6732 2988.9016 4001.3189 2988.9016 4000.9646 2988.9016 4000.9646 2988.941 4000.9252 2988.941 4000.9252 2990.1221 4000.9252 2990.2008 4000.9252 2990.2796 4000.9252 2990.3583 4000.9252 2990.437 4000.9252 2990.4764 4000.9252 2990.5552 4000.9252 2990.6339 4000.9252 2990.7126 4000.9252 2990.7914 4000.9252 2991.5394 4000.9252 2991.6181 4000.9252 2991.6969 4000.9252 2991.7756 4000.9252 2991.8544 4000.9252 2991.9331 4000.9252 2992.0118 4000.9252 2992.0906 4000.9252 2992.1693 4000.9252 2992.2481 4000.9252 2992.5237 4000.9252 2992.8386 3999.1535 2992.8386 3999.1535 2992.2481 3999.1535 2992.13 3999.1535 2992.0512 3999.1535 2991.9725 3999.1535 2991.8937 3999.1535 2991.815 3999.1535 2991.7363 3999.1535 2991.6969 3999.1535 2991.6181 3999.1535 2991.5 3999.1535 2991.4607 3999.1535 2990.752 3999.1535 2990.6733 3999.1535 2990.5945 3999.1535 2990.5158 3999.1535 2990.437 3999.1535 2990.3977 3999.1535 2990.3189 3999.1535 2990.2402 3999.1535 2990.2008 3999.1535 2990.0827 3999.1535 2988.941 3999.1142 2988.9016 3998.4055 2988.9016 3998.4055 2988.941 3998.3661 2988.941 3998.3661 2990.0827 3998.3661 2990.2008 3998.3661 2990.2796 3998.3661 2990.3583 3998.3661 2990.437 3998.3661 2990.4764 3998.3661 2990.5552 3998.3661 2990.6339 3998.3661 2990.7126 3998.3661 2990.7914 3998.3661 2991.5394 3998.3661 2991.6181 3998.3661 2991.6969 3998.3661 2991.7756 3998.3661 2991.8544 3998.3661 2991.9331 3998.3661 2992.0118 3998.3661 2992.0906 3998.3661 2992.1693 3998.3661 2992.2481 3998.3661 2992.5237 3998.3661 2992.8386 3996.5945 2992.8386 3996.5945 2992.2481 3996.5945 2992.13 3996.5945 2992.0512 3996.5945 2991.9725 3996.5945 2991.8937 3996.5945 2991.815 3996.5945 2991.7363 3996.5945 2991.6969 3996.5945 2991.6181 3996.5945 2991.5 3996.5945 2991.4607 3996.5945 2990.752 3996.5945 2990.6733 3996.5945 2990.5945 3996.5945 2990.5158 3996.5945 2990.437 3996.5945 2990.3977 3996.5945 2990.3189 3996.5945 2990.2402 3996.5945 2990.1615 3996.5945 2990.0827 3996.5945 2988.941 3996.5551 2988.9016 3996.2008 2988.9016 3995.8465 2988.9016 3995.8465 2988.941 3995.8071 2988.941 3995.8071 2990.1221 3995.8071 2990.2008 3995.8071 2990.2796 3995.8071 2990.3583 3995.8071 2990.437 3995.8071 2990.4764 3995.8071 2990.5552 3995.8071 2990.6339 3995.8071 2990.7126 3995.8071 2990.7914 3995.8071 2991.5394 3995.8071 2991.6181 3995.8071 2991.6969 3995.8071 2991.7756 3995.8071 2991.8544 3995.8071 2991.9331 3995.8071 2992.0118 3995.8071 2992.0906 3995.8071 2992.1693 3995.8071 2992.2481 3995.8071 2992.5237 3995.8071 2992.8386 3994.0354 2992.8386 3994.0354 2992.2481 3994.0354 2992.13 3994.0354 2992.0512 3994.0354 2991.9725 3994.0354 2991.8937 3994.0354 2991.815 3994.0354 2991.7363 3994.0354 2991.6969 3994.0354 2991.6181 3994.0354 2991.5 3994.0354 2991.4607 3994.0354 2990.752 3994.0354 2990.6733 3994.0354 2990.5945 3994.0354 2990.5158 3994.0354 2990.437 3994.0354 2990.3977 3994.0354 2990.3189 3994.0354 2990.2402 3994.0354 2990.1615 3994.0354 2990.0827 3994.0354 2988.941 3994.0354 2988.9016 3993.9961 2988.9016 3993.6417 2988.9016 3993.2874 2988.9016 3993.2874 2988.941 3993.248 2988.941 3993.248 2990.1221 3993.248 2990.2008 3993.248 2990.2796 3993.248 2990.3583 3993.248 2990.437 3993.248 2990.4764 3993.248 2990.5552 3993.248 2990.6339 3993.248 2990.7126 3993.248 2990.7914 3993.248 2991.5394 3993.248 2991.6181 3993.248 2991.6969 3993.248 2991.7756 3993.248 2991.8544 3993.248 2991.9331 3993.248 2992.0118 3993.248 2992.0906 3993.248 2992.1693 3993.248 2992.2481 3993.248 2992.5237 3993.248 2992.8386 3991.4764 2992.8386 3991.4764 2992.2481 3991.4764 2992.13 3991.4764 2992.0512 3991.4764 2991.9725 3991.4764 2991.8937 3991.4764 2991.815 3991.4764 2991.7363 3991.4764 2991.6969 3991.4764 2991.6181 3991.4764 2991.5 3991.4764 2991.4607 3991.4764 2990.752 3991.4764 2990.6733 3991.4764 2990.5945 3991.4764 2990.5158 3991.4764 2990.437 3991.4764 2990.3977 3991.4764 2990.3189 3991.4764 2990.2402 3991.4764 2990.1615 3991.4764 2990.0827 3991.4764 2988.941 3991.4764 2988.9016 3991.437 2988.9016 3990.7284 2988.9016 3990.7284 2988.941 3990.689 2988.941 3990.689 2990.0827 3990.689 2990.2008 3990.689 2990.2796 3990.689 2990.3583 3990.689 2990.437 3990.689 2990.4764 3990.689 2990.5552 3990.689 2990.6339 3990.689 2990.7126 3990.689 2990.7914 3990.689 2991.5394 3990.689 2991.6181 3990.689 2991.6969 3990.689 2991.7756 3990.689 2991.8544 3990.689 2991.9331 3990.689 2992.0118 3990.689 2992.0906 3990.689 2992.1693 3990.689 2992.2481 3990.689 2992.5237 3990.689 2992.8386 3988.9567 2992.8386 3988.9567 2992.2481 3988.9567 2992.13 3988.9567 2992.0512 3988.9567 2991.9725 3988.9567 2991.9331 3988.9567 2991.815 3988.9567 2991.7363 3988.9567 2991.6969 3988.9567 2991.6181 3988.9567 2991.5 3988.9567 2990.7914 3988.9567 2990.7126 3988.9567 2990.6339 3988.9567 2990.5158 3988.9567 2990.437 3988.9567 2990.3977 3988.9567 2990.3583 3988.9567 2990.2402 3988.9567 2990.1615 3988.9567 2990.0827 3988.9567 2988.941 3988.878 2988.9016 3988.1693 2988.9016 3988.1299 2988.941 3988.1299 2990.1221 3988.1299 2990.2008 3988.1299 2990.2796 3988.1299 2990.3583 3988.1299 2990.437 3988.1299 2990.4764 3988.1299 2990.5552 3988.1299 2990.6339 3988.1299 2990.7126 3988.1299 2990.7914 3988.1299 2991.5394 3988.1299 2991.6181 3988.1299 2991.6969 3988.1299 2991.7756 3988.1299 2991.8544 3988.1299 2991.9331 3988.1299 2992.0118 3988.1299 2992.0906 3988.1299 2992.1693 3988.1299 2992.2481 3988.1299 2992.5237 3988.1299 2992.8386 3986.3583 2992.8386 3986.3583 2992.2481 3986.3583 2992.13 3986.3583 2992.0512 3986.3583 2991.9725 3986.3583 2991.8937 3986.3583 2991.815 3986.3583 2991.7363 3986.3583 2991.6969 3986.3583 2991.6181 3986.3583 2991.5 3986.3583 2991.4607 3986.3583 2990.752 3986.3583 2990.6733 3986.3583 2990.5945 3986.3583 2990.5158 3986.3583 2990.437 3986.3583 2990.3977 3986.3583 2990.3189 3986.3583 2990.2402 3986.3583 2990.1615 3986.3583 2990.0827 3986.3583 2988.941 3986.3189 2988.9016 3985.9646 2988.9016 3985.6103 2988.9016 3985.6103 2988.941 3985.5709 2988.941 3985.5709 2990.0827 3985.5709 2990.2008 3985.5709 2990.2796 3985.5709 2990.3583 3985.5709 2990.437 3985.5709 2990.4764 3985.5709 2990.5552 3985.5709 2990.6339 3985.5709 2990.7126 3985.5709 2990.7914 3985.5709 2991.5394 3985.5709 2991.6181 3985.5709 2991.6969 3985.5709 2991.7756 3985.5709 2991.8544 3985.5709 2991.9331 3985.5709 2992.0118 3985.5709 2992.0906 3985.5709 2992.1693 3985.5709 2992.2481 3985.5709 2992.5237 3985.5709 2992.8386 3983.7992 2992.8386 3983.7992 2992.2481 3983.7992 2992.13 3983.7992 2992.0512 3983.7992 2991.9725 3983.7992 2991.8937 3983.7992 2991.815 3983.7992 2991.7363 3983.7992 2991.6969 3983.7992 2991.6181 3983.7992 2991.5 3983.7992 2991.4607 3983.7992 2990.752 3983.7992 2990.6733 3983.7992 2990.5945 3983.7992 2990.5158 3983.7992 2990.437 3983.7992 2990.3977 3983.7992 2990.3189 3983.7992 2990.2402 3983.7992 2990.1615 3983.7992 2990.0827 3983.7992 2988.941 3983.7992 2988.9016 3983.7599 2988.9016 3983.4055 2988.9016 3983.0512 2988.9016 3983.0512 2988.941 3983.0118 2988.941 3983.0118 2990.0827 3983.0118 2990.2008 3983.0118 2990.2796 3983.0118 2990.3583 3983.0118 2990.437 3983.0118 2990.4764 3983.0118 2990.5552 3983.0118 2990.6339 3983.0118 2990.7126 3983.0118 2990.7914 3983.0118 2991.5394 3983.0118 2991.6181 3983.0118 2991.6969 3983.0118 2991.7756 3983.0118 2991.8544 3983.0118 2991.9331 3983.0118 2992.0118 3983.0118 2992.0906 3983.0118 2992.1693 3983.0118 2992.2481 3983.0118 2992.5237 3983.0118 2992.8386 3982.2244 2992.8386 3982.1851 2992.8386 3982.1457 2992.878 3982.1457 2992.9174 3982.1457 2992.9567 3982.1457 3010.0433 3982.1457 3010.122 3982.1851 3010.122 3982.1851 3010.1614 3982.2638 3010.1614 3983.0118 3010.1614 3983.0118 3010.752 3983.0118 3010.8701 3983.0118 3010.9488 3983.0118 3011.0276 3983.0118 3011.0669 3983.0118 3011.185 3983.0118 3011.2638 3983.0118 3011.3031 3983.0118 3011.3819 3983.0118 3011.5 3983.0118 3011.8543 3983.0118 3012.2087 3983.0118 3012.2874 3983.0118 3012.3661 3983.0118 3012.4842 3983.0118 3012.563 3983.0118 3012.6024 3983.0118 3012.6417 3983.0118 3012.7598 3983.0118 3012.8386 3983.0118 3012.9173 3983.0118 3014.059 3983.0512 3014.0984 3983.0512 3014.0984\u0022}}]}",
+      "type": "svgnode"
+    }
   ]
 }
