@@ -2,7 +2,7 @@
   "lcsc_id": 58069,
   "uuid": "dbc6c923d16f6b74fc5f48f17029efd4",
   "lcsc_part_name": "L78M05ABDT-TR",
-  "lcsc_last_updated": null,
+  "lcsc_last_updated": "2022-12-03T12:23:03+00:00",
   "lcsc_url": "https://lcsc.com/product-detail/Linear-Voltage-Regulators_STMicroelectronics_L78M05ABDT-TR_L78M05ABDT-TR_C58069.html",
   "lcsc_price": 0.2909,
   "szlcsc_url": "http://www.szlcsc.com/product/details_59107.html",
@@ -45,489 +45,535 @@
       },
       "features": [
         {
-          "top_left_x": 370,
-          "top_left_y": 280,
-          "bottom_right_x": 1,
-          "bottom_right_y": 1,
-          "width": 60,
-          "height": 30,
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "NONE",
-          "gid": "rep2",
-          "locked": false,
-          "c_etype": "",
-          "type": "rectangle"
+          "type": "rectangle",
+          "feature": {
+            "top_left_x": 370,
+            "top_left_y": 280,
+            "bottom_right_x": 1,
+            "bottom_right_y": 1,
+            "width": 60,
+            "height": 30,
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "NONE",
+            "gid": "rep2",
+            "locked": false,
+            "c_etype": ""
+          }
         },
         "T~L~390~308~0~#880000~Times New Roman~10~ ~ ~ ~comment~GND~1~start~rep3~0~pinpart",
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "1",
-          "x": 350,
-          "y": 290,
-          "rotation": 180,
-          "gid": "rep4",
-          "locked": false,
-          "pindot_x": 350,
-          "pindot_y": 290,
-          "path": "M350,290 h20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 373,
-          "name_y": 293,
-          "name_rotation": 0,
-          "name": "IN",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 364,
-          "num_y": 289,
-          "num_rotation": 0,
-          "num": "1",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 367,
-          "dot_y": 290,
-          "clock_visible": false,
-          "clock_path": "M 370 293 L 373 290 L 370 287",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "1",
+            "x": 350,
+            "y": 290,
+            "rotation": 180,
+            "gid": "rep4",
+            "locked": false,
+            "pindot_x": 350,
+            "pindot_y": 290,
+            "path": "M350,290 h20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 373,
+            "name_y": 293,
+            "name_rotation": 0,
+            "name": "IN",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 364,
+            "num_y": 289,
+            "num_rotation": 0,
+            "num": "1",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 367,
+            "dot_y": 290,
+            "clock_visible": false,
+            "clock_path": "M 370 293 L 373 290 L 370 287"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "4",
-          "x": 400,
-          "y": 330,
-          "rotation": 270,
-          "gid": "rep5",
-          "locked": false,
-          "pindot_x": 400,
-          "pindot_y": 330,
-          "path": "M400,330 v-20",
-          "colour": "#000000",
-          "name_visible": false,
-          "name_x": 403,
-          "name_y": 307,
-          "name_rotation": 270,
-          "name": "GND",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#000000",
-          "num_visible": true,
-          "num_x": 399,
-          "num_y": 316,
-          "num_rotation": 270,
-          "num": "4",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#000000",
-          "dot_visible": false,
-          "dot_x": 400,
-          "dot_y": 313,
-          "clock_visible": false,
-          "clock_path": "M 403 310 L 400 307 L 397 310",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "4",
+            "x": 400,
+            "y": 330,
+            "rotation": 270,
+            "gid": "rep5",
+            "locked": false,
+            "pindot_x": 400,
+            "pindot_y": 330,
+            "path": "M400,330 v-20",
+            "colour": "#000000",
+            "name_visible": false,
+            "name_x": 403,
+            "name_y": 307,
+            "name_rotation": 270,
+            "name": "GND",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#000000",
+            "num_visible": true,
+            "num_x": 399,
+            "num_y": 316,
+            "num_rotation": 270,
+            "num": "4",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#000000",
+            "dot_visible": false,
+            "dot_x": 400,
+            "dot_y": 313,
+            "clock_visible": false,
+            "clock_path": "M 403 310 L 400 307 L 397 310"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "3",
-          "x": 450,
-          "y": 290,
-          "rotation": 0,
-          "gid": "rep6",
-          "locked": false,
-          "pindot_x": 450,
-          "pindot_y": 290,
-          "path": "M450,290 h-20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 427,
-          "name_y": 293,
-          "name_rotation": 0,
-          "name": "OUT",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 436,
-          "num_y": 289,
-          "num_rotation": 0,
-          "num": "3",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 433,
-          "dot_y": 290,
-          "clock_visible": false,
-          "clock_path": "M 430 287 L 427 290 L 430 293",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "3",
+            "x": 450,
+            "y": 290,
+            "rotation": 0,
+            "gid": "rep6",
+            "locked": false,
+            "pindot_x": 450,
+            "pindot_y": 290,
+            "path": "M450,290 h-20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 427,
+            "name_y": 293,
+            "name_rotation": 0,
+            "name": "OUT",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 436,
+            "num_y": 289,
+            "num_rotation": 0,
+            "num": "3",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 433,
+            "dot_y": 290,
+            "clock_visible": false,
+            "clock_path": "M 430 287 L 427 290 L 430 293"
+          }
         }
       ]
     }
   ],
-  "footprint": [
-    {
-      "center_x": 1073.3985,
-      "center_y": -747.5698,
-      "radius": 0.1181,
-      "stroke_width": 0.2362,
-      "layer_id": "101",
-      "gid": "gge194",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 1079.4615 -723.8399 L 1079.4615 -726.8321 L 1084.9143 -726.8321 L 1084.9143 -723.8399 Z ",
-      "region_type": "cutout",
-      "gid": "gge133",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 1079.4615 -741.8713 L 1079.4615 -744.8635 L 1084.9143 -744.8635 L 1084.9143 -741.8713 Z ",
-      "region_type": "cutout",
-      "gid": "gge134",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 1073.3985 -741.8713 L 1073.3985 -744.8635 L 1079.5009 -744.8635 L 1079.5009 -741.8713 Z ",
-      "region_type": "solid",
-      "gid": "gge135",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 1073.3985 -723.8399 L 1073.3985 -726.8321 L 1079.5009 -726.8321 L 1079.5009 -723.8399 Z ",
-      "region_type": "solid",
-      "gid": "gge136",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 1092.0993 -723.89 L 1092.0993 -744.6774 L 1111.0836 -744.6774 L 1113.1623 -742.5987 L 1113.1623 -725.9687 L 1111.0836 -723.89 Z ",
-      "region_type": "solid",
-      "gid": "gge137",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "99",
-      "net": "",
-      "path": "M 1083.8865 -721.5856 L 1083.8865 -747.5698 L 1107.9023 -747.5698 L 1107.9023 -721.5856 Z ",
-      "region_type": "solid",
-      "gid": "gge147",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "stroke_width": 0.5984,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 1084.58,
-          "Y": -726.858
-        },
-        {
-          "X": 1082.39,
-          "Y": -726.858
-        },
-        {
-          "X": 1082.39,
-          "Y": -723.938
-        },
-        {
-          "X": 1084.58,
-          "Y": -723.938
-        },
-        {
-          "X": 1084.58,
-          "Y": -723.979
+  "footprint": {
+    "features": [
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 1073.3985,
+          "center_y": -747.5698,
+          "radius": 0.1181,
+          "stroke_width": 0.2362,
+          "layer_id": "101",
+          "gid": "gge194",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
         }
-      ],
-      "gid": "gge182",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 0.5984,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 1084.58,
-          "Y": -744.772
-        },
-        {
-          "X": 1082.39,
-          "Y": -744.772
-        },
-        {
-          "X": 1082.39,
-          "Y": -741.852
-        },
-        {
-          "X": 1084.58,
-          "Y": -741.852
-        },
-        {
-          "X": 1084.58,
-          "Y": -741.893
-        }
-      ],
-      "gid": "gge180",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 0.6,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 1109.1907,
-          "Y": -747.5758
-        },
-        {
-          "X": 1084.5751,
-          "Y": -747.5758
-        }
-      ],
-      "gid": "gge177",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 0.6,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 1084.5751,
-          "Y": -747.5758
-        },
-        {
-          "X": 1084.5751,
-          "Y": -720.9916
-        }
-      ],
-      "gid": "gge176",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 0.6,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 1109.1907,
-          "Y": -720.9916
-        },
-        {
-          "X": 1084.5751,
-          "Y": -720.9916
-        }
-      ],
-      "gid": "gge175",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1.5748,
-      "layer_id": "3",
-      "net": "",
-      "diameter": "M 1082.5863 -747.3517 A 0.7874 0.7874 0 1 0 1082.5763 -747.3517",
-      "helper_dots": "",
-      "gid": "gge138",
-      "locked": false,
-      "type": "arc"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 1103.568,
-      "pos_y": -734.284,
-      "width": 25.5906,
-      "height": 23.622,
-      "layer_id": "1",
-      "net": "",
-      "number": "4",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 1090.7725,
-          "Y": -746.0947
-        },
-        {
-          "X": 1116.3631,
-          "Y": -746.0947
-        },
-        {
-          "X": 1116.3631,
-          "Y": -722.4727
-        },
-        {
-          "X": 1090.7725,
-          "Y": -722.4727
-        }
-      ],
-      "rotation": 0,
-      "gid": "gge144",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 1103.5678,
-        "Y": -734.2835
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 1076.205,
-      "pos_y": -743.367,
-      "width": 11.0236,
-      "height": 5.315,
-      "layer_id": "1",
-      "net": "",
-      "number": "1",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 1070.693,
-          "Y": -746.0249
-        },
-        {
-          "X": 1081.7166,
-          "Y": -746.0249
-        },
-        {
-          "X": 1081.7166,
-          "Y": -740.7099
-        },
-        {
-          "X": 1070.693,
-          "Y": -740.7099
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 1079.4615 -723.8399 L 1079.4615 -726.8321 L 1084.9143 -726.8321 L 1084.9143 -723.8399 Z ",
+          "region_type": "cutout",
+          "gid": "gge133",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge145",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 1076.2052,
-        "Y": -743.3676
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 1076.205,
-      "pos_y": -725.336,
-      "width": 11.0236,
-      "height": 5.9055,
-      "layer_id": "1",
-      "net": "",
-      "number": "3",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 1070.693,
-          "Y": -728.2888
-        },
-        {
-          "X": 1081.7166,
-          "Y": -728.2888
-        },
-        {
-          "X": 1081.7166,
-          "Y": -722.3832
-        },
-        {
-          "X": 1070.693,
-          "Y": -722.3832
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 1079.4615 -741.8713 L 1079.4615 -744.8635 L 1084.9143 -744.8635 L 1084.9143 -741.8713 Z ",
+          "region_type": "cutout",
+          "gid": "gge134",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge146",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 1076.2056,
-        "Y": -725.3359
       },
-      "type": "pad"
-    },
-    {
-      "center_x": 1073.4865,
-      "center_y": -743.352,
-      "radius": 0.984,
-      "stroke_width": 1.9685,
-      "layer_id": "12",
-      "gid": "gge148",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002225.5905\u0022,\u0022c_height\u0022:\u002239.05244158\u0022,\u0022c_rotation\u0022:\u00220,0,270\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00221093.7048,-734.3947\u0022,\u0022uuid\u0022:\u002276a7a43de2f04ecc8457f0775620029d\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022TO-252-2_L6.5-W6.1-H2.3-LS10.0-P4.58\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00221107.9174 -747.1899 1107.878 -747.1899 1107.1694 -747.1899 1107.0906 -747.1899 1084.8466 -747.1899 1084.8072 -747.1899 1084.256 -747.1899 1084.2167 -747.1899 1084.1773 -747.1505 1084.0986 -747.1505 1084.0986 -747.1112 1084.0986 -747.0718 1084.0592 -747.0718 1084.0592 -747.0324 1084.0592 -746.993 1084.0592 -744.7883 1081.6576 -744.7883 1081.4214 -744.7883 1081.1852 -744.7883 1080.9883 -744.7883 1080.949 -744.7883 1080.8309 -744.7883 1080.2797 -744.7883 1079.6891 -744.7883 1079.4923 -744.7883 1079.2167 -744.7883 1079.0592 -744.7883 1078.508 -744.7883 1077.9175 -744.7883 1077.76 -744.7883 1077.5631 -744.7883 1077.3663 -744.7883 1077.2482 -744.7883 1077.1301 -744.7883 1074.2561 -744.7883 1074.1773 -744.7883 1074.1773 -742.0324 1074.2561 -742.0324 1077.1301 -742.0324 1077.2482 -742.0324 1077.3663 -742.0324 1077.5631 -742.0324 1077.76 -742.0324 1077.9175 -742.0324 1078.508 -742.0324 1079.0592 -742.0324 1079.2167 -742.0324 1079.4923 -742.0324 1079.6891 -742.0324 1080.2797 -742.0324 1080.8309 -742.0324 1080.949 -742.0324 1080.9883 -742.0324 1081.1852 -742.0324 1081.4214 -742.0324 1081.6576 -742.0324 1084.0592 -742.0324 1084.0592 -735.7726 1080.9096 -735.7726 1080.9096 -733.0167 1084.0592 -733.0167 1084.0592 -726.7569 1081.6576 -726.7569 1081.4214 -726.7569 1081.1852 -726.7569 1080.9883 -726.7569 1080.949 -726.7569 1080.8309 -726.7569 1080.2797 -726.7569 1079.6891 -726.7569 1079.4923 -726.7569 1079.2167 -726.7569 1079.0592 -726.7569 1078.508 -726.7569 1077.9175 -726.7569 1077.76 -726.7569 1077.5631 -726.7569 1077.3663 -726.7569 1077.2482 -726.7569 1077.1301 -726.7569 1074.2561 -726.7569 1074.1773 -726.7569 1074.1773 -724.001 1074.2561 -724.001 1077.1301 -724.001 1077.2482 -724.001 1077.3663 -724.001 1077.5631 -724.001 1077.76 -724.001 1077.9175 -724.001 1078.508 -724.001 1079.0592 -724.001 1079.2167 -724.001 1079.4923 -724.001 1079.6891 -724.001 1080.2797 -724.001 1080.8309 -724.001 1080.949 -724.001 1080.9883 -724.001 1081.1852 -724.001 1081.4214 -724.001 1081.6576 -724.001 1084.0592 -724.001 1084.0592 -721.7569 1084.0592 -721.7175 1084.0986 -721.6388 1084.1379 -721.6388 1084.1773 -721.5994 1084.2167 -721.5994 1084.256 -721.5994 1084.8072 -721.5994 1084.886 -721.5994 1107.13 -721.5994 1107.1694 -721.5994 1107.9174 -721.5994 1107.9568 -721.5994 1107.9962 -721.6388 1108.0355 -721.6781 1108.0749 -721.7175 1108.0749 -721.7962 1108.0749 -724.5521 1111.2639 -724.5521 1113.2324 -726.5206 1113.2324 -734.749 1113.2324 -742.2686 1111.2639 -744.2371 1108.0749 -744.2371 1108.0749 -746.993 1108.0749 -747.0324 1108.0749 -747.0718 1108.0355 -747.1112 1108.0355 -747.1505 1107.9174 -747.1899 1107.9174 -747.1899\u0022}}]}",
-      "type": "svgnode"
-    }
-  ]
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 1073.3985 -741.8713 L 1073.3985 -744.8635 L 1079.5009 -744.8635 L 1079.5009 -741.8713 Z ",
+          "region_type": "solid",
+          "gid": "gge135",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 1073.3985 -723.8399 L 1073.3985 -726.8321 L 1079.5009 -726.8321 L 1079.5009 -723.8399 Z ",
+          "region_type": "solid",
+          "gid": "gge136",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 1092.0993 -723.89 L 1092.0993 -744.6774 L 1111.0836 -744.6774 L 1113.1623 -742.5987 L 1113.1623 -725.9687 L 1111.0836 -723.89 Z ",
+          "region_type": "solid",
+          "gid": "gge137",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "99",
+          "net": "",
+          "path": "M 1083.8865 -721.5856 L 1083.8865 -747.5698 L 1107.9023 -747.5698 L 1107.9023 -721.5856 Z ",
+          "region_type": "solid",
+          "gid": "gge147",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 0.5984,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 1084.58,
+              "Y": -726.858
+            },
+            {
+              "X": 1082.39,
+              "Y": -726.858
+            },
+            {
+              "X": 1082.39,
+              "Y": -723.938
+            },
+            {
+              "X": 1084.58,
+              "Y": -723.938
+            },
+            {
+              "X": 1084.58,
+              "Y": -723.979
+            }
+          ],
+          "gid": "gge182",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 0.5984,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 1084.58,
+              "Y": -744.772
+            },
+            {
+              "X": 1082.39,
+              "Y": -744.772
+            },
+            {
+              "X": 1082.39,
+              "Y": -741.852
+            },
+            {
+              "X": 1084.58,
+              "Y": -741.852
+            },
+            {
+              "X": 1084.58,
+              "Y": -741.893
+            }
+          ],
+          "gid": "gge180",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 0.6,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 1109.1907,
+              "Y": -747.5758
+            },
+            {
+              "X": 1084.5751,
+              "Y": -747.5758
+            }
+          ],
+          "gid": "gge177",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 0.6,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 1084.5751,
+              "Y": -747.5758
+            },
+            {
+              "X": 1084.5751,
+              "Y": -720.9916
+            }
+          ],
+          "gid": "gge176",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 0.6,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 1109.1907,
+              "Y": -720.9916
+            },
+            {
+              "X": 1084.5751,
+              "Y": -720.9916
+            }
+          ],
+          "gid": "gge175",
+          "locked": false
+        }
+      },
+      {
+        "type": "arc",
+        "feature": {
+          "stroke_width": 1.5748,
+          "layer_id": "3",
+          "net": "",
+          "path": "M 1082.5863 -747.3517 A 0.7874 0.7874 0 1 0 1082.5763 -747.3517",
+          "helper_dots": "",
+          "gid": "gge138",
+          "locked": false
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 1103.568,
+          "pos_y": -734.284,
+          "width": 25.5906,
+          "height": 23.622,
+          "layer_id": "1",
+          "net": "",
+          "number": "4",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 1090.7725,
+              "Y": -746.0947
+            },
+            {
+              "X": 1116.3631,
+              "Y": -746.0947
+            },
+            {
+              "X": 1116.3631,
+              "Y": -722.4727
+            },
+            {
+              "X": 1090.7725,
+              "Y": -722.4727
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge144",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 1103.5678,
+            "Y": -734.2835
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 1076.205,
+          "pos_y": -743.367,
+          "width": 11.0236,
+          "height": 5.315,
+          "layer_id": "1",
+          "net": "",
+          "number": "1",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 1070.693,
+              "Y": -746.0249
+            },
+            {
+              "X": 1081.7166,
+              "Y": -746.0249
+            },
+            {
+              "X": 1081.7166,
+              "Y": -740.7099
+            },
+            {
+              "X": 1070.693,
+              "Y": -740.7099
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge145",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 1076.2052,
+            "Y": -743.3676
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 1076.205,
+          "pos_y": -725.336,
+          "width": 11.0236,
+          "height": 5.9055,
+          "layer_id": "1",
+          "net": "",
+          "number": "3",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 1070.693,
+              "Y": -728.2888
+            },
+            {
+              "X": 1081.7166,
+              "Y": -728.2888
+            },
+            {
+              "X": 1081.7166,
+              "Y": -722.3832
+            },
+            {
+              "X": 1070.693,
+              "Y": -722.3832
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge146",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 1076.2056,
+            "Y": -725.3359
+          }
+        }
+      },
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 1073.4865,
+          "center_y": -743.352,
+          "radius": 0.984,
+          "stroke_width": 1.9685,
+          "layer_id": "12",
+          "gid": "gge148",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
+        }
+      },
+      {
+        "type": "svgnode",
+        "feature": {
+          "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002225.5905\u0022,\u0022c_height\u0022:\u002239.05244158\u0022,\u0022c_rotation\u0022:\u00220,0,270\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00221093.7048,-734.3947\u0022,\u0022uuid\u0022:\u002276a7a43de2f04ecc8457f0775620029d\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022TO-252-2_L6.5-W6.1-H2.3-LS10.0-P4.58\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00221107.9174 -747.1899 1107.878 -747.1899 1107.1694 -747.1899 1107.0906 -747.1899 1084.8466 -747.1899 1084.8072 -747.1899 1084.256 -747.1899 1084.2167 -747.1899 1084.1773 -747.1505 1084.0986 -747.1505 1084.0986 -747.1112 1084.0986 -747.0718 1084.0592 -747.0718 1084.0592 -747.0324 1084.0592 -746.993 1084.0592 -744.7883 1081.6576 -744.7883 1081.4214 -744.7883 1081.1852 -744.7883 1080.9883 -744.7883 1080.949 -744.7883 1080.8309 -744.7883 1080.2797 -744.7883 1079.6891 -744.7883 1079.4923 -744.7883 1079.2167 -744.7883 1079.0592 -744.7883 1078.508 -744.7883 1077.9175 -744.7883 1077.76 -744.7883 1077.5631 -744.7883 1077.3663 -744.7883 1077.2482 -744.7883 1077.1301 -744.7883 1074.2561 -744.7883 1074.1773 -744.7883 1074.1773 -742.0324 1074.2561 -742.0324 1077.1301 -742.0324 1077.2482 -742.0324 1077.3663 -742.0324 1077.5631 -742.0324 1077.76 -742.0324 1077.9175 -742.0324 1078.508 -742.0324 1079.0592 -742.0324 1079.2167 -742.0324 1079.4923 -742.0324 1079.6891 -742.0324 1080.2797 -742.0324 1080.8309 -742.0324 1080.949 -742.0324 1080.9883 -742.0324 1081.1852 -742.0324 1081.4214 -742.0324 1081.6576 -742.0324 1084.0592 -742.0324 1084.0592 -735.7726 1080.9096 -735.7726 1080.9096 -733.0167 1084.0592 -733.0167 1084.0592 -726.7569 1081.6576 -726.7569 1081.4214 -726.7569 1081.1852 -726.7569 1080.9883 -726.7569 1080.949 -726.7569 1080.8309 -726.7569 1080.2797 -726.7569 1079.6891 -726.7569 1079.4923 -726.7569 1079.2167 -726.7569 1079.0592 -726.7569 1078.508 -726.7569 1077.9175 -726.7569 1077.76 -726.7569 1077.5631 -726.7569 1077.3663 -726.7569 1077.2482 -726.7569 1077.1301 -726.7569 1074.2561 -726.7569 1074.1773 -726.7569 1074.1773 -724.001 1074.2561 -724.001 1077.1301 -724.001 1077.2482 -724.001 1077.3663 -724.001 1077.5631 -724.001 1077.76 -724.001 1077.9175 -724.001 1078.508 -724.001 1079.0592 -724.001 1079.2167 -724.001 1079.4923 -724.001 1079.6891 -724.001 1080.2797 -724.001 1080.8309 -724.001 1080.949 -724.001 1080.9883 -724.001 1081.1852 -724.001 1081.4214 -724.001 1081.6576 -724.001 1084.0592 -724.001 1084.0592 -721.7569 1084.0592 -721.7175 1084.0986 -721.6388 1084.1379 -721.6388 1084.1773 -721.5994 1084.2167 -721.5994 1084.256 -721.5994 1084.8072 -721.5994 1084.886 -721.5994 1107.13 -721.5994 1107.1694 -721.5994 1107.9174 -721.5994 1107.9568 -721.5994 1107.9962 -721.6388 1108.0355 -721.6781 1108.0749 -721.7175 1108.0749 -721.7962 1108.0749 -724.5521 1111.2639 -724.5521 1113.2324 -726.5206 1113.2324 -734.749 1113.2324 -742.2686 1111.2639 -744.2371 1108.0749 -744.2371 1108.0749 -746.993 1108.0749 -747.0324 1108.0749 -747.0718 1108.0355 -747.1112 1108.0355 -747.1505 1107.9174 -747.1899 1107.9174 -747.1899\u0022}}]}"
+        }
+      }
+    ]
+  }
 }

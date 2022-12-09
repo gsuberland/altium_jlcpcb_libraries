@@ -2,7 +2,7 @@
   "lcsc_id": 34465,
   "uuid": "3182863ffccfeeade4cf7df3ab9ebaaf",
   "lcsc_part_name": "LM2576SX-5.0",
-  "lcsc_last_updated": null,
+  "lcsc_last_updated": "2022-12-03T12:23:27+00:00",
   "lcsc_url": "https://lcsc.com/product-detail/DC-DC-Converters_TI_LM2576SX-5-0_LM2576SX-5-0_C34465.html",
   "lcsc_price": 1.8688,
   "szlcsc_url": "http://www.szlcsc.com/product/details_35434.html",
@@ -45,844 +45,916 @@
       },
       "features": [
         {
-          "top_left_x": 360,
-          "top_left_y": 270,
-          "bottom_right_x": 1,
-          "bottom_right_y": 1,
-          "width": 80,
-          "height": 60,
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "NONE",
-          "gid": "rep2",
-          "locked": false,
-          "c_etype": "",
-          "type": "rectangle"
+          "type": "rectangle",
+          "feature": {
+            "top_left_x": 360,
+            "top_left_y": 270,
+            "bottom_right_x": 1,
+            "bottom_right_y": 1,
+            "width": 80,
+            "height": 60,
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "NONE",
+            "gid": "rep2",
+            "locked": false,
+            "c_etype": ""
+          }
         },
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "4",
-          "x": 460,
-          "y": 300,
-          "rotation": 0,
-          "gid": "rep3",
-          "locked": false,
-          "pindot_x": 460,
-          "pindot_y": 300,
-          "path": "M460,300 h-20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 437,
-          "name_y": 303,
-          "name_rotation": 0,
-          "name": "FB",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 446,
-          "num_y": 299,
-          "num_rotation": 0,
-          "num": "4",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 443,
-          "dot_y": 300,
-          "clock_visible": false,
-          "clock_path": "M 440 297 L 437 300 L 440 303",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "4",
+            "x": 460,
+            "y": 300,
+            "rotation": 0,
+            "gid": "rep3",
+            "locked": false,
+            "pindot_x": 460,
+            "pindot_y": 300,
+            "path": "M460,300 h-20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 437,
+            "name_y": 303,
+            "name_rotation": 0,
+            "name": "FB",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 446,
+            "num_y": 299,
+            "num_rotation": 0,
+            "num": "4",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 443,
+            "dot_y": 300,
+            "clock_visible": false,
+            "clock_path": "M 440 297 L 437 300 L 440 303"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "1",
-          "x": 340,
-          "y": 280,
-          "rotation": 180,
-          "gid": "rep4",
-          "locked": false,
-          "pindot_x": 340,
-          "pindot_y": 280,
-          "path": "M340,280 h20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 363,
-          "name_y": 283,
-          "name_rotation": 0,
-          "name": "VIN",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 354,
-          "num_y": 279,
-          "num_rotation": 0,
-          "num": "1",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 357,
-          "dot_y": 280,
-          "clock_visible": false,
-          "clock_path": "M 360 283 L 363 280 L 360 277",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "1",
+            "x": 340,
+            "y": 280,
+            "rotation": 180,
+            "gid": "rep4",
+            "locked": false,
+            "pindot_x": 340,
+            "pindot_y": 280,
+            "path": "M340,280 h20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 363,
+            "name_y": 283,
+            "name_rotation": 0,
+            "name": "VIN",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 354,
+            "num_y": 279,
+            "num_rotation": 0,
+            "num": "1",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 357,
+            "dot_y": 280,
+            "clock_visible": false,
+            "clock_path": "M 360 283 L 363 280 L 360 277"
+          }
         },
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "5",
-          "x": 340,
-          "y": 300,
-          "rotation": 180,
-          "gid": "rep5",
-          "locked": false,
-          "pindot_x": 340,
-          "pindot_y": 300,
-          "path": "M340,300 h20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 363,
-          "name_y": 303,
-          "name_rotation": 0,
-          "name": "ON#/OFF",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 354,
-          "num_y": 299,
-          "num_rotation": 0,
-          "num": "5",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 357,
-          "dot_y": 300,
-          "clock_visible": false,
-          "clock_path": "M 360 303 L 363 300 L 360 297",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "5",
+            "x": 340,
+            "y": 300,
+            "rotation": 180,
+            "gid": "rep5",
+            "locked": false,
+            "pindot_x": 340,
+            "pindot_y": 300,
+            "path": "M340,300 h20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 363,
+            "name_y": 303,
+            "name_rotation": 0,
+            "name": "ON#/OFF",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 354,
+            "num_y": 299,
+            "num_rotation": 0,
+            "num": "5",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 357,
+            "dot_y": 300,
+            "clock_visible": false,
+            "clock_path": "M 360 303 L 363 300 L 360 297"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "3",
-          "x": 340,
-          "y": 320,
-          "rotation": 180,
-          "gid": "rep6",
-          "locked": false,
-          "pindot_x": 340,
-          "pindot_y": 320,
-          "path": "M340,320 h20",
-          "colour": "#000000",
-          "name_visible": true,
-          "name_x": 363,
-          "name_y": 323,
-          "name_rotation": 0,
-          "name": "GND",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#000000",
-          "num_visible": true,
-          "num_x": 354,
-          "num_y": 319,
-          "num_rotation": 0,
-          "num": "3",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#000000",
-          "dot_visible": false,
-          "dot_x": 357,
-          "dot_y": 320,
-          "clock_visible": false,
-          "clock_path": "M 360 323 L 363 320 L 360 317",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "3",
+            "x": 340,
+            "y": 320,
+            "rotation": 180,
+            "gid": "rep6",
+            "locked": false,
+            "pindot_x": 340,
+            "pindot_y": 320,
+            "path": "M340,320 h20",
+            "colour": "#000000",
+            "name_visible": true,
+            "name_x": 363,
+            "name_y": 323,
+            "name_rotation": 0,
+            "name": "GND",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#000000",
+            "num_visible": true,
+            "num_x": 354,
+            "num_y": 319,
+            "num_rotation": 0,
+            "num": "3",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#000000",
+            "dot_visible": false,
+            "dot_x": 357,
+            "dot_y": 320,
+            "clock_visible": false,
+            "clock_path": "M 360 323 L 363 320 L 360 317"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "6",
-          "x": 460,
-          "y": 320,
-          "rotation": 0,
-          "gid": "rep7",
-          "locked": false,
-          "pindot_x": 460,
-          "pindot_y": 320,
-          "path": "M460,320 h-20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 437,
-          "name_y": 323,
-          "name_rotation": 0,
-          "name": "TAB",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 446,
-          "num_y": 319,
-          "num_rotation": 0,
-          "num": "6",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 443,
-          "dot_y": 320,
-          "clock_visible": false,
-          "clock_path": "M 440 317 L 437 320 L 440 323",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "6",
+            "x": 460,
+            "y": 320,
+            "rotation": 0,
+            "gid": "rep7",
+            "locked": false,
+            "pindot_x": 460,
+            "pindot_y": 320,
+            "path": "M460,320 h-20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 437,
+            "name_y": 323,
+            "name_rotation": 0,
+            "name": "TAB",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 446,
+            "num_y": 319,
+            "num_rotation": 0,
+            "num": "6",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 443,
+            "dot_y": 320,
+            "clock_visible": false,
+            "clock_path": "M 440 317 L 437 320 L 440 323"
+          }
         },
         {
-          "display": "show",
-          "electric": "Power",
-          "spicepin": "2",
-          "x": 460,
-          "y": 280,
-          "rotation": 0,
-          "gid": "rep8",
-          "locked": false,
-          "pindot_x": 460,
-          "pindot_y": 280,
-          "path": "M460,280 h-20",
-          "colour": "#880000",
-          "name_visible": true,
-          "name_x": 437,
-          "name_y": 283,
-          "name_rotation": 0,
-          "name": "OUT",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 446,
-          "num_y": 279,
-          "num_rotation": 0,
-          "num": "2",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 443,
-          "dot_y": 280,
-          "clock_visible": false,
-          "clock_path": "M 440 277 L 437 280 L 440 283",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Power",
+            "spicepin": "2",
+            "x": 460,
+            "y": 280,
+            "rotation": 0,
+            "gid": "rep8",
+            "locked": false,
+            "pindot_x": 460,
+            "pindot_y": 280,
+            "path": "M460,280 h-20",
+            "colour": "#880000",
+            "name_visible": true,
+            "name_x": 437,
+            "name_y": 283,
+            "name_rotation": 0,
+            "name": "OUT",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 446,
+            "num_y": 279,
+            "num_rotation": 0,
+            "num": "2",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 443,
+            "dot_y": 280,
+            "clock_visible": false,
+            "clock_path": "M 440 277 L 437 280 L 440 283"
+          }
         }
       ]
     }
   ],
-  "footprint": [
-    {
-      "center_x": 4024.462,
-      "center_y": 3020.41,
-      "radius": 0.118,
-      "stroke_width": 0.2362,
-      "layer_id": "101",
-      "gid": "gge302",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "center_x": 4028.562,
-      "center_y": 3013.836,
-      "radius": 1.181,
-      "stroke_width": 2.3622,
-      "layer_id": "12",
-      "gid": "gge195",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "layer_id": "99",
-      "net": "",
-      "path": "M 3972.9685 3020.41 L 3972.9685 2980.2525 L 4007.2205 2980.2525 L 4007.2205 3020.41 Z ",
-      "region_type": "solid",
-      "gid": "gge213",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4005.062,
-          "Y": 3012.3096
-        },
-        {
-          "X": 4008.562,
-          "Y": 3012.3096
-        },
-        {
-          "X": 4008.562,
-          "Y": 3015.1073
-        },
-        {
-          "X": 4005.062,
-          "Y": 3015.1073
+  "footprint": {
+    "features": [
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 4024.462,
+          "center_y": 3020.41,
+          "radius": 0.118,
+          "stroke_width": 0.2362,
+          "layer_id": "101",
+          "gid": "gge302",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
         }
-      ],
-      "gid": "gge275",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4005.062,
-          "Y": 3005.6166
-        },
-        {
-          "X": 4008.562,
-          "Y": 3005.6166
-        },
-        {
-          "X": 4008.562,
-          "Y": 3008.4143
-        },
-        {
-          "X": 4005.062,
-          "Y": 3008.4143
-        }
-      ],
-      "gid": "gge273",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4005.062,
-          "Y": 2998.9236
-        },
-        {
-          "X": 4008.562,
-          "Y": 2998.9236
-        },
-        {
-          "X": 4008.562,
-          "Y": 3001.7213
-        },
-        {
-          "X": 4005.062,
-          "Y": 3001.7213
-        }
-      ],
-      "gid": "gge271",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4005.062,
-          "Y": 2992.2306
-        },
-        {
-          "X": 4008.562,
-          "Y": 2992.2306
-        },
-        {
-          "X": 4008.562,
-          "Y": 2995.0283
-        },
-        {
-          "X": 4005.062,
-          "Y": 2995.0283
-        }
-      ],
-      "gid": "gge269",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4005.062,
-          "Y": 2985.5386
-        },
-        {
-          "X": 4008.562,
-          "Y": 2985.5386
-        },
-        {
-          "X": 4008.562,
-          "Y": 2988.3363
-        },
-        {
-          "X": 4005.062,
-          "Y": 2988.3363
-        }
-      ],
-      "gid": "gge267",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4001.562,
-          "Y": 2979.3363
-        },
-        {
-          "X": 4005.062,
-          "Y": 2979.3363
-        },
-        {
-          "X": 4005.062,
-          "Y": 3019.8363
-        },
-        {
-          "X": 4001.062,
-          "Y": 3019.8363
-        }
-      ],
-      "gid": "gge254",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "center_x": 4020.062,
-      "center_y": 3019.336,
-      "radius": 1.414,
-      "stroke_width": 1,
-      "layer_id": "3",
-      "gid": "gge193",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.393,
-      "pos_y": 3000.336,
-      "width": 18.1102,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "3",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4010.3383,
-          "Y": 2998.1707
-        },
-        {
-          "X": 4028.4483,
-          "Y": 2998.1707
-        },
-        {
-          "X": 4028.4483,
-          "Y": 3002.5007
-        },
-        {
-          "X": 4010.3383,
-          "Y": 3002.5007
-        }
-      ],
-      "rotation": 0,
-      "gid": "gge187",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 4019.3933,
-        "Y": 3000.3357
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.393,
-      "pos_y": 3013.722,
-      "width": 18.1102,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "1",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4010.3384,
-          "Y": 3011.5567
-        },
-        {
-          "X": 4028.4484,
-          "Y": 3011.5567
-        },
-        {
-          "X": 4028.4484,
-          "Y": 3015.8877
-        },
-        {
-          "X": 4010.3384,
-          "Y": 3015.8877
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 4028.562,
+          "center_y": 3013.836,
+          "radius": 1.181,
+          "stroke_width": 2.3622,
+          "layer_id": "12",
+          "gid": "gge195",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
         }
-      ],
-      "rotation": 0,
-      "gid": "gge188",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 4019.3934,
-        "Y": 3013.7227
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.393,
-      "pos_y": 3007.029,
-      "width": 18.1102,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "2",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4010.3384,
-          "Y": 3004.8637
-        },
-        {
-          "X": 4028.4484,
-          "Y": 3004.8637
-        },
-        {
-          "X": 4028.4484,
-          "Y": 3009.1937
-        },
-        {
-          "X": 4010.3384,
-          "Y": 3009.1937
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "99",
+          "net": "",
+          "path": "M 3972.9685 3020.41 L 3972.9685 2980.2525 L 4007.2205 2980.2525 L 4007.2205 3020.41 Z ",
+          "region_type": "solid",
+          "gid": "gge213",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge189",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 4019.3934,
-        "Y": 3007.0287
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.393,
-      "pos_y": 2993.643,
-      "width": 18.1102,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "4",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4010.3384,
-          "Y": 2991.4777
-        },
-        {
-          "X": 4028.4484,
-          "Y": 2991.4777
-        },
-        {
-          "X": 4028.4484,
-          "Y": 2995.8077
-        },
-        {
-          "X": 4010.3384,
-          "Y": 2995.8077
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4005.062,
+              "Y": 3012.3096
+            },
+            {
+              "X": 4008.562,
+              "Y": 3012.3096
+            },
+            {
+              "X": 4008.562,
+              "Y": 3015.1073
+            },
+            {
+              "X": 4005.062,
+              "Y": 3015.1073
+            }
+          ],
+          "gid": "gge275",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge190",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 4019.3934,
-        "Y": 2993.6427
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.393,
-      "pos_y": 2986.951,
-      "width": 18.1102,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "5",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4010.3384,
-          "Y": 2984.7857
-        },
-        {
-          "X": 4028.4484,
-          "Y": 2984.7857
-        },
-        {
-          "X": 4028.4484,
-          "Y": 2989.1167
-        },
-        {
-          "X": 4010.3384,
-          "Y": 2989.1167
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4005.062,
+              "Y": 3005.6166
+            },
+            {
+              "X": 4008.562,
+              "Y": 3005.6166
+            },
+            {
+              "X": 4008.562,
+              "Y": 3008.4143
+            },
+            {
+              "X": 4005.062,
+              "Y": 3008.4143
+            }
+          ],
+          "gid": "gge273",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge191",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 4019.3934,
-        "Y": 2986.9517
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 3982.912,
-      "pos_y": 3000.336,
-      "width": 35,
-      "height": 42,
-      "layer_id": "1",
-      "net": "",
-      "number": "6",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 3965.4115,
-          "Y": 2979.3358
-        },
-        {
-          "X": 4000.4115,
-          "Y": 2979.3358
-        },
-        {
-          "X": 4000.4115,
-          "Y": 3021.3358
-        },
-        {
-          "X": 3965.4115,
-          "Y": 3021.3358
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4005.062,
+              "Y": 2998.9236
+            },
+            {
+              "X": 4008.562,
+              "Y": 2998.9236
+            },
+            {
+              "X": 4008.562,
+              "Y": 3001.7213
+            },
+            {
+              "X": 4005.062,
+              "Y": 3001.7213
+            }
+          ],
+          "gid": "gge271",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge192",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2,
-      "hole_center": {
-        "X": 3982.9116,
-        "Y": 3000.3355
       },
-      "type": "pad"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4007.058 3015.1969 L 4007.058 3012.1969 L 4014.5115 3012.1969 L 4014.5115 3015.1969 Z ",
-      "region_type": "cutout",
-      "gid": "gge176",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4007.058 3008.5039 L 4007.058 3005.5039 L 4014.5115 3005.5039 L 4014.5115 3008.5039 Z ",
-      "region_type": "cutout",
-      "gid": "gge177",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4007.058 3001.8114 L 4007.058 2998.8114 L 4014.5116 2998.8114 L 4014.5116 3001.8114 Z ",
-      "region_type": "cutout",
-      "gid": "gge178",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4007.058 2995.1179 L 4007.058 2992.1179 L 4014.5115 2992.1179 L 4014.5115 2995.1179 Z ",
-      "region_type": "cutout",
-      "gid": "gge179",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4007.058 2988.4259 L 4007.058 2985.4259 L 4014.5115 2985.4259 L 4014.5115 2988.4259 Z ",
-      "region_type": "cutout",
-      "gid": "gge180",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 3967.9654 2980.2499 L 3997.9954 2980.2508 L 3997.9654 3020.4231 L 3967.9654 3020.4231 Z ",
-      "region_type": "solid",
-      "gid": "gge181",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4024.4614 3015.1968 L 4014.4614 3015.1968 L 4014.4614 3012.2468 L 4024.4614 3012.2468 Z ",
-      "region_type": "solid",
-      "gid": "gge182",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4024.4614 3008.5038 L 4014.4614 3008.5038 L 4014.4614 3005.5538 L 4024.4614 3005.5538 Z ",
-      "region_type": "solid",
-      "gid": "gge183",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4024.4615 3001.8113 L 4014.4615 3001.8113 L 4014.4615 2998.8613 L 4024.4615 2998.8613 Z ",
-      "region_type": "solid",
-      "gid": "gge184",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4024.4614 2995.1178 L 4014.4614 2995.1178 L 4014.4614 2992.1678 L 4024.4614 2992.1678 Z ",
-      "region_type": "solid",
-      "gid": "gge185",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4024.4614 2988.4258 L 4014.4614 2988.4258 L 4014.4614 2985.4758 L 4024.4614 2985.4758 Z ",
-      "region_type": "solid",
-      "gid": "gge186",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002239.9999\u0022,\u0022c_height\u0022:\u002256.49595\u0022,\u0022c_rotation\u0022:\u00220,0,90\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00223994.0226,3000.3365\u0022,\u0022uuid\u0022:\u002270cc45bea58d4b36b00cd92edd215a01\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00223966.9164 3020.3364 3970.7746 3020.3364 3972.2313 3020.3364 4001.562 3020.3364 4004.3179 3020.3364 4004.5541 3020.3364 4005.0265 3020.3364 4005.0265 3015.3758 4008.8848 3015.3758 4009.3178 3015.3758 4009.7509 3015.3758 4009.8297 3015.3758 4010.1446 3015.3758 4010.4202 3015.3758 4010.6958 3015.3758 4011.4438 3015.3758 4012.0737 3015.3758 4012.5068 3015.3758 4012.6249 3015.3758 4012.9793 3015.3758 4013.4911 3015.3758 4014.1604 3015.3758 4014.4753 3015.3758 4014.5934 3015.3758 4014.8296 3015.3758 4014.9478 3015.3758 4015.1052 3015.3758 4015.4202 3015.3758 4015.7745 3015.3758 4022.2706 3015.3758 4022.2706 3012.0293 4015.7745 3012.0293 4015.4202 3012.0293 4015.1052 3012.0293 4014.9478 3012.0293 4014.8296 3012.0293 4014.5934 3012.0293 4014.4753 3012.0293 4014.1604 3012.0293 4013.4911 3012.0293 4012.9793 3012.0293 4012.6249 3012.0293 4012.5068 3012.0293 4012.0737 3012.0293 4011.4438 3012.0293 4010.6564 3012.0293 4010.4202 3012.0293 4010.1446 3012.0293 4009.8297 3012.0293 4009.7509 3012.0293 4009.3178 3012.0293 4008.8848 3012.0293 4005.0265 3012.0293 4005.0265 3008.6829 4008.8848 3008.6829 4009.3178 3008.6829 4009.7509 3008.6829 4009.8297 3008.6829 4010.1446 3008.6829 4010.4202 3008.6829 4010.6958 3008.6829 4011.4438 3008.6829 4012.0737 3008.6829 4012.5068 3008.6829 4012.6249 3008.6829 4012.9793 3008.6829 4013.4911 3008.6829 4014.1604 3008.6829 4014.4753 3008.6829 4014.5934 3008.6829 4014.8296 3008.6829 4014.9478 3008.6829 4015.1052 3008.6829 4015.4202 3008.6829 4015.7745 3008.6829 4022.2706 3008.6829 4022.2706 3005.3364 4015.7745 3005.3364 4015.4202 3005.3364 4015.1052 3005.3364 4014.9478 3005.3364 4014.8296 3005.3364 4014.5934 3005.3364 4014.4753 3005.3364 4014.1604 3005.3364 4013.4911 3005.3364 4012.9793 3005.3364 4012.6249 3005.3364 4012.5068 3005.3364 4012.0737 3005.3364 4011.4438 3005.3364 4010.6564 3005.3364 4010.4202 3005.3364 4010.1446 3005.3364 4009.8297 3005.3364 4009.7509 3005.3364 4009.3178 3005.3364 4008.8848 3005.3364 4005.0265 3005.3364 4005.0265 3001.99 4008.8848 3001.99 4009.3178 3001.99 4009.7509 3001.99 4009.8297 3001.99 4010.1446 3001.99 4010.4202 3001.99 4010.6958 3001.99 4011.4438 3001.99 4012.0737 3001.99 4012.5068 3001.99 4012.6249 3001.99 4012.9793 3001.99 4013.4911 3001.99 4014.1604 3001.99 4014.4753 3001.99 4014.5934 3001.99 4014.8296 3001.99 4014.9478 3001.99 4015.1052 3001.99 4015.4202 3001.99 4015.7745 3001.99 4022.2706 3001.99 4022.2706 2998.6435 4015.7745 2998.6435 4015.4202 2998.6435 4015.1052 2998.6435 4014.9478 2998.6435 4014.8296 2998.6435 4014.5934 2998.6435 4014.4753 2998.6435 4014.1604 2998.6435 4013.4911 2998.6435 4012.9793 2998.6435 4012.6249 2998.6435 4012.5068 2998.6435 4012.0737 2998.6435 4011.4438 2998.6435 4010.6564 2998.6435 4010.4202 2998.6435 4010.1446 2998.6435 4009.8297 2998.6435 4009.7509 2998.6435 4009.3178 2998.6435 4008.8848 2998.6435 4005.0265 2998.6435 4005.0265 2995.3365 4008.8848 2995.3365 4009.3178 2995.3365 4009.7509 2995.3365 4009.8297 2995.3365 4010.1446 2995.3365 4010.4202 2995.3365 4010.6958 2995.3365 4011.4438 2995.3365 4012.0737 2995.3365 4012.5068 2995.3365 4012.6249 2995.3365 4012.9793 2995.3365 4013.4911 2995.3365 4014.1604 2995.3365 4014.4753 2995.3365 4014.5934 2995.3365 4014.8296 2995.3365 4014.9478 2995.3365 4015.1052 2995.3365 4015.4202 2995.3365 4015.7745 2995.3365 4022.2706 2995.3365 4022.2706 2991.9506 4015.7745 2991.9506 4015.4202 2991.9506 4015.1052 2991.9506 4014.9478 2991.9506 4014.8296 2991.9506 4014.5934 2991.9506 4014.4753 2991.9506 4014.1604 2991.9506 4013.4911 2991.9506 4012.9793 2991.9506 4012.6249 2991.9506 4012.5068 2991.9506 4012.0737 2991.9506 4011.4438 2991.9506 4010.6564 2991.9506 4010.4202 2991.9506 4010.1446 2991.9506 4009.8297 2991.9506 4009.7509 2991.9506 4009.3178 2991.9506 4008.8848 2991.9506 4005.0265 2991.9506 4005.0265 2988.6042 4008.8848 2988.6042 4009.3178 2988.6042 4009.7509 2988.6042 4009.8297 2988.6042 4010.1446 2988.6042 4010.4202 2988.6042 4010.6958 2988.6042 4011.4438 2988.6042 4012.0737 2988.6042 4012.5068 2988.6042 4012.6249 2988.6042 4012.9793 2988.6042 4013.4911 2988.6042 4014.1604 2988.6042 4014.4753 2988.6042 4014.5934 2988.6042 4014.8296 2988.6042 4014.9478 2988.6042 4015.1052 2988.6042 4015.4202 2988.6042 4015.7745 2988.6042 4022.2706 2988.6042 4022.2706 2985.2577 4015.7745 2985.2577 4015.4202 2985.2577 4015.1052 2985.2577 4014.9478 2985.2577 4014.8296 2985.2577 4014.5934 2985.2577 4014.4753 2985.2577 4014.1604 2985.2577 4013.4911 2985.2577 4012.9793 2985.2577 4012.6249 2985.2577 4012.5068 2985.2577 4012.0737 2985.2577 4011.4438 2985.2577 4010.6564 2985.2577 4010.4202 2985.2577 4010.1446 2985.2577 4009.8297 2985.2577 4009.7509 2985.2577 4009.3178 2985.2577 4008.8848 2985.2577 4005.0265 2985.2577 4005.0265 2980.3365 4004.5541 2980.3365 4004.3179 2980.3365 4001.562 2980.3365 3972.2313 2980.3365 3970.7746 2980.3365 3966.9164 2980.3365 3965.7746 2986.8325 3965.7746 3013.8404 3966.9164 3020.3364 3966.9164 3020.3364\u0022}}]}",
-      "type": "svgnode"
-    }
-  ]
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4005.062,
+              "Y": 2992.2306
+            },
+            {
+              "X": 4008.562,
+              "Y": 2992.2306
+            },
+            {
+              "X": 4008.562,
+              "Y": 2995.0283
+            },
+            {
+              "X": 4005.062,
+              "Y": 2995.0283
+            }
+          ],
+          "gid": "gge269",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4005.062,
+              "Y": 2985.5386
+            },
+            {
+              "X": 4008.562,
+              "Y": 2985.5386
+            },
+            {
+              "X": 4008.562,
+              "Y": 2988.3363
+            },
+            {
+              "X": 4005.062,
+              "Y": 2988.3363
+            }
+          ],
+          "gid": "gge267",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4001.562,
+              "Y": 2979.3363
+            },
+            {
+              "X": 4005.062,
+              "Y": 2979.3363
+            },
+            {
+              "X": 4005.062,
+              "Y": 3019.8363
+            },
+            {
+              "X": 4001.062,
+              "Y": 3019.8363
+            }
+          ],
+          "gid": "gge254",
+          "locked": false
+        }
+      },
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 4020.062,
+          "center_y": 3019.336,
+          "radius": 1.414,
+          "stroke_width": 1,
+          "layer_id": "3",
+          "gid": "gge193",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.393,
+          "pos_y": 3000.336,
+          "width": 18.1102,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "3",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4010.3383,
+              "Y": 2998.1707
+            },
+            {
+              "X": 4028.4483,
+              "Y": 2998.1707
+            },
+            {
+              "X": 4028.4483,
+              "Y": 3002.5007
+            },
+            {
+              "X": 4010.3383,
+              "Y": 3002.5007
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge187",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 4019.3933,
+            "Y": 3000.3357
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.393,
+          "pos_y": 3013.722,
+          "width": 18.1102,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "1",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4010.3384,
+              "Y": 3011.5567
+            },
+            {
+              "X": 4028.4484,
+              "Y": 3011.5567
+            },
+            {
+              "X": 4028.4484,
+              "Y": 3015.8877
+            },
+            {
+              "X": 4010.3384,
+              "Y": 3015.8877
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge188",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 4019.3934,
+            "Y": 3013.7227
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.393,
+          "pos_y": 3007.029,
+          "width": 18.1102,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "2",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4010.3384,
+              "Y": 3004.8637
+            },
+            {
+              "X": 4028.4484,
+              "Y": 3004.8637
+            },
+            {
+              "X": 4028.4484,
+              "Y": 3009.1937
+            },
+            {
+              "X": 4010.3384,
+              "Y": 3009.1937
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge189",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 4019.3934,
+            "Y": 3007.0287
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.393,
+          "pos_y": 2993.643,
+          "width": 18.1102,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "4",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4010.3384,
+              "Y": 2991.4777
+            },
+            {
+              "X": 4028.4484,
+              "Y": 2991.4777
+            },
+            {
+              "X": 4028.4484,
+              "Y": 2995.8077
+            },
+            {
+              "X": 4010.3384,
+              "Y": 2995.8077
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge190",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 4019.3934,
+            "Y": 2993.6427
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.393,
+          "pos_y": 2986.951,
+          "width": 18.1102,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "5",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4010.3384,
+              "Y": 2984.7857
+            },
+            {
+              "X": 4028.4484,
+              "Y": 2984.7857
+            },
+            {
+              "X": 4028.4484,
+              "Y": 2989.1167
+            },
+            {
+              "X": 4010.3384,
+              "Y": 2989.1167
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge191",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 4019.3934,
+            "Y": 2986.9517
+          }
+        }
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 3982.912,
+          "pos_y": 3000.336,
+          "width": 35,
+          "height": 42,
+          "layer_id": "1",
+          "net": "",
+          "number": "6",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 3965.4115,
+              "Y": 2979.3358
+            },
+            {
+              "X": 4000.4115,
+              "Y": 2979.3358
+            },
+            {
+              "X": 4000.4115,
+              "Y": 3021.3358
+            },
+            {
+              "X": 3965.4115,
+              "Y": 3021.3358
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge192",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2,
+          "hole_center": {
+            "X": 3982.9116,
+            "Y": 3000.3355
+          }
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4007.058 3015.1969 L 4007.058 3012.1969 L 4014.5115 3012.1969 L 4014.5115 3015.1969 Z ",
+          "region_type": "cutout",
+          "gid": "gge176",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4007.058 3008.5039 L 4007.058 3005.5039 L 4014.5115 3005.5039 L 4014.5115 3008.5039 Z ",
+          "region_type": "cutout",
+          "gid": "gge177",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4007.058 3001.8114 L 4007.058 2998.8114 L 4014.5116 2998.8114 L 4014.5116 3001.8114 Z ",
+          "region_type": "cutout",
+          "gid": "gge178",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4007.058 2995.1179 L 4007.058 2992.1179 L 4014.5115 2992.1179 L 4014.5115 2995.1179 Z ",
+          "region_type": "cutout",
+          "gid": "gge179",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4007.058 2988.4259 L 4007.058 2985.4259 L 4014.5115 2985.4259 L 4014.5115 2988.4259 Z ",
+          "region_type": "cutout",
+          "gid": "gge180",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 3967.9654 2980.2499 L 3997.9954 2980.2508 L 3997.9654 3020.4231 L 3967.9654 3020.4231 Z ",
+          "region_type": "solid",
+          "gid": "gge181",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4024.4614 3015.1968 L 4014.4614 3015.1968 L 4014.4614 3012.2468 L 4024.4614 3012.2468 Z ",
+          "region_type": "solid",
+          "gid": "gge182",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4024.4614 3008.5038 L 4014.4614 3008.5038 L 4014.4614 3005.5538 L 4024.4614 3005.5538 Z ",
+          "region_type": "solid",
+          "gid": "gge183",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4024.4615 3001.8113 L 4014.4615 3001.8113 L 4014.4615 2998.8613 L 4024.4615 2998.8613 Z ",
+          "region_type": "solid",
+          "gid": "gge184",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4024.4614 2995.1178 L 4014.4614 2995.1178 L 4014.4614 2992.1678 L 4024.4614 2992.1678 Z ",
+          "region_type": "solid",
+          "gid": "gge185",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4024.4614 2988.4258 L 4014.4614 2988.4258 L 4014.4614 2985.4758 L 4024.4614 2985.4758 Z ",
+          "region_type": "solid",
+          "gid": "gge186",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
+        }
+      },
+      {
+        "type": "svgnode",
+        "feature": {
+          "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002239.9999\u0022,\u0022c_height\u0022:\u002256.49595\u0022,\u0022c_rotation\u0022:\u00220,0,90\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00223994.0226,3000.3365\u0022,\u0022uuid\u0022:\u002270cc45bea58d4b36b00cd92edd215a01\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022PG-TO-263-5_L10.2-W8.7-P1.70-LS14.4-BR\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00223966.9164 3020.3364 3970.7746 3020.3364 3972.2313 3020.3364 4001.562 3020.3364 4004.3179 3020.3364 4004.5541 3020.3364 4005.0265 3020.3364 4005.0265 3015.3758 4008.8848 3015.3758 4009.3178 3015.3758 4009.7509 3015.3758 4009.8297 3015.3758 4010.1446 3015.3758 4010.4202 3015.3758 4010.6958 3015.3758 4011.4438 3015.3758 4012.0737 3015.3758 4012.5068 3015.3758 4012.6249 3015.3758 4012.9793 3015.3758 4013.4911 3015.3758 4014.1604 3015.3758 4014.4753 3015.3758 4014.5934 3015.3758 4014.8296 3015.3758 4014.9478 3015.3758 4015.1052 3015.3758 4015.4202 3015.3758 4015.7745 3015.3758 4022.2706 3015.3758 4022.2706 3012.0293 4015.7745 3012.0293 4015.4202 3012.0293 4015.1052 3012.0293 4014.9478 3012.0293 4014.8296 3012.0293 4014.5934 3012.0293 4014.4753 3012.0293 4014.1604 3012.0293 4013.4911 3012.0293 4012.9793 3012.0293 4012.6249 3012.0293 4012.5068 3012.0293 4012.0737 3012.0293 4011.4438 3012.0293 4010.6564 3012.0293 4010.4202 3012.0293 4010.1446 3012.0293 4009.8297 3012.0293 4009.7509 3012.0293 4009.3178 3012.0293 4008.8848 3012.0293 4005.0265 3012.0293 4005.0265 3008.6829 4008.8848 3008.6829 4009.3178 3008.6829 4009.7509 3008.6829 4009.8297 3008.6829 4010.1446 3008.6829 4010.4202 3008.6829 4010.6958 3008.6829 4011.4438 3008.6829 4012.0737 3008.6829 4012.5068 3008.6829 4012.6249 3008.6829 4012.9793 3008.6829 4013.4911 3008.6829 4014.1604 3008.6829 4014.4753 3008.6829 4014.5934 3008.6829 4014.8296 3008.6829 4014.9478 3008.6829 4015.1052 3008.6829 4015.4202 3008.6829 4015.7745 3008.6829 4022.2706 3008.6829 4022.2706 3005.3364 4015.7745 3005.3364 4015.4202 3005.3364 4015.1052 3005.3364 4014.9478 3005.3364 4014.8296 3005.3364 4014.5934 3005.3364 4014.4753 3005.3364 4014.1604 3005.3364 4013.4911 3005.3364 4012.9793 3005.3364 4012.6249 3005.3364 4012.5068 3005.3364 4012.0737 3005.3364 4011.4438 3005.3364 4010.6564 3005.3364 4010.4202 3005.3364 4010.1446 3005.3364 4009.8297 3005.3364 4009.7509 3005.3364 4009.3178 3005.3364 4008.8848 3005.3364 4005.0265 3005.3364 4005.0265 3001.99 4008.8848 3001.99 4009.3178 3001.99 4009.7509 3001.99 4009.8297 3001.99 4010.1446 3001.99 4010.4202 3001.99 4010.6958 3001.99 4011.4438 3001.99 4012.0737 3001.99 4012.5068 3001.99 4012.6249 3001.99 4012.9793 3001.99 4013.4911 3001.99 4014.1604 3001.99 4014.4753 3001.99 4014.5934 3001.99 4014.8296 3001.99 4014.9478 3001.99 4015.1052 3001.99 4015.4202 3001.99 4015.7745 3001.99 4022.2706 3001.99 4022.2706 2998.6435 4015.7745 2998.6435 4015.4202 2998.6435 4015.1052 2998.6435 4014.9478 2998.6435 4014.8296 2998.6435 4014.5934 2998.6435 4014.4753 2998.6435 4014.1604 2998.6435 4013.4911 2998.6435 4012.9793 2998.6435 4012.6249 2998.6435 4012.5068 2998.6435 4012.0737 2998.6435 4011.4438 2998.6435 4010.6564 2998.6435 4010.4202 2998.6435 4010.1446 2998.6435 4009.8297 2998.6435 4009.7509 2998.6435 4009.3178 2998.6435 4008.8848 2998.6435 4005.0265 2998.6435 4005.0265 2995.3365 4008.8848 2995.3365 4009.3178 2995.3365 4009.7509 2995.3365 4009.8297 2995.3365 4010.1446 2995.3365 4010.4202 2995.3365 4010.6958 2995.3365 4011.4438 2995.3365 4012.0737 2995.3365 4012.5068 2995.3365 4012.6249 2995.3365 4012.9793 2995.3365 4013.4911 2995.3365 4014.1604 2995.3365 4014.4753 2995.3365 4014.5934 2995.3365 4014.8296 2995.3365 4014.9478 2995.3365 4015.1052 2995.3365 4015.4202 2995.3365 4015.7745 2995.3365 4022.2706 2995.3365 4022.2706 2991.9506 4015.7745 2991.9506 4015.4202 2991.9506 4015.1052 2991.9506 4014.9478 2991.9506 4014.8296 2991.9506 4014.5934 2991.9506 4014.4753 2991.9506 4014.1604 2991.9506 4013.4911 2991.9506 4012.9793 2991.9506 4012.6249 2991.9506 4012.5068 2991.9506 4012.0737 2991.9506 4011.4438 2991.9506 4010.6564 2991.9506 4010.4202 2991.9506 4010.1446 2991.9506 4009.8297 2991.9506 4009.7509 2991.9506 4009.3178 2991.9506 4008.8848 2991.9506 4005.0265 2991.9506 4005.0265 2988.6042 4008.8848 2988.6042 4009.3178 2988.6042 4009.7509 2988.6042 4009.8297 2988.6042 4010.1446 2988.6042 4010.4202 2988.6042 4010.6958 2988.6042 4011.4438 2988.6042 4012.0737 2988.6042 4012.5068 2988.6042 4012.6249 2988.6042 4012.9793 2988.6042 4013.4911 2988.6042 4014.1604 2988.6042 4014.4753 2988.6042 4014.5934 2988.6042 4014.8296 2988.6042 4014.9478 2988.6042 4015.1052 2988.6042 4015.4202 2988.6042 4015.7745 2988.6042 4022.2706 2988.6042 4022.2706 2985.2577 4015.7745 2985.2577 4015.4202 2985.2577 4015.1052 2985.2577 4014.9478 2985.2577 4014.8296 2985.2577 4014.5934 2985.2577 4014.4753 2985.2577 4014.1604 2985.2577 4013.4911 2985.2577 4012.9793 2985.2577 4012.6249 2985.2577 4012.5068 2985.2577 4012.0737 2985.2577 4011.4438 2985.2577 4010.6564 2985.2577 4010.4202 2985.2577 4010.1446 2985.2577 4009.8297 2985.2577 4009.7509 2985.2577 4009.3178 2985.2577 4008.8848 2985.2577 4005.0265 2985.2577 4005.0265 2980.3365 4004.5541 2980.3365 4004.3179 2980.3365 4001.562 2980.3365 3972.2313 2980.3365 3970.7746 2980.3365 3966.9164 2980.3365 3965.7746 2986.8325 3965.7746 3013.8404 3966.9164 3020.3364 3966.9164 3020.3364\u0022}}]}"
+        }
+      }
+    ]
+  }
 }

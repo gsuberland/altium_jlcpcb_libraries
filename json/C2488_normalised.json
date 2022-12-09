@@ -2,7 +2,7 @@
   "lcsc_id": 2488,
   "uuid": "3a5ff90202722368b83aaba6677a93f1",
   "lcsc_part_name": "MB10S_C2488",
-  "lcsc_last_updated": null,
+  "lcsc_last_updated": "2022-12-03T12:29:35+00:00",
   "lcsc_url": "https://lcsc.com/product-detail/Bridge-Rectifiers_MB10S_C2488.html",
   "lcsc_price": 0.0245,
   "szlcsc_url": "http://www.szlcsc.com/product/details_2865.html",
@@ -45,1008 +45,1124 @@
       },
       "features": [
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "4",
-          "x": 70,
-          "y": 45,
-          "rotation": 0,
-          "gid": "gge60",
-          "locked": false,
-          "pindot_x": 70,
-          "pindot_y": 45,
-          "path": "M 70 45 h -10",
-          "colour": "#880000",
-          "name_visible": false,
-          "name_x": 57,
-          "name_y": 48,
-          "name_rotation": 0,
-          "name": "C1",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 66,
-          "num_y": 44,
-          "num_rotation": 0,
-          "num": "4",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 63,
-          "dot_y": 45,
-          "clock_visible": false,
-          "clock_path": "M 60 42 L 57 45 L 60 48",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "4",
+            "x": 70,
+            "y": 45,
+            "rotation": 0,
+            "gid": "gge60",
+            "locked": false,
+            "pindot_x": 70,
+            "pindot_y": 45,
+            "path": "M 70 45 h -10",
+            "colour": "#880000",
+            "name_visible": false,
+            "name_x": 57,
+            "name_y": 48,
+            "name_rotation": 0,
+            "name": "C1",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 66,
+            "num_y": 44,
+            "num_rotation": 0,
+            "num": "4",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 63,
+            "dot_y": 45,
+            "clock_visible": false,
+            "clock_path": "M 60 42 L 57 45 L 60 48"
+          }
         },
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "1",
-          "x": 70,
-          "y": -10,
-          "rotation": 0,
-          "gid": "gge67",
-          "locked": false,
-          "pindot_x": 70,
-          "pindot_y": -10,
-          "path": "M 70 -10 h -10",
-          "colour": "#880000",
-          "name_visible": false,
-          "name_x": 57,
-          "name_y": -7,
-          "name_rotation": 0,
-          "name": "\u002B",
-          "name_text_anchor": "end",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": 66,
-          "num_y": -11,
-          "num_rotation": 0,
-          "num": "1",
-          "num_text_anchor": "start",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 63,
-          "dot_y": -10,
-          "clock_visible": false,
-          "clock_path": "M 60 -13 L 57 -10 L 60 -7",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "1",
+            "x": 70,
+            "y": -10,
+            "rotation": 0,
+            "gid": "gge67",
+            "locked": false,
+            "pindot_x": 70,
+            "pindot_y": -10,
+            "path": "M 70 -10 h -10",
+            "colour": "#880000",
+            "name_visible": false,
+            "name_x": 57,
+            "name_y": -7,
+            "name_rotation": 0,
+            "name": "\u002B",
+            "name_text_anchor": "end",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": 66,
+            "num_y": -11,
+            "num_rotation": 0,
+            "num": "1",
+            "num_text_anchor": "start",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 63,
+            "dot_y": -10,
+            "clock_visible": false,
+            "clock_path": "M 60 -13 L 57 -10 L 60 -7"
+          }
         },
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "2",
-          "x": -5,
-          "y": -10,
-          "rotation": 180,
-          "gid": "gge74",
-          "locked": false,
-          "pindot_x": -5,
-          "pindot_y": -10,
-          "path": "M -5 -10 h 10",
-          "colour": "#880000",
-          "name_visible": false,
-          "name_x": 8,
-          "name_y": -7,
-          "name_rotation": 0,
-          "name": "-",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": -1,
-          "num_y": -11,
-          "num_rotation": 0,
-          "num": "2",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 2,
-          "dot_y": -10,
-          "clock_visible": false,
-          "clock_path": "M 5 -7 L 8 -10 L 5 -13",
-          "type": "pin"
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "2",
+            "x": -5,
+            "y": -10,
+            "rotation": 180,
+            "gid": "gge74",
+            "locked": false,
+            "pindot_x": -5,
+            "pindot_y": -10,
+            "path": "M -5 -10 h 10",
+            "colour": "#880000",
+            "name_visible": false,
+            "name_x": 8,
+            "name_y": -7,
+            "name_rotation": 0,
+            "name": "-",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": -1,
+            "num_y": -11,
+            "num_rotation": 0,
+            "num": "2",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 2,
+            "dot_y": -10,
+            "clock_visible": false,
+            "clock_path": "M 5 -7 L 8 -10 L 5 -13"
+          }
         },
         {
-          "display": "show",
-          "electric": "Undefined",
-          "spicepin": "3",
-          "x": -5,
-          "y": 45,
-          "rotation": 180,
-          "gid": "gge81",
-          "locked": false,
-          "pindot_x": -5,
-          "pindot_y": 45,
-          "path": "M -5 45 h 10",
-          "colour": "#880000",
-          "name_visible": false,
-          "name_x": 8,
-          "name_y": 48,
-          "name_rotation": 0,
-          "name": "C2",
-          "name_text_anchor": "start",
-          "name_font": "",
-          "name_font_size": "",
-          "name_colour": "#0000FF",
-          "num_visible": true,
-          "num_x": -1,
-          "num_y": 44,
-          "num_rotation": 0,
-          "num": "3",
-          "num_text_anchor": "end",
-          "num_font": "",
-          "num_font_size": "",
-          "num_colour": "#0000FF",
-          "dot_visible": false,
-          "dot_x": 2,
-          "dot_y": 45,
-          "clock_visible": false,
-          "clock_path": "M 5 48 L 8 45 L 5 42",
-          "type": "pin"
-        },
-        {
-          "type": "polyline",
-          "points": [
-            {
-              "X": 27,
-              "Y": 4
-            },
-            {
-              "X": 19,
-              "Y": 12
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge89",
-          "locked": false
+          "type": "pin",
+          "feature": {
+            "display": "show",
+            "electric": "Undefined",
+            "spicepin": "3",
+            "x": -5,
+            "y": 45,
+            "rotation": 180,
+            "gid": "gge81",
+            "locked": false,
+            "pindot_x": -5,
+            "pindot_y": 45,
+            "path": "M -5 45 h 10",
+            "colour": "#880000",
+            "name_visible": false,
+            "name_x": 8,
+            "name_y": 48,
+            "name_rotation": 0,
+            "name": "C2",
+            "name_text_anchor": "start",
+            "name_font": "",
+            "name_font_size": "",
+            "name_colour": "#0000FF",
+            "num_visible": true,
+            "num_x": -1,
+            "num_y": 44,
+            "num_rotation": 0,
+            "num": "3",
+            "num_text_anchor": "end",
+            "num_font": "",
+            "num_font_size": "",
+            "num_colour": "#0000FF",
+            "dot_visible": false,
+            "dot_x": 2,
+            "dot_y": 45,
+            "clock_visible": false,
+            "clock_path": "M 5 48 L 8 45 L 5 42"
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 44,
-              "Y": -2
-            },
-            {
-              "X": 52,
-              "Y": 6
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge90",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 27,
+                "Y": 4
+              },
+              {
+                "X": 19,
+                "Y": 12
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge89",
+            "locked": false
+          }
+        },
+        {
+          "type": "polyline",
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 44,
+                "Y": -2
+              },
+              {
+                "X": 52,
+                "Y": 6
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge90",
+            "locked": false
+          }
         },
         {
           "type": "polygon",
-          "points": [
-            {
-              "X": 21,
-              "Y": -2
-            },
-            {
-              "X": 23,
-              "Y": 8
-            },
-            {
-              "X": 13,
-              "Y": 6
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "#880000",
-          "gid": "gge93",
-          "locked": false
+          "feature": {
+            "type": "polygon",
+            "points": [
+              {
+                "X": 21,
+                "Y": -2
+              },
+              {
+                "X": 23,
+                "Y": 8
+              },
+              {
+                "X": 13,
+                "Y": 6
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "#880000",
+            "gid": "gge93",
+            "locked": false
+          }
         },
         {
           "type": "polygon",
-          "points": [
-            {
-              "X": 38,
-              "Y": 4
-            },
-            {
-              "X": 48,
-              "Y": 2
-            },
-            {
-              "X": 46,
-              "Y": 12
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "#880000",
-          "gid": "gge94",
-          "locked": false
+          "feature": {
+            "type": "polygon",
+            "points": [
+              {
+                "X": 38,
+                "Y": 4
+              },
+              {
+                "X": 48,
+                "Y": 2
+              },
+              {
+                "X": 46,
+                "Y": 12
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "#880000",
+            "gid": "gge94",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 5,
-              "Y": -10
-            },
-            {
-              "X": 60,
-              "Y": 45
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge100",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 5,
+                "Y": -10
+              },
+              {
+                "X": 60,
+                "Y": 45
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge100",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 0,
-              "Y": 20
-            },
-            {
-              "X": 10,
-              "Y": 20
-            },
-            {
-              "X": 5,
-              "Y": 30
-            },
-            {
-              "X": 0,
-              "Y": 20
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "#880000",
-          "gid": "gge102",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 0,
+                "Y": 20
+              },
+              {
+                "X": 10,
+                "Y": 20
+              },
+              {
+                "X": 5,
+                "Y": 30
+              },
+              {
+                "X": 0,
+                "Y": 20
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "#880000",
+            "gid": "gge102",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 0,
-              "Y": 30
-            },
-            {
-              "X": 10,
-              "Y": 30
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge105",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 0,
+                "Y": 30
+              },
+              {
+                "X": 10,
+                "Y": 30
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge105",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 5,
-              "Y": -10
-            },
-            {
-              "X": 5,
-              "Y": 45
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge106",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 5,
+                "Y": -10
+              },
+              {
+                "X": 5,
+                "Y": 45
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge106",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 65,
-              "Y": 30
-            },
-            {
-              "X": 55,
-              "Y": 30
-            },
-            {
-              "X": 60,
-              "Y": 20
-            },
-            {
-              "X": 65,
-              "Y": 30
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "#880000",
-          "gid": "gge112",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 65,
+                "Y": 30
+              },
+              {
+                "X": 55,
+                "Y": 30
+              },
+              {
+                "X": 60,
+                "Y": 20
+              },
+              {
+                "X": 65,
+                "Y": 30
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "#880000",
+            "gid": "gge112",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 65,
-              "Y": 20
-            },
-            {
-              "X": 55,
-              "Y": 20
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge113",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 65,
+                "Y": 20
+              },
+              {
+                "X": 55,
+                "Y": 20
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge113",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 5,
-              "Y": 45
-            },
-            {
-              "X": 60,
-              "Y": -10
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge118",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 5,
+                "Y": 45
+              },
+              {
+                "X": 60,
+                "Y": -10
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge118",
+            "locked": false
+          }
         },
         {
           "type": "polyline",
-          "points": [
-            {
-              "X": 60,
-              "Y": -10
-            },
-            {
-              "X": 60,
-              "Y": 45
-            }
-          ],
-          "stroke_colour": "#880000",
-          "stroke_width": 1,
-          "stroke_style": "0",
-          "fill_colour": "none",
-          "gid": "gge120",
-          "locked": false
+          "feature": {
+            "type": "polyline",
+            "points": [
+              {
+                "X": 60,
+                "Y": -10
+              },
+              {
+                "X": 60,
+                "Y": 45
+              }
+            ],
+            "stroke_colour": "#880000",
+            "stroke_width": 1,
+            "stroke_style": "0",
+            "fill_colour": "none",
+            "gid": "gge120",
+            "locked": false
+          }
         }
       ]
     }
   ],
-  "footprint": [
-    {
-      "center_x": 3993.721,
-      "center_y": 3012.248,
-      "radius": 0.118,
-      "stroke_width": 0.2362,
-      "layer_id": "101",
-      "gid": "gge1275",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "layer_id": "12",
-      "net": "",
-      "path": "M 3998.7149 3017.2541 L 3998.7149 3015.7541 L 4004.2149 3015.7541 L 4004.2149 3017.2541 Z ",
-      "region_type": "solid",
-      "gid": "gge1258",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "12",
-      "net": "",
-      "path": "M 4002.2608 3019.3 L 4000.7608 3019.3 L 4000.7608 3013.8 L 4002.2608 3013.8 Z",
-      "region_type": "solid",
-      "gid": "gge1260",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "12",
-      "net": "",
-      "path": "M 4002.5039 3029.8958 L 4001.0039 3029.8958 L 4001.0039 3024.3958 L 4002.5039 3024.3958 Z ",
-      "region_type": "solid",
-      "gid": "gge1262",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 3997.2249 3027.602 L 3997.2249 3024.846 L 4000.0596 3024.846 L 4000.0596 3027.602 Z",
-      "region_type": "cutout",
-      "gid": "gge1267",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 3993.721 3027.602 L 3993.721 3024.846 L 3997.2643 3024.846 L 3997.2643 3027.602 Z",
-      "region_type": "solid",
-      "gid": "gge1268",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 3997.2249 3018.154 L 3997.2249 3015.398 L 4000.0596 3015.398 L 4000.0596 3018.154 Z",
-      "region_type": "cutout",
-      "gid": "gge1269",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 3993.721 3018.154 L 3993.721 3015.398 L 3997.2643 3015.398 L 3997.2643 3018.154 Z",
-      "region_type": "solid",
-      "gid": "gge1270",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4014.9414 3018.154 L 4014.9414 3015.398 L 4017.7761 3015.398 L 4017.7761 3018.154 Z",
-      "region_type": "cutout",
-      "gid": "gge1271",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4017.7367 3018.154 L 4017.7367 3015.398 L 4021.28 3015.398 L 4021.28 3018.154 Z",
-      "region_type": "solid",
-      "gid": "gge1272",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4014.9414 3027.602 L 4014.9414 3024.846 L 4017.7761 3024.846 L 4017.7761 3027.602 Z",
-      "region_type": "cutout",
-      "gid": "gge1273",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "100",
-      "net": "",
-      "path": "M 4017.7367 3027.602 L 4017.7367 3024.846 L 4021.28 3024.846 L 4021.28 3027.602 Z",
-      "region_type": "solid",
-      "gid": "gge1274",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "layer_id": "99",
-      "net": "",
-      "path": "M 4000.0196 3030.7515 L 4000.0196 3012.2476 L 4014.9802 3012.2476 L 4014.9802 3030.7515 Z",
-      "region_type": "solid",
-      "gid": "gge1237",
-      "teardrop": "",
-      "target_pad": "",
-      "target_wire": "",
-      "locked": false,
-      "type": "solidregion"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 3995.296,
-      "pos_y": 3016.776,
-      "width": 7.874,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "1",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 3991.3588,
-          "Y": 3014.6106
-        },
-        {
-          "X": 3999.2328,
-          "Y": 3014.6106
-        },
-        {
-          "X": 3999.2328,
-          "Y": 3018.9414
-        },
-        {
-          "X": 3991.3588,
-          "Y": 3018.9414
+  "footprint": {
+    "features": [
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 3993.721,
+          "center_y": 3012.248,
+          "radius": 0.118,
+          "stroke_width": 0.2362,
+          "layer_id": "101",
+          "gid": "gge1275",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
         }
-      ],
-      "rotation": 0,
-      "gid": "gge1171",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2000,
-      "hole_center": {
-        "X": 3995.2954,
-        "Y": 3016.776
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 3995.296,
-      "pos_y": 3026.224,
-      "width": 7.874,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "2",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 3991.3588,
-          "Y": 3024.059
-        },
-        {
-          "X": 3999.2328,
-          "Y": 3024.059
-        },
-        {
-          "X": 3999.2328,
-          "Y": 3028.3898
-        },
-        {
-          "X": 3991.3588,
-          "Y": 3028.3898
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "12",
+          "net": "",
+          "path": "M 3998.7149 3017.2541 L 3998.7149 3015.7541 L 4004.2149 3015.7541 L 4004.2149 3017.2541 Z ",
+          "region_type": "solid",
+          "gid": "gge1258",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge1172",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2000,
-      "hole_center": {
-        "X": 3995.2962,
-        "Y": 3026.2244
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.705,
-      "pos_y": 3016.776,
-      "width": 7.874,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "4",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4015.7682,
-          "Y": 3014.6106
-        },
-        {
-          "X": 4023.6422,
-          "Y": 3014.6106
-        },
-        {
-          "X": 4023.6422,
-          "Y": 3018.9414
-        },
-        {
-          "X": 4015.7682,
-          "Y": 3018.9414
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "12",
+          "net": "",
+          "path": "M 4002.2608 3019.3 L 4000.7608 3019.3 L 4000.7608 3013.8 L 4002.2608 3013.8 Z",
+          "region_type": "solid",
+          "gid": "gge1260",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge1173",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2000,
-      "hole_center": {
-        "X": 4019.7048,
-        "Y": 3016.776
       },
-      "type": "pad"
-    },
-    {
-      "shape": "RECT",
-      "pos_x": 4019.705,
-      "pos_y": 3026.224,
-      "width": 7.874,
-      "height": 4.3307,
-      "layer_id": "1",
-      "net": "",
-      "number": "3",
-      "hole_radius": "0",
-      "points": [
-        {
-          "X": 4015.7682,
-          "Y": 3024.0586
-        },
-        {
-          "X": 4023.6422,
-          "Y": 3024.0586
-        },
-        {
-          "X": 4023.6422,
-          "Y": 3028.3894
-        },
-        {
-          "X": 4015.7682,
-          "Y": 3028.3894
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "12",
+          "net": "",
+          "path": "M 4002.5039 3029.8958 L 4001.0039 3029.8958 L 4001.0039 3024.3958 L 4002.5039 3024.3958 Z ",
+          "region_type": "solid",
+          "gid": "gge1262",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "rotation": 0,
-      "gid": "gge1174",
-      "hole_length": 0,
-      "slot_points": "",
-      "plated": true,
-      "locked": false,
-      "paste_expansion": 0,
-      "solder_expansion": 0.2000,
-      "hole_center": {
-        "X": 4019.7056,
-        "Y": 3026.224
       },
-      "type": "pad"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4000.5055,
-          "Y": 3011.6575
-        },
-        {
-          "X": 4000.5055,
-          "Y": 3031.3423
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 3997.2249 3027.602 L 3997.2249 3024.846 L 4000.0596 3024.846 L 4000.0596 3027.602 Z",
+          "region_type": "cutout",
+          "gid": "gge1267",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1282",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 3999.2322,
-          "Y": 3029.0635
-        },
-        {
-          "X": 3999.2322,
-          "Y": 3031.3423
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 3993.721 3027.602 L 3993.721 3024.846 L 3997.2643 3024.846 L 3997.2643 3027.602 Z",
+          "region_type": "solid",
+          "gid": "gge1268",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1245",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 3999.2322,
-          "Y": 3019.6147
-        },
-        {
-          "X": 3999.2322,
-          "Y": 3023.3853
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 3997.2249 3018.154 L 3997.2249 3015.398 L 4000.0596 3015.398 L 4000.0596 3018.154 Z",
+          "region_type": "cutout",
+          "gid": "gge1269",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1244",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 3999.2322,
-          "Y": 3011.6575
-        },
-        {
-          "X": 3999.2322,
-          "Y": 3013.9365
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 3993.721 3018.154 L 3993.721 3015.398 L 3997.2643 3015.398 L 3997.2643 3018.154 Z",
+          "region_type": "solid",
+          "gid": "gge1270",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1243",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4015.7676,
-          "Y": 3029.0635
-        },
-        {
-          "X": 4015.7676,
-          "Y": 3031.3423
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4014.9414 3018.154 L 4014.9414 3015.398 L 4017.7761 3015.398 L 4017.7761 3018.154 Z",
+          "region_type": "cutout",
+          "gid": "gge1271",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1241",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4015.7676,
-          "Y": 3019.6147
-        },
-        {
-          "X": 4015.7676,
-          "Y": 3023.3853
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4017.7367 3018.154 L 4017.7367 3015.398 L 4021.28 3015.398 L 4021.28 3018.154 Z",
+          "region_type": "solid",
+          "gid": "gge1272",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1240",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4015.7676,
-          "Y": 3011.6575
-        },
-        {
-          "X": 4015.7676,
-          "Y": 3013.9365
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4014.9414 3027.602 L 4014.9414 3024.846 L 4017.7761 3024.846 L 4017.7761 3027.602 Z",
+          "region_type": "cutout",
+          "gid": "gge1273",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1239",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4002.7501,
-          "Y": 3018.5003
-        },
-        {
-          "X": 4002.7501,
-          "Y": 3014.5003
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "100",
+          "net": "",
+          "path": "M 4017.7367 3027.602 L 4017.7367 3024.846 L 4021.28 3024.846 L 4021.28 3027.602 Z",
+          "region_type": "solid",
+          "gid": "gge1274",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1232",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4000.7501,
-          "Y": 3016.5003
-        },
-        {
-          "X": 4004.7501,
-          "Y": 3016.5003
+      },
+      {
+        "type": "solidregion",
+        "feature": {
+          "layer_id": "99",
+          "net": "",
+          "path": "M 4000.0196 3030.7515 L 4000.0196 3012.2476 L 4014.9802 3012.2476 L 4014.9802 3030.7515 Z",
+          "region_type": "solid",
+          "gid": "gge1237",
+          "teardrop": "",
+          "target_pad": "",
+          "target_wire": "",
+          "locked": false
         }
-      ],
-      "gid": "gge1231",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4001.7501,
-          "Y": 3029.0003
-        },
-        {
-          "X": 4001.7501,
-          "Y": 3025.0003
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 3995.296,
+          "pos_y": 3016.776,
+          "width": 7.874,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "1",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 3991.3588,
+              "Y": 3014.6106
+            },
+            {
+              "X": 3999.2328,
+              "Y": 3014.6106
+            },
+            {
+              "X": 3999.2328,
+              "Y": 3018.9414
+            },
+            {
+              "X": 3991.3588,
+              "Y": 3018.9414
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge1171",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2000,
+          "hole_center": {
+            "X": 3995.2954,
+            "Y": 3016.776
+          }
         }
-      ],
-      "gid": "gge1228",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4015.7676,
-          "Y": 3011.6575
-        },
-        {
-          "X": 3999.2322,
-          "Y": 3011.6575
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 3995.296,
+          "pos_y": 3026.224,
+          "width": 7.874,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "2",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 3991.3588,
+              "Y": 3024.059
+            },
+            {
+              "X": 3999.2328,
+              "Y": 3024.059
+            },
+            {
+              "X": 3999.2328,
+              "Y": 3028.3898
+            },
+            {
+              "X": 3991.3588,
+              "Y": 3028.3898
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge1172",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2000,
+          "hole_center": {
+            "X": 3995.2962,
+            "Y": 3026.2244
+          }
         }
-      ],
-      "gid": "gge1227",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "points": [
-        {
-          "X": 4015.7676,
-          "Y": 3031.3423
-        },
-        {
-          "X": 3999.2322,
-          "Y": 3031.3423
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.705,
+          "pos_y": 3016.776,
+          "width": 7.874,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "4",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4015.7682,
+              "Y": 3014.6106
+            },
+            {
+              "X": 4023.6422,
+              "Y": 3014.6106
+            },
+            {
+              "X": 4023.6422,
+              "Y": 3018.9414
+            },
+            {
+              "X": 4015.7682,
+              "Y": 3018.9414
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge1173",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2000,
+          "hole_center": {
+            "X": 4019.7048,
+            "Y": 3016.776
+          }
         }
-      ],
-      "gid": "gge1226",
-      "locked": false,
-      "type": "track"
-    },
-    {
-      "center_x": 3995.5,
-      "center_y": 3012.5,
-      "radius": 0.707,
-      "stroke_width": 1,
-      "layer_id": "3",
-      "gid": "gge1175",
-      "locked": false,
-      "net": "",
-      "transform_arc": "",
-      "type": "circle"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "diameter": "M 4011.25 3019.0002 A 1.5 1.5 0 0 1 4011.25 3016.0002",
-      "helper_dots": "",
-      "gid": "gge1176",
-      "locked": false,
-      "type": "arc"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "diameter": "M 4011.25 3013.0002 A 1.5 1.5 0 0 1 4011.25 3016.0002",
-      "helper_dots": "",
-      "gid": "gge1177",
-      "locked": false,
-      "type": "arc"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "diameter": "M 4011.5 3030.0002 A 1.5 1.5 0 0 1 4011.5 3027.0002",
-      "helper_dots": "",
-      "gid": "gge1178",
-      "locked": false,
-      "type": "arc"
-    },
-    {
-      "stroke_width": 1,
-      "layer_id": "3",
-      "net": "",
-      "diameter": "M 4011.5 3024.0002 A 1.5 1.5 0 0 1 4011.5 3027.0002",
-      "helper_dots": "",
-      "gid": "gge1179",
-      "locked": false,
-      "type": "arc"
-    },
-    {
-      "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002218.5039\u0022,\u0022c_height\u0022:\u002227.559\u0022,\u0022c_rotation\u0022:\u00220,0,90\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00224007.5005,3021.5\u0022,\u0022uuid\u0022:\u00226ef4e732a59e44bcbac362674dd9511b\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022MBS_L4.7-W3.8-P2.40-LS7.0-TL\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00224000.0202 3030.752 4014.9808 3030.752 4014.9808 3027.6024 4017.2249 3027.6024 4017.343 3027.6024 4017.4217 3027.6024 4017.5398 3027.6024 4017.7761 3027.6024 4017.8154 3027.6024 4017.8942 3027.6024 4018.0517 3027.6024 4018.2485 3027.6024 4018.406 3027.6024 4018.4847 3027.6024 4018.7603 3027.6024 4021.28 3027.6024 4021.28 3024.8465 4018.7209 3024.8465 4018.4847 3024.8465 4018.3666 3024.8465 4018.2485 3024.8465 4018.0517 3024.8465 4017.8942 3024.8465 4017.8154 3024.8465 4017.7367 3024.8465 4017.5398 3024.8465 4017.3824 3024.8465 4017.3036 3024.8465 4017.2249 3024.8465 4014.9808 3024.8465 4014.9808 3018.1536 4017.2249 3018.1536 4017.343 3018.1536 4017.4217 3018.1536 4017.5398 3018.1536 4017.7761 3018.1536 4017.8154 3018.1536 4017.8942 3018.1536 4018.0517 3018.1536 4018.2485 3018.1536 4018.406 3018.1536 4018.4847 3018.1536 4018.7603 3018.1536 4021.28 3018.1536 4021.28 3015.3977 4018.7209 3015.3977 4018.4847 3015.3977 4018.3666 3015.3977 4018.2485 3015.3977 4018.0517 3015.3977 4017.8942 3015.3977 4017.8154 3015.3977 4017.7367 3015.3977 4017.5398 3015.3977 4017.3824 3015.3977 4017.3036 3015.3977 4017.2249 3015.3977 4014.9808 3015.3977 4014.9808 3012.2481 4000.0202 3012.2481 4000.0202 3015.3977 3997.7367 3015.3977 3997.658 3015.3977 3997.5793 3015.3977 3997.4611 3015.3977 3997.2249 3015.3977 3997.1856 3015.3977 3997.1068 3015.3977 3996.9493 3015.3977 3996.7525 3015.3977 3996.595 3015.3977 3996.5163 3015.3977 3996.2407 3015.3977 3993.721 3015.3977 3993.721 3018.1536 3996.28 3018.1536 3996.5163 3018.1536 3996.6344 3018.1536 3996.7525 3018.1536 3996.9493 3018.1536 3997.1068 3018.1536 3997.1856 3018.1536 3997.2643 3018.1536 3997.4611 3018.1536 3997.6186 3018.1536 3997.6974 3018.1536 3997.7367 3018.1536 4000.0202 3018.1536 4000.0202 3024.8465 3997.7367 3024.8465 3997.658 3024.8465 3997.5793 3024.8465 3997.4611 3024.8465 3997.2249 3024.8465 3997.1856 3024.8465 3997.1068 3024.8465 3996.9493 3024.8465 3996.7525 3024.8465 3996.595 3024.8465 3996.5163 3024.8465 3996.2407 3024.8465 3993.721 3024.8465 3993.721 3027.6024 3996.28 3027.6024 3996.5163 3027.6024 3996.6344 3027.6024 3996.7525 3027.6024 3996.9493 3027.6024 3997.1068 3027.6024 3997.1856 3027.6024 3997.2643 3027.6024 3997.4611 3027.6024 3997.6186 3027.6024 3997.6974 3027.6024 3997.7367 3027.6024 4000.0202 3027.6024 4000.0202 3030.752 4000.0202 3030.752\u0022}}]}",
-      "type": "svgnode"
-    }
-  ]
+      },
+      {
+        "type": "pad",
+        "feature": {
+          "shape": "RECT",
+          "pos_x": 4019.705,
+          "pos_y": 3026.224,
+          "width": 7.874,
+          "height": 4.3307,
+          "layer_id": "1",
+          "net": "",
+          "number": "3",
+          "hole_radius": "0",
+          "points": [
+            {
+              "X": 4015.7682,
+              "Y": 3024.0586
+            },
+            {
+              "X": 4023.6422,
+              "Y": 3024.0586
+            },
+            {
+              "X": 4023.6422,
+              "Y": 3028.3894
+            },
+            {
+              "X": 4015.7682,
+              "Y": 3028.3894
+            }
+          ],
+          "rotation": 0,
+          "gid": "gge1174",
+          "hole_length": 0,
+          "slot_points": "",
+          "plated": true,
+          "locked": false,
+          "paste_expansion": 0,
+          "solder_expansion": 0.2000,
+          "hole_center": {
+            "X": 4019.7056,
+            "Y": 3026.224
+          }
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4000.5055,
+              "Y": 3011.6575
+            },
+            {
+              "X": 4000.5055,
+              "Y": 3031.3423
+            }
+          ],
+          "gid": "gge1282",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 3999.2322,
+              "Y": 3029.0635
+            },
+            {
+              "X": 3999.2322,
+              "Y": 3031.3423
+            }
+          ],
+          "gid": "gge1245",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 3999.2322,
+              "Y": 3019.6147
+            },
+            {
+              "X": 3999.2322,
+              "Y": 3023.3853
+            }
+          ],
+          "gid": "gge1244",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 3999.2322,
+              "Y": 3011.6575
+            },
+            {
+              "X": 3999.2322,
+              "Y": 3013.9365
+            }
+          ],
+          "gid": "gge1243",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4015.7676,
+              "Y": 3029.0635
+            },
+            {
+              "X": 4015.7676,
+              "Y": 3031.3423
+            }
+          ],
+          "gid": "gge1241",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4015.7676,
+              "Y": 3019.6147
+            },
+            {
+              "X": 4015.7676,
+              "Y": 3023.3853
+            }
+          ],
+          "gid": "gge1240",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4015.7676,
+              "Y": 3011.6575
+            },
+            {
+              "X": 4015.7676,
+              "Y": 3013.9365
+            }
+          ],
+          "gid": "gge1239",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4002.7501,
+              "Y": 3018.5003
+            },
+            {
+              "X": 4002.7501,
+              "Y": 3014.5003
+            }
+          ],
+          "gid": "gge1232",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4000.7501,
+              "Y": 3016.5003
+            },
+            {
+              "X": 4004.7501,
+              "Y": 3016.5003
+            }
+          ],
+          "gid": "gge1231",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4001.7501,
+              "Y": 3029.0003
+            },
+            {
+              "X": 4001.7501,
+              "Y": 3025.0003
+            }
+          ],
+          "gid": "gge1228",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4015.7676,
+              "Y": 3011.6575
+            },
+            {
+              "X": 3999.2322,
+              "Y": 3011.6575
+            }
+          ],
+          "gid": "gge1227",
+          "locked": false
+        }
+      },
+      {
+        "type": "track",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "points": [
+            {
+              "X": 4015.7676,
+              "Y": 3031.3423
+            },
+            {
+              "X": 3999.2322,
+              "Y": 3031.3423
+            }
+          ],
+          "gid": "gge1226",
+          "locked": false
+        }
+      },
+      {
+        "type": "circle",
+        "feature": {
+          "center_x": 3995.5,
+          "center_y": 3012.5,
+          "radius": 0.707,
+          "stroke_width": 1,
+          "layer_id": "3",
+          "gid": "gge1175",
+          "locked": false,
+          "net": "",
+          "transform_arc": ""
+        }
+      },
+      {
+        "type": "arc",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "path": "M 4011.25 3019.0002 A 1.5 1.5 0 0 1 4011.25 3016.0002",
+          "helper_dots": "",
+          "gid": "gge1176",
+          "locked": false
+        }
+      },
+      {
+        "type": "arc",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "path": "M 4011.25 3013.0002 A 1.5 1.5 0 0 1 4011.25 3016.0002",
+          "helper_dots": "",
+          "gid": "gge1177",
+          "locked": false
+        }
+      },
+      {
+        "type": "arc",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "path": "M 4011.5 3030.0002 A 1.5 1.5 0 0 1 4011.5 3027.0002",
+          "helper_dots": "",
+          "gid": "gge1178",
+          "locked": false
+        }
+      },
+      {
+        "type": "arc",
+        "feature": {
+          "stroke_width": 1,
+          "layer_id": "3",
+          "net": "",
+          "path": "M 4011.5 3024.0002 A 1.5 1.5 0 0 1 4011.5 3027.0002",
+          "helper_dots": "",
+          "gid": "gge1179",
+          "locked": false
+        }
+      },
+      {
+        "type": "svgnode",
+        "feature": {
+          "svg_json": "{\u0022gId\u0022:\u0022g1_outline\u0022,\u0022nodeName\u0022:\u0022g\u0022,\u0022nodeType\u0022:1,\u0022layerid\u0022:\u002219\u0022,\u0022attrs\u0022:{\u0022c_width\u0022:\u002218.5039\u0022,\u0022c_height\u0022:\u002227.559\u0022,\u0022c_rotation\u0022:\u00220,0,90\u0022,\u0022z\u0022:\u00220\u0022,\u0022c_origin\u0022:\u00224007.5005,3021.5\u0022,\u0022uuid\u0022:\u00226ef4e732a59e44bcbac362674dd9511b\u0022,\u0022c_etype\u0022:\u0022outline3D\u0022,\u0022id\u0022:\u0022g1_outline\u0022,\u0022title\u0022:\u0022MBS_L4.7-W3.8-P2.40-LS7.0-TL\u0022,\u0022layerid\u0022:\u002219\u0022,\u0022transform\u0022:\u0022scale(1) translate(0, 0)\u0022},\u0022childNodes\u0022:[{\u0022gId\u0022:\u0022g1_outline_line0\u0022,\u0022nodeName\u0022:\u0022polyline\u0022,\u0022nodeType\u0022:1,\u0022attrs\u0022:{\u0022fill\u0022:\u0022none\u0022,\u0022id\u0022:\u0022g1_outline_line0\u0022,\u0022c_shapetype\u0022:\u0022line\u0022,\u0022points\u0022:\u00224000.0202 3030.752 4014.9808 3030.752 4014.9808 3027.6024 4017.2249 3027.6024 4017.343 3027.6024 4017.4217 3027.6024 4017.5398 3027.6024 4017.7761 3027.6024 4017.8154 3027.6024 4017.8942 3027.6024 4018.0517 3027.6024 4018.2485 3027.6024 4018.406 3027.6024 4018.4847 3027.6024 4018.7603 3027.6024 4021.28 3027.6024 4021.28 3024.8465 4018.7209 3024.8465 4018.4847 3024.8465 4018.3666 3024.8465 4018.2485 3024.8465 4018.0517 3024.8465 4017.8942 3024.8465 4017.8154 3024.8465 4017.7367 3024.8465 4017.5398 3024.8465 4017.3824 3024.8465 4017.3036 3024.8465 4017.2249 3024.8465 4014.9808 3024.8465 4014.9808 3018.1536 4017.2249 3018.1536 4017.343 3018.1536 4017.4217 3018.1536 4017.5398 3018.1536 4017.7761 3018.1536 4017.8154 3018.1536 4017.8942 3018.1536 4018.0517 3018.1536 4018.2485 3018.1536 4018.406 3018.1536 4018.4847 3018.1536 4018.7603 3018.1536 4021.28 3018.1536 4021.28 3015.3977 4018.7209 3015.3977 4018.4847 3015.3977 4018.3666 3015.3977 4018.2485 3015.3977 4018.0517 3015.3977 4017.8942 3015.3977 4017.8154 3015.3977 4017.7367 3015.3977 4017.5398 3015.3977 4017.3824 3015.3977 4017.3036 3015.3977 4017.2249 3015.3977 4014.9808 3015.3977 4014.9808 3012.2481 4000.0202 3012.2481 4000.0202 3015.3977 3997.7367 3015.3977 3997.658 3015.3977 3997.5793 3015.3977 3997.4611 3015.3977 3997.2249 3015.3977 3997.1856 3015.3977 3997.1068 3015.3977 3996.9493 3015.3977 3996.7525 3015.3977 3996.595 3015.3977 3996.5163 3015.3977 3996.2407 3015.3977 3993.721 3015.3977 3993.721 3018.1536 3996.28 3018.1536 3996.5163 3018.1536 3996.6344 3018.1536 3996.7525 3018.1536 3996.9493 3018.1536 3997.1068 3018.1536 3997.1856 3018.1536 3997.2643 3018.1536 3997.4611 3018.1536 3997.6186 3018.1536 3997.6974 3018.1536 3997.7367 3018.1536 4000.0202 3018.1536 4000.0202 3024.8465 3997.7367 3024.8465 3997.658 3024.8465 3997.5793 3024.8465 3997.4611 3024.8465 3997.2249 3024.8465 3997.1856 3024.8465 3997.1068 3024.8465 3996.9493 3024.8465 3996.7525 3024.8465 3996.595 3024.8465 3996.5163 3024.8465 3996.2407 3024.8465 3993.721 3024.8465 3993.721 3027.6024 3996.28 3027.6024 3996.5163 3027.6024 3996.6344 3027.6024 3996.7525 3027.6024 3996.9493 3027.6024 3997.1068 3027.6024 3997.1856 3027.6024 3997.2643 3027.6024 3997.4611 3027.6024 3997.6186 3027.6024 3997.6974 3027.6024 3997.7367 3027.6024 4000.0202 3027.6024 4000.0202 3030.752 4000.0202 3030.752\u0022}}]}"
+        }
+      }
+    ]
+  }
 }
