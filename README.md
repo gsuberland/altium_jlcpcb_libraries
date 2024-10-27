@@ -74,7 +74,7 @@ Each capacitor has the following parameters populated if they are present in the
 
 Capacitor footprints are named `CAP-[SIZE]`, e.g. `CAP-0805`.
 
-As of the 2024-10-27 release, capacitors manufactured by Samsung have additional parametric data for DC bias derating and impedance at various frequencies.
+As of the 2024-10-27 release, capacitors manufactured by Samsung have additional parametric data for DC bias derating and impedance at various frequencies. This is currently limited to basic parts due to the volume of requests required to retrieve this data.
 
 ### Inductors
 
