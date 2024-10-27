@@ -1,6 +1,6 @@
 # Altium Libraries for JLCPCB Parts
 
-This repository contains automatically generated schematic libraries for a range of parts in JLCPCB's catalogue. In total this repository contains over 60000 parts.
+This repository contains automatically generated schematic libraries for a range of parts in JLCPCB's catalogue. In total this repository contains over 75000 parts.
 
 ![preview](preview.png)
 
@@ -8,12 +8,12 @@ Component information is pulled from JLCPCB's website, LCSC's metadata, and [yaq
 
 The current library files are:
 
- - `jlcpcb_resistors_basic.schlib` - All standard sized SMD chip package resistors in the JLCPCB basic parts catalogue (291 parts)
- - `jlcpcb_capacitors_basic.schlib` - All standard sized SMD chip package capacitors in the JLCPCB basic parts catalogue (134 parts)
- - `jlcpcb_inductors_basic.schlib` - All standard sized SMD chip package inductors in the JLCPCB basic parts catalogue (13 parts)
- - `jlcpcb_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for resistors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (45185 parts total)
- - `jlcpcb_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (11079 parts total)
- - `jlcpcb_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for inductors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (4054 parts total)
+ - `jlcpcb_2024_10_resistors_basic.schlib` - All standard sized SMD chip package resistors in the JLCPCB basic parts catalogue (182 parts)
+ - `jlcpcb_2024_10_capacitors_basic.schlib` - All standard sized SMD chip package capacitors in the JLCPCB basic parts catalogue (88 parts)
+ - `jlcpcb_2024_10_inductors_basic.schlib` - All standard sized SMD chip package inductors in the JLCPCB basic parts catalogue (2 parts)
+ - `jlcpcb_2024_10_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for resistors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (55269 parts total)
+ - `jlcpcb_2024_10_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (15273 parts total)
+ - `jlcpcb_2024_10_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for inductors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (5045 parts total)
 
 Standard sized SMD chip packages included in these libraries are: 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910.
 
@@ -60,6 +60,8 @@ Each resistor has the following parameters populated if they are present in the 
 
 Resistor footprints are named `RES-[SIZE]`, e.g. `RES-0805`.
 
+As of the 2024-10-27 release, resistor symbols have an IEC mode.
+
 ### Capacitors
 
 Each capacitor has the following parameters populated if they are present in the JLCPCB/LCSC parametric data, in addition to the common parameters:
@@ -71,6 +73,8 @@ Each capacitor has the following parameters populated if they are present in the
 - Temperature Rating
 
 Capacitor footprints are named `CAP-[SIZE]`, e.g. `CAP-0805`.
+
+As of the 2024-10-27 release, capacitors manufactured by Samsung have additional parametric data for DC bias derating and impedance at various frequencies.
 
 ### Inductors
 
