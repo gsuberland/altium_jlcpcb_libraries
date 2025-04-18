@@ -8,14 +8,16 @@ Component information is pulled from JLCPCB's website, LCSC's metadata, and [yaq
 
 The current library files are:
 
- - `jlcpcb_2024_10_resistors_basic.schlib` - All standard sized SMD chip package resistors in the JLCPCB basic parts catalogue (182 parts)
- - `jlcpcb_2024_10_capacitors_basic.schlib` - All standard sized SMD chip package capacitors in the JLCPCB basic parts catalogue (88 parts)
- - `jlcpcb_2024_10_inductors_basic.schlib` - All standard sized SMD chip package inductors in the JLCPCB basic parts catalogue (2 parts)
- - `jlcpcb_2024_10_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for resistors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (55269 parts total)
- - `jlcpcb_2024_10_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (15273 parts total)
- - `jlcpcb_2024_10_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for inductors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (5045 parts total)
+ - `jlcpcb_2025_04_resistors_basic.schlib` - All standard sized SMD chip package resistors in the JLCPCB basic parts catalogue (182 parts)
+ - `jlcpcb_2025_04_capacitors_basic.schlib` - All standard sized SMD chip package capacitors in the JLCPCB basic parts catalogue (88 parts)
+ - `jlcpcb_2025_04_inductors_basic.schlib` - All standard sized SMD chip package inductors in the JLCPCB basic parts catalogue (2 parts)
+ - `jlcpcb_2025_04_ferrites_basic.schlib` - All standard sized SMD chip package ferrites in the JLCPCB basic parts catalogue (3 parts)
+ - `jlcpcb_2025_04_resistors_extended.7z` - Archive containing schematic library files (organised by package size) for resistors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (55451 parts total)
+ - `jlcpcb_2025_04_capacitors_extended.7z` - Archive containing schematic library files (organised by package size) for MLCC capacitors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (15361 parts total)
+ - `jlcpcb_2025_04_inductors_extended.7z` - Archive containing schematic library files (organised by package size) for inductors in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (5047 parts total)
+ - `jlcpcb_2025_04_ferrites_extended.7z` - Archive containing schematic library files (organised by package size) for ferrite beads in standard sized SMD chip packages from the in-stock JLCPCB extended parts catalogue (2384 parts total)
 
-Standard sized SMD chip packages included in these libraries are: 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2910.
+Standard sized SMD chip packages included in these libraries are: 01005, 0201, 0402, 0603, 0805, 1008, 1206, 1210, 1806, 1812, 2010, 2512, and 2920.
 
 Extended parts libraries are split up into separate SchLib files per package size because a combined SchLib file is too large and takes more than an hour to open.
 
@@ -90,6 +92,21 @@ Each inductor has the following parameters populated if they are present in the 
 
 Inductor footprints are named `IND-[SIZE]`, e.g. `IND-0805`.
 
+Prior to the 2025-04-18 release, inductors were incorrectly marked with a category of "Capacitors - MLCC" and had their inductance parameter erroneously listed as capacitance. This has now been fixed.
+
+### Ferrites
+
+Each ferrite bead has the following parameters populated if they are present in the JLCPCB/LCSC parametric data, in addition to the common parameters:
+
+- Impedance @ Frequency
+- Tolerance
+- Rated Current
+- DC Resistance
+
+Ferrite footprints are named `FB-[SIZE]`, e.g. `FB-0805`.
+
+Ferrites were added in the 2025-04-18 release.
+
 ## Footprints
 
 Each component references a footprint named with the format `TYPE-SIZE`, e.g. `RES-0603` or `IND-0805`. These footprint references are configured to be sourced from any library, so you can create an appropriate footprint with the correct name in any PcbLib in your project and Altium will automatically pick it up and use it for every single part of that type and size.
@@ -115,7 +132,7 @@ Providing standardised footprints in this repository would likely lead to a situ
 
 Creating the footprints yourself is not as much of a chore as you might initially think. Altium's [IPC Compliant Footprint Wizard](https://www.altium.com/documentation/altium-designer/footprintwizard-dlg-form-footprintwizardipc-compliant-footprint-wizard-ad) will automatically generate a footprint for you (complete with STEP model) based on a specified set of dimensions, and you can find the correct dimensions for each SMD passive package size online.
 
-I would recommend starting with the most common part sizes. For example, creating just the `RES-0402`, `RES-0603`, `RES-0805`, `CAP-0402`, `CAP-0603`, and `CAP-0805` footprints covers the entire basic library and 70% of the extended libraries (>38000 components) at time of writing. You can later create footprints for other component sizes, as and when you need them.
+I would recommend starting with the most common part sizes. For example, creating just the 0402, 0603, and 0805 footprints for each part type covers the entire basic library and 70% of the extended libraries (>38000 components) at time of writing. You can later create footprints for other component sizes, as and when you need them.
 
 Ten minutes spent creating these footprints saves you roughly 1000 hours of data entry, had you created all of these parts libraries by hand, so it's not a bad trade-off ;)
 
