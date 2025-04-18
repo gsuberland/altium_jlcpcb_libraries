@@ -120,7 +120,7 @@ Here are some of the issues and variables that would need to be contended with f
   - The size and shape of the keepout region is specific to the rules set by the designer.
   - The types of objects that are disallowed (e.g. traces, pours, vias, etc.) may vary.
   - The rules for keepout regions may be different for different component sizes. For example, you might choose to disallow traces under packages smaller than 1206, but allow them for larger packages.
-  - The rules for keepout regions may be different for different component types. For example, you might be OK with having vias inside the 
+  - The rules for keepout regions may be different for different component types. For example, you might be OK with having vias under a capacitor, for minimum loop area when decoupling, but not under other component types.
 - There is no standard height range for SMD chip components, and no package height information is included with the JLCPCB/LCSC parametric data, so the footprint height metadata and generated STEP model may not accurately reflect the true height of the package.
 - Altium's [IPC Compliant Footprint Wizard](https://www.altium.com/documentation/altium-designer/footprintwizard-dlg-form-footprintwizardipc-compliant-footprint-wizard-ad) does not necessarily always produce ideal footprints:
   - In some cases it may tend towards creating slightly oversized pads. I have personally run into cases where JLCPCB's engineers have had to manually reduce the footprint size for manufacturability.
